@@ -25,7 +25,7 @@ Working together as a team is critical for your success on this project. Conflic
 
     - Reply ASAP to text messages
     - Meet every Sundays at 2pm in person to catch up and discuss
-    - Meet every Tuesdays at 5pm in person or on zoom
+    - Meet every Tuesdays at 6:30pm in person or on zoom
 
 4. How will we communicate and work with our client?
 
