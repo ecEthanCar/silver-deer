@@ -47,7 +47,7 @@ Working together as a team is critical for your success on this project. Conflic
 
 8. What are our procedures for re-visiting this contract?
 
-    TODO
+    We will re-visit the contract when the team members have a conflict, disagreement or feeling of inefficiency by going over the contract and discuss whether or how we should adjust the contract. If more than 2 members agree with the adjustment or terms, then we adjust it.
 
 9. What else do we want to include in this contract? (Think about a *fun* clause... not everything is always about work! Sometimes you need to celebrate your accomplishments!)
 
