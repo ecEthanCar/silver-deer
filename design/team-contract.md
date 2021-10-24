@@ -43,7 +43,9 @@ Working together as a team is critical for your success on this project. Conflic
 
 7. What do we do when we disagree? What approach to conflict to we all agree to uphold?
 
-    TODO
+    - Confront disagreements/conflicts
+    - Conflicts should be resolved through mature and productive conversation where each person listens and acknowledges each others' perspective
+    - If it is a design/preference conflict, majority rules
 
 8. What are our procedures for re-visiting this contract?
 
