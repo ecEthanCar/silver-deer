@@ -16,11 +16,14 @@ Working together as a team is critical for your success on this project. Conflic
 
 2. What are our “ground rules”? (Don't make an exhaustive list—stick with just a few.)
 
-    TODO
+    - finish before the deadline, not the flex deadline
+    - message other people when you are working on one thing
+    - Add comments near changes you made, and commit messages should be clear and include where you made changes
+
 
 3. By what means and how frequently will we meet or communicate?
 
-    TODO
+    - Reply ASAP
 
 4. How will we communicate and work with our client?
 
