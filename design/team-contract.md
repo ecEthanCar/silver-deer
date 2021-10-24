@@ -19,7 +19,7 @@ Working together as a team is critical for your success on this project. Conflic
     - finish before the deadline, not the flex deadline
     - message other people when you are working on one thing
     - Add comments near changes you made, and commit messages should be clear and include where you made changes
-
+    - If you want to work on our own, ask first. Wait before a response before making the edit (excluding crunch time).
 
 3. By what means and how frequently will we meet or communicate?
 
