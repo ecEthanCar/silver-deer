@@ -35,11 +35,13 @@ Working together as a team is critical for your success on this project. Conflic
 
 5. What roles will we create? Include a description of exactly what each role is responsible for. (**NO "CODER" OR "DESIGNER" ROLES!**)
 
+    >These roles can switch, we can have everyone do the same role
+    
     - Checker: Once the bulk of the code is complete, this person will skim the document for errors and notify the person who committed the edit.
     - Mediator: reminds everyone about meeting times via the group chat.
     - Note-taker: takes notes during client interviews.
-    - Testers: person who preforms user tests.
-    
+    - Testers: persons who preforms user tests.
+
 
 6. How will we hold ourselves and one another accountable? What (exactly) will we say to a team member who appears not to be contributing equally? To a team member who fails to deliver what was promised?
 
