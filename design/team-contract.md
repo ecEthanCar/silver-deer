@@ -35,7 +35,11 @@ Working together as a team is critical for your success on this project. Conflic
 
 5. What roles will we create? Include a description of exactly what each role is responsible for. (**NO "CODER" OR "DESIGNER" ROLES!**)
 
-    TODO
+    - Checker: Once the bulk of the code is complete, this person will skim the document for errors and notify the person who committed the edit.
+    - Mediator: reminds everyone about meeting times via the group chat.
+    - Note-taker: takes notes during client interviews.
+    - Testers: person who preforms user tests.
+    
 
 6. How will we hold ourselves and one another accountable? What (exactly) will we say to a team member who appears not to be contributing equally? To a team member who fails to deliver what was promised?
 
@@ -44,11 +48,13 @@ Working together as a team is critical for your success on this project. Conflic
 
 7. What do we do when we disagree? What approach to conflict to we all agree to uphold?
 
-    TODO
+    - Confront disagreements/conflicts
+    - Conflicts should be resolved through mature and productive conversation where each person listens and acknowledges each others' perspective
+    - If it is a design/preference conflict, majority rules
 
 8. What are our procedures for re-visiting this contract?
 
-    TODO
+    We will re-visit the contract when the team members have a conflict, disagreement or feeling of inefficiency by going over the contract and discuss whether or how we should adjust the contract. If more than 2 members agree with the adjustment or terms, then we adjust it.
 
 9. What else do we want to include in this contract? (Think about a *fun* clause... not everything is always about work! Sometimes you need to celebrate your accomplishments!)
 
