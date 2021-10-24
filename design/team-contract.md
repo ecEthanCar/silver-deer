@@ -6,11 +6,13 @@ Working together as a team is critical for your success on this project. Conflic
 
 ## Contract
 
-**Your group contract/working agreement should probably include these elements. Feel free to remoce or add other terms, too.**
+**Your group contract/working agreement should probably include these elements. Feel free to remove or add other terms, too.**
 
 1. To what goals do we all commit?
 
     - Everyone works equally on the project.
+    - Everyone must commit to the same design and layout theme.
+    - We will prioritize the client's needs (within reason).
 
 2. What are our “ground rules”? (Don't make an exhaustive list—stick with just a few.)
 
