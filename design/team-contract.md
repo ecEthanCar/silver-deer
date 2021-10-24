@@ -10,7 +10,7 @@ Working together as a team is critical for your success on this project. Conflic
 
 1. To what goals do we all commit?
 
-    TODO
+    - Everyone works equally on the project.
 
 2. What are our “ground rules”? (Don't make an exhaustive list—stick with just a few.)
 
