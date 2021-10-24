@@ -30,13 +30,12 @@ Working together as a team is critical for your success on this project. Conflic
 4. How will we communicate and work with our client?
 
     - zoom share screen
-    - respect client's needs
-    - share google documents for notes taking when we communicate with the client
+    - respect client's needs.
 
 5. What roles will we create? Include a description of exactly what each role is responsible for. (**NO "CODER" OR "DESIGNER" ROLES!**)
 
     >These roles can switch, we can have everyone do the same role
-    
+
     - Checker: Once the bulk of the code is complete, this person will skim the document for errors and notify the person who committed the edit.
     - Mediator: reminds everyone about meeting times via the group chat.
     - Note-taker: takes notes during client interviews.
@@ -60,7 +59,7 @@ Working together as a team is critical for your success on this project. Conflic
 
 9. What else do we want to include in this contract? (Think about a *fun* clause... not everything is always about work! Sometimes you need to celebrate your accomplishments!)
 
-    TODO
+    - Expect exceptions to this contract throughout the project.
 
 
 ## Using your Contract
