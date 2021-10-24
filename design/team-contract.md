@@ -25,11 +25,13 @@ Working together as a team is critical for your success on this project. Conflic
 
     - Reply ASAP to text messages
     - Meet every Sundays at 2pm in person to catch up and discuss
-    - Meet every Tuesdays at 5pm in person or on zoom 
+    - Meet every Tuesdays at 5pm in person or on zoom
 
 4. How will we communicate and work with our client?
 
-    TODO
+    - zoom share screen
+    - respect client's needs
+    - share google documents for notes taking when we communicate with the client
 
 5. What roles will we create? Include a description of exactly what each role is responsible for. (**NO "CODER" OR "DESIGNER" ROLES!**)
 
