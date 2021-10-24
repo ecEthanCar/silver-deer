@@ -39,7 +39,8 @@ Working together as a team is critical for your success on this project. Conflic
 
 6. How will we hold ourselves and one another accountable? What (exactly) will we say to a team member who appears not to be contributing equally? To a team member who fails to deliver what was promised?
 
-    TODO
+    The commit history will be the place to see everyone's contribution of coding.
+    If a team member fails to deliver what was promised, he/she must finish that part later. If that is after the ddl, other members should be all working together to prioritize finishing by the ddl first, and that person should do more things in the next milestone.
 
 7. What do we do when we disagree? What approach to conflict to we all agree to uphold?
 
