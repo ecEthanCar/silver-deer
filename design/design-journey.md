@@ -97,37 +97,44 @@ A website that can keep their user engaged, even if they don’t want to actuall
 - Goal C: Follow social media (facebook, insta).
 
 
-
 ## First Client Meeting Minutes/Notes (Milestone 1)
 > Include your notes/minutes from the client meeting.
 
-TODO
+- Focus on nature education page
+- Goal: engage public and share resources and research with general public
+- Audience are professionals and educators, teacher, high schoolers, diverse
+- Feature newest course at the top
+- Possible intro video on landing page
+- Include course principles
+- Current page is too much → change so that it is easy to read, attract more people
+- Redesign course description page
+- Attract people to register and check other course registration pages
+
 
 # Plan/Schedule (Milestone 1)
 > Make a plan of when you will complete all parts of this assignment.
 > This plan is for your team. There is no required format. Format it so that it works for you!
 ()
 
--m1:
--  deadline-Wed 10/27 11:59pm
--  plan: 10/26
+- m1:
+    - deadline-Wed 10/27 11:59pm
+    - plan: 10/26
 
--m2:
--  deadline-Wed 11/17 11:59pm
--  plan: 11/16 11:59pm
+- m2:
+    - deadline-Wed 11/17 11:59pm
+    - plan: 11/16 11:59pm
 
--final:
--  deadline-Wed 12/1 11:59pm
--  plan: 11/30 11:59pm
+- final:
+    - deadline-Wed 12/1 11:59pm
+    - plan: 11/30 11:59pm
 
--lab13 project show:
--  deadline-Fri 12/3
--  plan: practice on Tuesday regular meeting
+- lab13 project show:
+    - deadline-Fri 12/3
+    - plan: practice on Tuesday regular meeting
 
--peer Evaluations:
--  deadline-Fri 12/3 11:59pm
--  plan: individually before deadline
-
+- peer evaluations:
+    - deadline-Fri 12/3 11:59pm
+    - plan: individually before deadline
 
 
 # Site Design/Plan (Milestone 2)
