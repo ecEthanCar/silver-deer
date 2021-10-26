@@ -116,21 +116,25 @@ A website that can keep their user engaged, even if they don’t want to actuall
 > This plan is for your team. There is no required format. Format it so that it works for you!
 ()
 
-m1:
-  deadline-Wed 10/27 11:59pm
-  plan: 10/26
-m2:
-  deadline-Wed 11/17 11:59pm
-  plan: 11/16 11:59pm
-final:
-  deadline-Wed 12/1 11:59pm
-  plan: 11/30 11:59pm
-lab13 project show:
-  deadline-Fri 12/3
-  plan: practice on Tuesday regular meeting
-peer Evaluations:
-  deadline-Fri 12/3 11:59pm
-  plan: individually before deadline
+-m1:
+-  deadline-Wed 10/27 11:59pm
+-  plan: 10/26
+
+-m2:
+-  deadline-Wed 11/17 11:59pm
+-  plan: 11/16 11:59pm
+
+-final:
+-  deadline-Wed 12/1 11:59pm
+-  plan: 11/30 11:59pm
+
+-lab13 project show:
+-  deadline-Fri 12/3
+-  plan: practice on Tuesday regular meeting
+
+-peer Evaluations:
+-  deadline-Fri 12/3 11:59pm
+-  plan: individually before deadline
 
 
 # Site Design/Plan (Milestone 2)
