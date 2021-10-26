@@ -12,22 +12,19 @@
 ## Client Questionnaire (Milestone 1)
 
 1. Describe your organization and its purpose.
-
 - Purpose 1: Engage the public. Let them know resources they have
 - Purpose 2: Attract people to take course
 
 
 2. What makes your organization and its services special or unique?
-
 - Apply research to teaching → based on cutting edge research
-  - Course updated very often
-  - Researchers and professor from cornell
+- Course updated very often
+- Researchers and professor from cornell
 - Participants are a diverse, global audience: environmental educators, teachers k-12, high school students, volunteers, parents.
 - Address real world challenges, specifically sustainability and environmental
 
 
-3. Why are you looking for a new website or updating your existing site?
-
+3. Why are you looking for a new website or updating your existing site? Do you want to keep all the existing content or adjust them?
 - Home Page: Principles of the organization (redesign to look more professional and easy to read.
 - Specific courses: just a list of courses with videos, descriptions, and enrollment (redesign to look more appealing)
 - Statistics page: just to show off what the lab has done (maybe do? Could be incorporated in the home page).
@@ -37,19 +34,15 @@
 
 
 4. Who do you want to visit your site? Who is your site's target audience?
-
 - Global audience: environmental educators, teachers k-12, high school students, volunteers, parents.
 - Students and teachers interested in joining or teaching in a Conrell ecology lab.
 
 
 5. When visiting your site, what actions do you want your visitors to take?
-
 - Register, download resources, and follow social media (facebook, inst)
 
 
-
 6. Is there a "feel" that you want for your site? Are there colors or imagery that you have in mind?
-
 - No strong preference
 - Bright, environment
 - Gallery page, with outcomes and map of students all over the world
@@ -57,28 +50,18 @@
 - Does not have to be consistent with the rest of the site
 
 
-
-
-
 7. What are your three favorite competitors or similar organizations' sites? Why?
-
 - She really likes the content and design for the website for E Cornell.
-
-
-
-TODO: Revise this questionnaire. Add/remove questions. etc.
-TODO: Make sure the site's scope is the right "size" for this project: not too big, not too small.
 
 
 ## Client Description (Milestone 1)
 > Tell us about your client. Who is your client?
 > Explain why your client meets the client rules in the project requirements.
 
-- Our client Yue Li is a Research Associate in the Department of Natural Resources and the Environment at Cornell University.
-1. You can’t be the client
-2.
-3.
-In the write up for the project.
+- Our client Yue Li is a Research Associate in the Department of Natural Resources and the Environment at Cornell University. And fulfills the clients rules because of the following:
+  1. Our client is not one of the members of our group.
+  2. None of us are associated with the Department of Natural Resources and the Environment.
+  3. None of use knew who this client was before hand, and therefore have no close personal relationship with said client.
 
 
 ## Client Website (Milestone 1)
@@ -101,7 +84,6 @@ Site link: https://www.civicecology.org/
 	All four of the members will be making one page from above. Each page contains a considerable amount of information but does not get too specific.
 
 
-
 ## Client Goals (Milestone 1)
 > What kind of website do they want? What are their goals for the site?
 > There is no required number of goals. You need as many goals as necessary to reflect your client's desires.
@@ -120,8 +102,6 @@ A website that can keep their user engaged, even if they don’t want to actuall
 > Include your notes/minutes from the client meeting.
 
 TODO
-
-
 
 # Plan/Schedule (Milestone 1)
 > Make a plan of when you will complete all parts of this assignment.
