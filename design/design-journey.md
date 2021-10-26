@@ -13,35 +13,57 @@
 
 1. Describe your organization and its purpose.
 
-    TODO
+- Purpose 1: Engage the public. Let them know resources they have
+- Purpose 2: Attract people to take course
+
 
 2. What makes your organization and its services special or unique?
 
-    TODO
+- Apply research to teaching → based on cutting edge research
+  - Course updated very often
+  - Researchers and professor from cornell
+- Participants are a diverse, global audience: environmental educators, teachers k-12, high school students, volunteers, parents.
+- Address real world challenges, specifically sustainability and environmental
+
 
 3. Why are you looking for a new website or updating your existing site?
 
-    TODO
+- Home Page: Principles of the organization (redesign to look more professional and easy to read.
+- Specific courses: just a list of courses with videos, descriptions, and enrollment (redesign to look more appealing)
+- Statistics page: just to show off what the lab has done (maybe do? Could be incorporated in the home page).
+- Resources/Publications: should have a list of projects you can do in the lab. Used by teachers to develop lesson plans, 25 plans (split into two sites).
+- Gallery page: for images related to lesson plans. Explore nature and take photos, explain why they relate to nature to you?
+- Gathering page: social media posts, etc. (make it more lively).
+
 
 4. Who do you want to visit your site? Who is your site's target audience?
 
-    TODO
+- Global audience: environmental educators, teachers k-12, high school students, volunteers, parents.
+- Students and teachers interested in joining or teaching in a Conrell ecology lab.
+
 
 5. When visiting your site, what actions do you want your visitors to take?
 
-    TODO
+- Register, download resources, and follow social media (facebook, inst)
 
-6. What are your goals for this site?
 
-    TODO
 
-7. Is there a "feel" that you want for your site? Are there colors or imagery that you have in mind?
+6. Is there a "feel" that you want for your site? Are there colors or imagery that you have in mind?
 
-    TODO
+- No strong preference
+- Bright, environment
+- Gallery page, with outcomes and map of students all over the world
+- Maintain professionalism
+- Does not have to be consistent with the rest of the site
 
-8. What are your three favorite competitors or similar organizations' sites? Why?
 
-    TODO
+
+
+
+7. What are your three favorite competitors or similar organizations' sites? Why?
+
+- She really likes the content and design for the website for E Cornell.
+
 
 
 TODO: Revise this questionnaire. Add/remove questions. etc.
@@ -52,31 +74,46 @@ TODO: Make sure the site's scope is the right "size" for this project: not too b
 > Tell us about your client. Who is your client?
 > Explain why your client meets the client rules in the project requirements.
 
-TODO
+- Our client Yue Li is a Research Associate in the Department of Natural Resources and the Environment at Cornell University.
+1. You can’t be the client
+2.
+3.
+In the write up for the project.
 
 
 ## Client Website (Milestone 1)
 > Tell us about the website that your client wants. Tell us the purpose of the website and what it is all about.
 > NOTE: **If you are redesigning an existing website, give us the current URL and some screenshots of the current site.** (FireFox makes it easy to take a full screenshot of a page.) Tell us how you plan to update the site in a significant way that meets the project's requirements.
 
-TODO
+The existing one has too many contents, and she wants us to just focus on the original learning page in the existing website and make a website covering four aspects of it: basic introduction, course description, resources, and a gallery of outcomes.
+The purpose of the website is 1. engage the public and share resources about nature, and 2. Have audience register and take the course
+Site link: https://www.civicecology.org/
 
 
 ## Client Website Scope (Milestone 1)
 > Your project should be ambitious, but not too large. A good rule-of-thumb is that you should have about 1 content-full page for each team member.
 > Explain why the website you will create for your client isn't too small and isn't too big. Explain why you think it's the right size for this project.
 
-TODO
+1. landing page
+2. one specific course (urban) to redesign
+3. resources page such as lesson page
+4. gallery page like students social media page
+	All four of the members will be making one page from above. Each page contains a considerable amount of information but does not get too specific.
+
 
 
 ## Client Goals (Milestone 1)
 > What kind of website do they want? What are their goals for the site?
 > There is no required number of goals. You need as many goals as necessary to reflect your client's desires.
 
-- Goal A: TODO
-- Goal B: TODO
-- Goal C: TODO
-- ...
+They want a website that appeals to both students and teachers (but on separate sections of the website, excluding the home page).
+The clients want their website to be more organized in the manner mentioned above.
+A website that can keep their user engaged, even if they don’t want to actually join the lab it is advertising.
+
+- Goal A: Register for courses
+- Goal B: Download resources (lesson plans, lab journals).
+- Goal C: Follow social media (facebook, insta).
+
 
 
 ## First Client Meeting Minutes/Notes (Milestone 1)
@@ -89,7 +126,7 @@ TODO
 # Plan/Schedule (Milestone 1)
 > Make a plan of when you will complete all parts of this assignment.
 > This plan is for your team. There is no required format. Format it so that it works for you!
-
+()
 TODO
 
 
