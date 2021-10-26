@@ -70,7 +70,7 @@
 
 The existing one has too many contents, and she wants us to just focus on the original learning page in the existing website and make a website covering four aspects of it: basic introduction, course description, resources, and a gallery of outcomes.
 The purpose of the website is 1. engage the public and share resources about nature, and 2. Have audience register and take the course
-Site link: <https://www.civicecology.org/>
+Site link: https://www.civicecology.org/
 
 
 ## Client Website Scope (Milestone 1)
@@ -108,7 +108,7 @@ TODO
 > This plan is for your team. There is no required format. Format it so that it works for you!
 ()
 
-
+stage, commit message, commit, fetch & pull, push.
 m1:
   deadline-Wed 10/27 11:59pm
   plan: 10/26
