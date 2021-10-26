@@ -59,9 +59,9 @@
 > Explain why your client meets the client rules in the project requirements.
 
 - Our client Yue Li is a Research Associate in the Department of Natural Resources and the Environment at Cornell University. And fulfills the clients rules because of the following:
-  1. Our client is not one of the members of our group.
-  2. None of us are associated with the Department of Natural Resources and the Environment.
-  3. None of use knew who this client was before hand, and therefore have no close personal relationship with said client.
+1. Our client is not one of the members of our group.
+2. None of us are associated with the Department of Natural Resources and the Environment.
+3. None of use knew who this client was before hand, and therefore have no close personal relationship with said client.
 
 
 ## Client Website (Milestone 1)
@@ -97,7 +97,6 @@ A website that can keep their user engaged, even if they don’t want to actuall
 - Goal C: Follow social media (facebook, insta).
 
 
-
 ## First Client Meeting Minutes/Notes (Milestone 1)
 > Include your notes/minutes from the client meeting.
 
@@ -116,8 +115,22 @@ A website that can keep their user engaged, even if they don’t want to actuall
 > Make a plan of when you will complete all parts of this assignment.
 > This plan is for your team. There is no required format. Format it so that it works for you!
 ()
-TODO
 
+m1:
+  deadline-Wed 10/27 11:59pm
+  plan: 10/26
+m2:
+  deadline-Wed 11/17 11:59pm
+  plan: 11/16 11:59pm
+final:
+  deadline-Wed 12/1 11:59pm
+  plan: 11/30 11:59pm
+lab13 project show:
+  deadline-Fri 12/3
+  plan: practice on Tuesday regular meeting
+peer Evaluations:
+  deadline-Fri 12/3 11:59pm
+  plan: individually before deadline
 
 
 # Site Design/Plan (Milestone 2)
