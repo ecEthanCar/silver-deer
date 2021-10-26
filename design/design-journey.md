@@ -74,11 +74,10 @@ TODO: Make sure the site's scope is the right "size" for this project: not too b
 > Tell us about your client. Who is your client?
 > Explain why your client meets the client rules in the project requirements.
 
-- Our client Yue Li is a Research Associate in the Department of Natural Resources and the Environment at Cornell University.
-1. You can’t be the client
-2.
-3.
-In the write up for the project.
+- Our client Yue Li is a Research Associate in the Department of Natural Resources and the Environment at Cornell University. And fulfills the clients rules because of the following:
+  1. Our client is not one of the members of our group.
+  2. None of us are associated with the Department of Natural Resources and the Environment.
+  3. None of use knew who this client was before hand, and therefore have no close personal relationship with said client.
 
 
 ## Client Website (Milestone 1)
@@ -119,16 +118,7 @@ A website that can keep their user engaged, even if they don’t want to actuall
 ## First Client Meeting Minutes/Notes (Milestone 1)
 > Include your notes/minutes from the client meeting.
 
-- Focus on nature education page
-- Goal: engage public and share resources and research with general public
-- Audience are professionals and educators, teacher, high schoolers, diverse
-- Feature newest course at the top
-- Possible intro video on landing page
-- Include course principles
-- Current page is too much → change so that it is easy to read, attract more people
-- Redesign course description page
-- Attract people to register and check other course registration pages
-
+TODO
 
 
 
