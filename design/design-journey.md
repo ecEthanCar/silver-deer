@@ -70,7 +70,7 @@
 
 The existing one has too many contents, and she wants us to just focus on the original learning page in the existing website and make a website covering four aspects of it: basic introduction, course description, resources, and a gallery of outcomes.
 The purpose of the website is 1. engage the public and share resources about nature, and 2. Have audience register and take the course
-Site link: https://www.civicecology.org/
+Site link: <https://www.civicecology.org/>
 
 
 ## Client Website Scope (Milestone 1)
