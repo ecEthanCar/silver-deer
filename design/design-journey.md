@@ -119,7 +119,16 @@ A website that can keep their user engaged, even if they don’t want to actuall
 ## First Client Meeting Minutes/Notes (Milestone 1)
 > Include your notes/minutes from the client meeting.
 
-TODO
+- Focus on nature education page
+- Goal: engage public and share resources and research with general public
+- Audience are professionals and educators, teacher, high schoolers, diverse
+- Feature newest course at the top
+- Possible intro video on landing page
+- Include course principles
+- Current page is too much → change so that it is easy to read, attract more people
+- Redesign course description page
+- Attract people to register and check other course registration pages
+
 
 
 
