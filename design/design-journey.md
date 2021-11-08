@@ -156,7 +156,18 @@ TODO
 
 **User Interview Briefing & Consent:** Hi, I am a student at Cornell University. I'm currently taking a class on web design and for a project I am (re-)designing a web site for _client's name_. I'm trying to learn more about the people that might use this site. May I ask you a few questions? It will take about 10-15 minutes. You are free to quit at any time.
 
-TODO: Your user interview questions
+1. Tell me about yourself. Where are you from and what do you do for a living (occupation)? (student: what are you interested in majoring in?) You may omit any personal or private information.
+2. What is your background in ecology, if any?
+  a. What other knowledge did you acquire?
+  b. How do you plan on applying this knowledge in the future?
+3. Have you taken any online or in-person ecology courses? (No matter the response) Describe your experience.
+4. If you’ve registered for an ecology course before (if not ecology, any online course), did you seek out any information beforehand? Where did you seek out this information? What attracted you to register for your most recent course?
+5. While taking the actual course, what were your most and least favorite moments in it?
+6. After taking the course, was there any information you wish you had known about the course beforehand or information that you weren't able to find?
+7. Did you seek out resources outside of the course?
+  a. If so, why did you want to do it, and were those resources helpful?
+8. What haven't I asked you today that you think would be valuable for me to know?
+
 
 **After the interview:** This was really helpful. Thank you so much for agreeing to speak with me today. Have a great day!
 
