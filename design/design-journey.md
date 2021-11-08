@@ -148,7 +148,7 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 ### Audience (Milestone 2)
 > Briefly explain your site's audience. Be specific and justify why this audience is a cohesive group with regard to your client's site. This audience should not be overly broad nor arbitrarily specific. It should be a cohesive group with similar _goals_.
 
-TODO
+The site’s audience is a global community of educators, students, and volunteers who are interested in learning more about ecology through the Cornell Civic Ecology lab. They may be interested in learning about ecology for the purpose of teaching others, or for the sake of their own knowledge, or to apply this knowledge to their own research. While the audience is located all over the world, they have the common interest of obtaining ecology knowledge and can do so from the digital courses that the site offers.
 
 
 ### User Interview Questions (Milestone 2)
