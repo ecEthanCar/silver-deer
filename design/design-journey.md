@@ -165,9 +165,8 @@ TODO: Your user interview questions
 > Interview at least 4 people from your audience. Take notes and include those notes here. Make sure to include a brief description of each interviewee.
 
 **Interviewee 1:**
-
-TODO: description
-TODO: notes
+Description: Audrey Andres is a Cornell Hotel School student from the Bay Area in California.
+Notes: Audrey loves Ecology, and she lived in the ecology house (a dorm)  last year at Cornell where she learned a lot of related knowledge about ecology. She is interested in sustainability and creating sustainable businesses. In her personal life, she has a passion for nature and the outdoors. She wants to work for or create her own company in the future focusing on sustainability and hospitality. Specifically, trying to make a benchmark restaurant that focuses on sustainability, since there is so much waste in the restaurant. With climate change, crewships, hotels and restaurants will have to address all of the waste of energy, food, etc. in their operations. She has not taken any online or in person ecology classes, but she is looking at enrolling in ecology classes at Cornell. She has seeked out ecology classes on Class Roster. For learning online, she likes to learn through videos and practice problems. If it is only through reading, nothing could really be absorbed. Most of her online classes are distributed through Canvas, and her least favorite part of Canvas is that the calendar does not have clear due dates, class times in one place. Her favorite part about Canvas is that Canvas is very convenient and she can use it on both her phone and the computer. She gained ecology knowledge mostly from the Cornell Library database or just by looking online through YouTube videos or webpages. Her purpose of researching ecology is for personal purposes/interests. I also showed her the existing webpage, and she pointed out that it would be helpful to put the courses front and center and have a description of the course.
 
 
 **Interviewee 2:**
