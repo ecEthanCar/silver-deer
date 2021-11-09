@@ -208,8 +208,13 @@ Goal 1: Give access to a comprehensive list of resources (links and papers) that
   - Users prefer additional resources to be separate from the broader contents of website, so that it is easier to find.
   - We will also include a list of projects that can act as a template for future research.
 
-Goal 2: TODO
-TODO
+  Goal 2: Better understand the courses from their description and be compelled to enroll
+  - **Design Ideas and Choices** _How will you meet those goals in your design?_
+    - Reorganize courses so that the descriptions and videos are well structured
+    - Make the enroll button clearly visible by using different colors
+  - **Rationale & Additional Notes** _Justify your decisions; additional notes._
+    - Having a similar stucture of information for each course will give the audience familiarity and be able to better navigate courses
+    - Making the enroll button stand out will catch the audience's attention
 
 Goal 3: TODO
 TODO
