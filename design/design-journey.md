@@ -213,11 +213,18 @@ Goal 1: Give access to a comprehensive list of resources (links and papers) that
     - Reorganize courses so that the descriptions and videos are well structured
     - Make the enroll button clearly visible by using different colors
   - **Rationale & Additional Notes** _Justify your decisions; additional notes._
-    - Having a similar stucture of information for each course will give the audience familiarity and be able to better navigate courses
+    - Having a similar structure of information for each course will give the audience familiarity and be able to better navigate courses
     - Making the enroll button stand out will catch the audience's attention
 
-Goal 3: TODO
-TODO
+Goal 3: Make the design of the website have the themes of security, professionalism, and community that users can easily attain.
+
+- **Design Ideas and Choices** _How will you meet those goals in your design?_
+  - Maintain the current color theme and font styles.
+  - Make all of the content have a unified width and borders.
+  - Have related content condensed and groups of content spaced out.
+- **Rationale & Additional Notes** _Justify your decisions; additional notes._
+  - Users need to be able to read the very informative-rich text quickly and without confusion.
+  - Current users should not get lost when the design of the site changes too drastically.
 
 TODO: ...
 
