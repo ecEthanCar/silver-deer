@@ -280,10 +280,10 @@ TODO
 ### Navigation (Milestone 2)
 > Please list the pages you will include in your personal website navigation.
 
-- TODO
-- TODO
-- TODO
-- TODO
+- Home
+- Courses
+- Resources & Projects
+- Gallery
 
 > Explain why the names of these pages make sense for your site's audience and their goals.
 
