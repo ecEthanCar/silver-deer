@@ -201,11 +201,12 @@ TODO: notes
 ### Goals (Milestone 2)
 > Analyze your audience's goals from your notes above. List each goal below. There is no specific number of goals required for this, but you need enough to do the job (Hint: It's more than 1 and probably more than 2).
 
-Goal 1: TODO: Brief Title
+Goal 1: Give access to a comprehensive list of resources (links and papers) that the user can use for future ecological application.
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
-  - TODO
+  - Create a separate page dedicated to listing resources and including corresponding images associated with the resources.
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
-  - TODO
+  - Users prefer additional resources to be separate from the broader contents of website, so that it is easier to find.
+  - We will also include a list of projects that can act as a template for future research.
 
 Goal 2: TODO
 TODO
