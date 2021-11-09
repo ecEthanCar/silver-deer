@@ -208,16 +208,15 @@ Goal 1: Give access to a comprehensive list of resources (links and papers) that
   - Users prefer additional resources to be separate from the broader contents of website, so that it is easier to find.
   - We will also include a list of projects that can act as a template for future research.
 
-  Goal 2: Better understand the courses from their description and be compelled to enroll
-  - **Design Ideas and Choices** _How will you meet those goals in your design?_
-    - Reorganize courses so that the descriptions and videos are well structured
-    - Make the enroll button clearly visible by using different colors
-  - **Rationale & Additional Notes** _Justify your decisions; additional notes._
-    - Having a similar structure of information for each course will give the audience familiarity and be able to better navigate courses
-    - Making the enroll button stand out will catch the audience's attention
+Goal 2: Better understand the courses from their description and be compelled to enroll
+- **Design Ideas and Choices** _How will you meet those goals in your design?_
+  - Reorganize courses so that the descriptions and videos are well structured
+  - Make the enroll button clearly visible by using different colors
+- **Rationale & Additional Notes** _Justify your decisions; additional notes._
+  - Having a similar structure of information for each course will give the audience familiarity and be able to better navigate courses
+  - Making the enroll button stand out will catch the audience's attention
 
 Goal 3: Make the design of the website have the themes of security, professionalism, and community that users can easily attain.
-
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
   - Maintain the current color theme and font styles.
   - Make all of the content have a unified width and borders.
@@ -225,9 +224,6 @@ Goal 3: Make the design of the website have the themes of security, professional
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
   - Users need to be able to read the very informative-rich text quickly and without confusion.
   - Current users should not get lost when the design of the site changes too drastically.
-
-TODO: ...
-
 
 
 ## Content Planning (Milestone 2)
@@ -237,7 +233,22 @@ TODO: ...
 ### Your Site's Planned Content (Milestone 2)
 > List the content you plan to include your personal website. This should be a comprehensive list.
 
-TODO
+- Title
+- Course title heading
+- Course description paragraphs
+- Images from projects
+- Links to social medias
+- Links to enroll
+- Videos
+- Civic ecology lab logo
+- Cornell logo
+- Navigation bar
+- Footer
+- Link to top of page or fixed nav bar
+- Copyright information
+- Lists of resources and projects
+- Enroll button
+- Image of map
 
 
 ### Content Justification (Milestone 2)
