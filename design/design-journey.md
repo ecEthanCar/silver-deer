@@ -194,8 +194,19 @@ TODO: notes
 
 **Interviewee 4:**
 
-TODO: description
-TODO: notes
+Description: He is a junior at Tufts University majoring in Environmental Science, Architecture, and Studio Art with a concentration in sculpture.
+
+Notes:
+- He gained interest in ecology through playing in the gorges and rivers during his childhood.
+- His studies at college had helped him gain much more specific information and skills revolving around ecology.
+- He plans on applying this knowledge in his artistic pursuits as well as architectural and design pursuits in his future career.
+- He has taken both online and in person ecology courses. His experience with online courses has been relatively fine, with the exception of there being a lack of interactivity and fieldwork. Which is not an issue with in person courses, which provide much more hands-on learning opportunities.
+- He has looked for course information prior to registering for an ecology course, which he found via friends/professors.
+- His major requirements and personal interest in ecology are what attracted him to registering for his current courses.
+- His favorite moments in online class were solving a problem and doing some sort of fieldwork. His least favorite moments always stem from poor communication on the part of the professor.
+- There wasn’t any additional information he wished he had known after taking an online course.
+- He did look for resources outside of this course, since he wanted to learn more about the topics that interest him and learn more about the world around me.
+- Question asked by him: Information that was related more specifically to the connection between ecology and other aspects of my life?
 
 
 ### Goals (Milestone 2)
