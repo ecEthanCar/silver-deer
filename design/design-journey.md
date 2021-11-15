@@ -182,8 +182,49 @@ Notes: Audrey loves Ecology, and she lived in the ecology house (a dorm)  last y
 
 **Interviewee 2:**
 
-TODO: description
-TODO: notes
+Description:
+- Behzad Akbari
+- From middle east
+- Currently living in the capital of Iran
+- 28 years old
+- Graduated from University of Tehran
+- Did masters in environment 6 months ago
+- Received Bachelors in engineering in 2017
+- Works at University at Tehran as an executive team manager
+
+Notes:
+
+2. What is your background in ecology, if any?
+  - Took general ecology class in college
+3. How do you plan on applying this knowledge in the future?
+  - Wants to apply ecology knowledge in both professional and personal aspects of his life
+  - Professional:
+    - Want to pass ecology knowledge to other students
+    - Wants to teach nature education
+  - Personal:
+    - Wants kids to grow up surrounded by nature
+    - Wants people to reconnect with nature especially because of urbanization
+4. Have you taken any online or in-person ecology courses? (No matter the response) Describe your experience.
+  - Took “Nature Education” course from Civic Ecology Lab
+  - Found it generous of them to have classes without a fee during covid
+  - Dedicated several hours a week to course
+  - Enjoyed how the course was “brief and enough” - not too short and too long
+  - All online courses lasted only one hour so time management was perfect
+5. If you’ve registered for an ecology course before (if not ecology, any online course), did you seek out any information beforehand? Where did you seek out this information? What attracted you to register for your most recent course?
+First e-learning course
+  - One of his friends advertised it in a group and applied for it
+6. While taking the actual course, what were your most and least favorite moments in it?
+  - Favorite moments:
+    - Got a chance to talk to everyone including the professor
+    - Course provided free pdf file, did not have to buy a textbook (no additional fees)
+  - Least Favorite moment:
+    - None so far
+7. After taking the course, was there any information you wish you had known about the course beforehand or information that you weren't able to find?
+  - Was fully satisfied
+  - Did not seek outside info, everything needed was included in the course site
+8. What haven't I asked you today that you think would be valuable for me to know?
+  - Some people just lost their job, or are in a difficult situation, so would like if they offered an option to waive the fee even after covid
+  - Wished that the people who took the course could be considered for possible research opportunities by professors (wants to gain connections from course)
 
 
 **Interviewee 3:**
