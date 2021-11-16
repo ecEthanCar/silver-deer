@@ -315,7 +315,17 @@ The content listed above is suitable for our audience because it satisfies their
 > Document your iterations of card sorting here.
 > Include photographic evidence of each iteration of card sorting and description of your thought process for each iteration.
 
-![Iteration 2](iteration2.jpeg)
+![Iteration 1](iteration-1.jpg)
+DESCRIPTION:
+
+![Iteration 2](iteration-2.jpg)
+DESCRIPTION:
+
+![Iteration 3](iteration-3.jpg)
+DESCRIPTION:
+
+![Iteration 4](iteration-4.jpg)
+DESCRIPTION:
 
 
 ### Final Content Organization (Milestone 2)
