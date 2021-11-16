@@ -374,7 +374,9 @@ TODO
 > Here you are just exploring your layout ideas. You don't need to sketch every page.
 > Provide an explanation for each sketch explaining the idea and the design patterns you are leveraging.
 
-TODO
+![layout_home](layout_home_1.png)
+
+
 
 
 ### Final Interactivity Design (Milestone 2)
@@ -394,13 +396,47 @@ TODO
 
 
 **Desktop Design:**
-TODO
+1. **Home page:**
+![layout_home](layout_home_d.png)
+Explanation: a background image that takes a wide space, with texts devided into chunks. Each chunk  contains some brieft description of the lab, including Intro, expectation, and short intro video.  
+
+2. **Course page:**
+![layout_course](layout_course_d.png)
+Explanation: The first section on the top is the course title (in h1) with an enroll botton below. Next would be a cover image of the course.
+Below we plan to use tabs to organize each aspect of the course, and each tab includes, for example, course Delivery and participants.
+
+
+
+3. **Resource page:**
+![layout_resource](layout_resource_d.png)
+Explanation: It contains two parts: Projects and Publication. Each part has an overview by listing out works they have done. Each work takes a whole line and is clickable (which will direct to another page just about that piece of work). According to the client meeting, the Lesson Plans is optional here so we will wait for finishing the html to see if having lesson plans would look good here.
+
+4. **Gallery page:**
+![layout_gallery](layout_gallery_d.png):
+Explanation: we plan to use a carousel to display all images.
 
 
 ### Design Rationale (Milestone 2)
 > Explain why your design is appropriate for your audience. Specially, why does your content organization, navigation, and site design/layout meet the goals of your users? How did you employ design patterns to improve the familiarity of the site for your audience?
 
-TODO
+For each page, we choose different types of layout.
+1. **Home page:**
+Explanation: The current learning website has different sections of texts aligned horinzontally (side by side). For example, the list of courses offered and an intro of the lab were put side by side. Since they are both texts, users would find too many texts in one place. We plan to everything with different topics vertically, and it followes reader's way to skim the website.
+
+2. **Course page:**
+![layout_course](layout_course_d.png)
+Explanation: Currently the course page has too many contents, and users need to scroll multiple times to see all of them. Therefore, we will use tab to first show users all aspects of descriptions to this course that we have. In our interview, different users cares about different things before registering the course, so that they might have a faster way to have access to that piece of information thay are interested in. Using a tab feature, users could directly go to the part that they wish to know more without reading other information they are not interested in while scrolling.
+
+
+
+3. **Resource page:**
+![layout_resource](layout_resource_d.png)
+Explanation: In our client meeting, our client wish to have two sections for this page: projects and publication. Though have more than one topics, we still don't plan to a tab bar like we will do for the course page. It is because that there will only be two topics, and for each topic there will only be an overview and thus there won't be many contents shown on the web. For example, under the publication section, we will list out a limited chosen number of publications, with each having a link to another page with more detailed description of that publication.
+
+
+4. **Gallery page:**
+![layout_gallery](layout_gallery_d.png):
+Explanation: Since we have many images with details that users may zoom in to see clearly, for example, the map showing where all participants are from, we plan to use a carousel. In this way, users would see it clearly directly without manually zooming in or doing other steps, and carousel is also a familiar design that shows images so that users woudl know how to browse.
 
 
 
