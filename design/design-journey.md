@@ -331,11 +331,11 @@ DESCRIPTION:
 ### Final Content Organization (Milestone 2)
 > Which iteration of card sorting will you use for your website?
 
-TODO
+We will use iteration 3 for our website.
 
 > Explain how the final organization of content is appropriate for your site's audiences and their goals.
 
-TODO
+The final organization of the content aligns with the audience's goals and makes the website easy to navigate. In order to maintain professionalism throughout the site, the navigation bar, logos, and links to social medias will appear on every page either at the top or the bottom. The other four groupings will correspond to its own page and organizes the content based on its topic. One group contains information on the courses and enrollment while another group contains the list of resources. In addition to these pages, there is also the landing page which will include general content such as an introduction and a gallery page that will display images of past projects. This card sorting organizes all of the relevant content into logical groups that represents the information for each page or section of a page.
 
 
 ### Navigation (Milestone 2)
