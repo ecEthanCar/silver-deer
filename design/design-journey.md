@@ -306,8 +306,7 @@ Goal 3: Make the design of the website have the themes of security, professional
 ### Content Justification (Milestone 2)
 > Explain (about a paragraph) why this content is the right content for your site's audience and how its addressed their goals..
 
-TODO
-
+The content listed above is suitable for our audience because it satisfies their goals. The list of resources and projects combined with their links will allow the audience to easily access this list. In addition, the course title heading and description paragraph will thoroughly explain each course and the separate enroll button element will be clearly visible so that the user does not have to search for it. Other content such as the social media links, logos, videos, and copyright information will contribute to the professionalism of the site and reassure the user that the provided information is reliable. There is also a sense of community from the image of the map that shows where people who have enrolled in these courses are from and the gallery page of example projects from students also contribute to the presence of this online community.
 
 
 ## Information Architecture (Milestone 2)
