@@ -374,7 +374,6 @@ TODO
 > Here you are just exploring your layout ideas. You don't need to sketch every page.
 > Provide an explanation for each sketch explaining the idea and the design patterns you are leveraging.
 
-![layout_home](layout_home_1.png)
 
 
 
