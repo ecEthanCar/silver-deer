@@ -409,8 +409,39 @@ TODO
 > You should meet with your client again to obtain feedback on your design.
 > Provide a summary of the client's feedback and your meeting's minutes.
 
-TODO
+Home page
+- Don’t highlight video, outdated
+- Find any image nature for banner
+- Can use images from online too
 
+Course page
+- Take urban environmental course and redesign
+- Only redesign one course
+- Same structure for each course
+- Tab with separate pages or all on one page is up to us
+
+Resources page
+- Categorize by each project
+- Maybe add few sentences ant what resource project is about, but if too much text then tile and authors is fine as well
+
+- Have a page just to highlight online learning research and publication
+- Separate it from current research
+- Online Learning Research (main title)
+    - Projects (subtitle)
+    - Publications (subtitle)
+    - Lesson Plans (subtitle)
+- Maybe have section of lesson plan under resources and have links to download lesson plan pdfs
+
+Map
+- Client will send list of countries and map with points
+- Little description for each location
+
+Nav bar
+- Client prefers to have fixed nav bar
+
+Gallery
+- Multiple carousels to separate images by topic
+- Find a way to add description to bottom of image
 
 
 # Evaluation (Final Submission)
