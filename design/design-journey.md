@@ -448,8 +448,57 @@ Explanation: Since we have many images with details that users may zoom in to se
 > Describe how you will implement the interactivity. This should be a complete plan that another 1300 student could use to implement the interactivity.
 > You should list the elements, any CSS classes, events, pseudocode, and the initial state.
 
-```
-TODO
+Carousel Planning:
+
+HTML:
+- Header: <h1 class="carouselhead">
+paragraphs: <p class="carouselparas">
+- Carousel: <div id="'number'weekslide">
+- Button Div: <div class="'number'galleryslides">
+- Previous Image: <button class="arrow-button light" type="button" id="'number'prev-image">
+- Next Image: <button class="arrow-button light" type="button" id="'number'next-image">
+- Individual Image Buttons: <button class="image-button light" type="button" id="'number'button'number'">
+- All Slides: <div class="'number'slide" id="'number'slide'number'">
+
+CSS:
+- .hidden
+- .arrow-button
+- .image-button
+- .dark
+- .light
+- .carouselhead
+- .carouselparas
+
+``` (Pseudocode)
+(for all carousels (Week 1-3))
+
+When user clicks on a next button (#'number'next-image):
+
+  show next slide (remove .hidden from image)
+  add .hidden to all other images
+
+When user clicks on a previous button (#'number'prev-image):
+
+  show previous slide (remove .hidden from image)
+  add .hidden to all other images
+
+When first/second/thrid/etc. button is clicked (#'number'button'number'):
+
+  show designated image (remove .hidden from #slide1)
+  add .hidden to all other images
+
+(below is for carousel button color change)
+
+When user hovers mouse over a any button (#'button'):
+
+  remove .light from #'button'
+  add .dark to #'button'
+
+When user hovers mouse off of any button (#'button'):
+
+  remove .dark from #'button'
+  add .light to #'button'
+
 ```
 
 Online Course:
