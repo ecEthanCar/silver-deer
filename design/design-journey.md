@@ -324,7 +324,7 @@ Thought Process: TODO
 
 
 ![Iteration 3](iteration-3.jpg)
-Thought Process: My thought process for this card sorting was to group the contents based on their information. For example, all information related to the courses were grouped together. Two of the groups were sorted based on their location on the page, such as content that appears on the top or bottom of every page. 
+Thought Process: My thought process for this card sorting was to group the contents based on their information. For example, all information related to the courses were grouped together. Two of the groups were sorted based on their location on the page, such as content that appears on the top or bottom of every page.
 
 
 ![Iteration 4](iteration-4.jpg)
@@ -351,7 +351,7 @@ The final organization of the content aligns with the audience's goals and makes
 
 > Explain why the names of these pages make sense for your site's audience and their goals.
 
-TODO
+The names of these pages make sense because they are brief and concise so that the user can easily navigate to the desired content. These pages also align with our client's needs and separates all the information into logical categories. Since the main purpose of the Learning section of the Civic Ecology Lab is to present all of the online courses, it makes sense to position the Courses Page right after the Home Page. 
 
 
 
