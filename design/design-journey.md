@@ -451,8 +451,7 @@ Explanation: Since we have many images with details that users may zoom in to se
 > Describe how you will implement the interactivity. This should be a complete plan that another 1300 student could use to implement the interactivity.
 > You should list the elements, any CSS classes, events, pseudocode, and the initial state.
 
-<<<<<<< HEAD
-Carousel Planning:
+**Carousel Planning:**
 
 HTML:
 - Header: <h1 class="carouselhead">
@@ -502,8 +501,9 @@ When user hovers mouse off of any button (#'button'):
 
   remove .dark from #'button'
   add .light to #'button'
+```
 
-=======
+
 **Tab Interactivity**
 
 HTML
@@ -532,9 +532,7 @@ CSS
 - #button-goal: focus
 - #button-goal: focus - font-color stays darker when clicked
 - .hidden: hides element
-```
 
-Javascript
 ```
 When #button-about is clicked,
 remove .accessible-hidden from #tab-about,
