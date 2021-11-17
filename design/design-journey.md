@@ -400,7 +400,21 @@ For the Course Page, we will organize the contents with tabs. So, while the cour
 > Provide a explanation for each sketch.
 
 **Mobile Design:**
-TODO
+1. **Home Page**
+![mobile_layout_home](insert image)
+Explanation:
+
+2. **Course Page**
+![mobile_layout_course](insert image)
+Explanation:
+
+3. **Resource Page**
+![mobile_layout_resource](insert image)
+Explanation:
+
+4. **Gallery Page**
+![mobile_layout_gallery](insert image)
+Explanation:
 
 
 **Desktop Design:**
@@ -451,59 +465,6 @@ Explanation: Since we have many images with details that users may zoom in to se
 > Describe how you will implement the interactivity. This should be a complete plan that another 1300 student could use to implement the interactivity.
 > You should list the elements, any CSS classes, events, pseudocode, and the initial state.
 
-**Carousel Planning:**
-
-HTML:
-- Header: <h1 class="carouselhead">
-paragraphs: <p class="carouselparas">
-- Carousel: <div id="'number'weekslide">
-- Button Div: <div class="'number'galleryslides">
-- Previous Image: <button class="arrow-button light" type="button" id="'number'prev-image">
-- Next Image: <button class="arrow-button light" type="button" id="'number'next-image">
-- Individual Image Buttons: <button class="image-button light" type="button" id="'number'button'number'">
-- All Slides: <div class="'number'slide" id="'number'slide'number'">
-
-CSS:
-- .hidden
-- .arrow-button
-- .image-button
-- .dark
-- .light
-- .carouselhead
-- .carouselparas
-
-``` (Pseudocode)
-(for all carousels (Week 1-3))
-
-When user clicks on a next button (#'number'next-image):
-
-  show next slide (remove .hidden from image)
-  add .hidden to all other images
-
-When user clicks on a previous button (#'number'prev-image):
-
-  show previous slide (remove .hidden from image)
-  add .hidden to all other images
-
-When first/second/thrid/etc. button is clicked (#'number'button'number'):
-
-  show designated image (remove .hidden from #slide1)
-  add .hidden to all other images
-
-(below is for carousel button color change)
-
-When user hovers mouse over a any button (#'button'):
-
-  remove .light from #'button'
-  add .dark to #'button'
-
-When user hovers mouse off of any button (#'button'):
-
-  remove .dark from #'button'
-  add .light to #'button'
-```
-
-
 **Tab Interactivity**
 
 HTML
@@ -533,6 +494,8 @@ CSS
 - #button-goal: focus - font-color stays darker when clicked
 - .hidden: hides element
 
+
+Javascript
 ```
 When #button-about is clicked,
 remove .accessible-hidden from #tab-about,
