@@ -320,7 +320,7 @@ Thought Process: TODO
 
 
 ![Iteration 2](iteration-2.jpg)
-Thought Process: TODO
+Thought Process: My thought process for this card sorting was that all related content should have its own separate page on the website. For example: all content related to courses should be under the page called "Courses", such as videos, course descriptions, and the enrollment button. This excludes content such as the navigation bar and copy information, since it should always be visible to users no matter the page.
 
 
 ![Iteration 3](iteration-3.jpg)
