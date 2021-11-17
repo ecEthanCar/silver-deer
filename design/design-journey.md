@@ -182,8 +182,49 @@ Notes: Audrey loves Ecology, and she lived in the ecology house (a dorm)  last y
 
 **Interviewee 2:**
 
-TODO: description
-TODO: notes
+Description:
+- Behzad Akbari
+- From middle east
+- Currently living in the capital of Iran
+- 28 years old
+- Graduated from University of Tehran
+- Did masters in environment 6 months ago
+- Received Bachelors in engineering in 2017
+- Works at University at Tehran as an executive team manager
+
+Notes:
+
+2. What is your background in ecology, if any?
+  - Took general ecology class in college
+3. How do you plan on applying this knowledge in the future?
+  - Wants to apply ecology knowledge in both professional and personal aspects of his life
+  - Professional:
+    - Want to pass ecology knowledge to other students
+    - Wants to teach nature education
+  - Personal:
+    - Wants kids to grow up surrounded by nature
+    - Wants people to reconnect with nature especially because of urbanization
+4. Have you taken any online or in-person ecology courses? (No matter the response) Describe your experience.
+  - Took “Nature Education” course from Civic Ecology Lab
+  - Found it generous of them to have classes without a fee during covid
+  - Dedicated several hours a week to course
+  - Enjoyed how the course was “brief and enough” - not too short and too long
+  - All online courses lasted only one hour so time management was perfect
+5. If you’ve registered for an ecology course before (if not ecology, any online course), did you seek out any information beforehand? Where did you seek out this information? What attracted you to register for your most recent course?
+First e-learning course
+  - One of his friends advertised it in a group and applied for it
+6. While taking the actual course, what were your most and least favorite moments in it?
+  - Favorite moments:
+    - Got a chance to talk to everyone including the professor
+    - Course provided free pdf file, did not have to buy a textbook (no additional fees)
+  - Least Favorite moment:
+    - None so far
+7. After taking the course, was there any information you wish you had known about the course beforehand or information that you weren't able to find?
+  - Was fully satisfied
+  - Did not seek outside info, everything needed was included in the course site
+8. What haven't I asked you today that you think would be valuable for me to know?
+  - Some people just lost their job, or are in a difficult situation, so would like if they offered an option to waive the fee even after covid
+  - Wished that the people who took the course could be considered for possible research opportunities by professors (wants to gain connections from course)
 
 
 **Interviewee 3:**
@@ -265,8 +306,7 @@ Goal 3: Make the design of the website have the themes of security, professional
 ### Content Justification (Milestone 2)
 > Explain (about a paragraph) why this content is the right content for your site's audience and how its addressed their goals..
 
-TODO
-
+The content listed above is suitable for our audience because it satisfies their goals. The list of resources and projects combined with their links will allow the audience to easily access this list. In addition, the course title heading and description paragraph will thoroughly explain each course and the separate enroll button element will be clearly visible so that the user does not have to search for it. Other content such as the social media links, logos, videos, and copyright information will contribute to the professionalism of the site and reassure the user that the provided information is reliable. There is also a sense of community from the image of the map that shows where people who have enrolled in these courses are from and the gallery page of example projects from students also contribute to the presence of this online community.
 
 
 ## Information Architecture (Milestone 2)
@@ -275,17 +315,27 @@ TODO
 > Document your iterations of card sorting here.
 > Include photographic evidence of each iteration of card sorting and description of your thought process for each iteration.
 
-![Iteration 2](iteration2.jpeg)
+![Iteration 1](iteration-1.jpg)
+DESCRIPTION:
+
+![Iteration 2](iteration-2.jpg)
+DESCRIPTION:
+
+![Iteration 3](iteration-3.jpg)
+DESCRIPTION:
+
+![Iteration 4](iteration-4.jpg)
+DESCRIPTION:
 
 
 ### Final Content Organization (Milestone 2)
 > Which iteration of card sorting will you use for your website?
 
-TODO
+We will use iteration 3 for our website.
 
 > Explain how the final organization of content is appropriate for your site's audiences and their goals.
 
-TODO
+The final organization of the content aligns with the audience's goals and makes the website easy to navigate. In order to maintain professionalism throughout the site, the navigation bar, logos, and links to social medias will appear on every page either at the top or the bottom. The other four groupings will correspond to its own page and organizes the content based on its topic. One group contains information on the courses and enrollment while another group contains the list of resources. In addition to these pages, there is also the landing page which will include general content such as an introduction and a gallery page that will display images of past projects. This card sorting organizes all of the relevant content into logical groups that represents the information for each page or section of a page.
 
 
 ### Navigation (Milestone 2)
@@ -324,7 +374,8 @@ TODO
 > Here you are just exploring your layout ideas. You don't need to sketch every page.
 > Provide an explanation for each sketch explaining the idea and the design patterns you are leveraging.
 
-TODO
+
+
 
 
 ### Final Interactivity Design (Milestone 2)
@@ -344,13 +395,47 @@ TODO
 
 
 **Desktop Design:**
-TODO
+1. **Home page:**
+![layout_home](layout_home_d.png)
+Explanation: a background image that takes a wide space, with texts devided into chunks. Each chunk  contains some brieft description of the lab, including Intro, expectation, and short intro video.  
+
+2. **Course page:**
+![layout_course](layout_course_d.png)
+Explanation: The first section on the top is the course title (in h1) with an enroll botton below. Next would be a cover image of the course.
+Below we plan to use tabs to organize each aspect of the course, and each tab includes, for example, course Delivery and participants.
+
+
+
+3. **Resource page:**
+![layout_resource](layout_resource_d.png)
+Explanation: It contains two parts: Projects and Publication. Each part has an overview by listing out works they have done. Each work takes a whole line and is clickable (which will direct to another page just about that piece of work). According to the client meeting, the Lesson Plans is optional here so we will wait for finishing the html to see if having lesson plans would look good here.
+
+4. **Gallery page:**
+![layout_gallery](layout_gallery_d.png):
+Explanation: we plan to use a carousel to display all images.
 
 
 ### Design Rationale (Milestone 2)
 > Explain why your design is appropriate for your audience. Specially, why does your content organization, navigation, and site design/layout meet the goals of your users? How did you employ design patterns to improve the familiarity of the site for your audience?
 
-TODO
+For each page, we choose different types of layout.
+1. **Home page:**
+Explanation: The current learning website has different sections of texts aligned horinzontally (side by side). For example, the list of courses offered and an intro of the lab were put side by side. Since they are both texts, users would find too many texts in one place. We plan to everything with different topics vertically, and it followes reader's way to skim the website.
+
+2. **Course page:**
+![layout_course](layout_course_d.png)
+Explanation: Currently the course page has too many contents, and users need to scroll multiple times to see all of them. Therefore, we will use tab to first show users all aspects of descriptions to this course that we have. In our interview, different users cares about different things before registering the course, so that they might have a faster way to have access to that piece of information thay are interested in. Using a tab feature, users could directly go to the part that they wish to know more without reading other information they are not interested in while scrolling.
+
+
+
+3. **Resource page:**
+![layout_resource](layout_resource_d.png)
+Explanation: In our client meeting, our client wish to have two sections for this page: projects and publication. Though have more than one topics, we still don't plan to a tab bar like we will do for the course page. It is because that there will only be two topics, and for each topic there will only be an overview and thus there won't be many contents shown on the web. For example, under the publication section, we will list out a limited chosen number of publications, with each having a link to another page with more detailed description of that publication.
+
+
+4. **Gallery page:**
+![layout_gallery](layout_gallery_d.png):
+Explanation: Since we have many images with details that users may zoom in to see clearly, for example, the map showing where all participants are from, we plan to use a carousel. In this way, users would see it clearly directly without manually zooming in or doing other steps, and carousel is also a familiar design that shows images so that users woudl know how to browse.
 
 
 
@@ -368,8 +453,39 @@ TODO
 > You should meet with your client again to obtain feedback on your design.
 > Provide a summary of the client's feedback and your meeting's minutes.
 
-TODO
+Home page
+- Don’t highlight video, outdated
+- Find any image nature for banner
+- Can use images from online too
 
+Course page
+- Take urban environmental course and redesign
+- Only redesign one course
+- Same structure for each course
+- Tab with separate pages or all on one page is up to us
+
+Resources page
+- Categorize by each project
+- Maybe add few sentences ant what resource project is about, but if too much text then tile and authors is fine as well
+
+- Have a page just to highlight online learning research and publication
+- Separate it from current research
+- Online Learning Research (main title)
+    - Projects (subtitle)
+    - Publications (subtitle)
+    - Lesson Plans (subtitle)
+- Maybe have section of lesson plan under resources and have links to download lesson plan pdfs
+
+Map
+- Client will send list of countries and map with points
+- Little description for each location
+
+Nav bar
+- Client prefers to have fixed nav bar
+
+Gallery
+- Multiple carousels to separate images by topic
+- Find a way to add description to bottom of image
 
 
 # Evaluation (Final Submission)
