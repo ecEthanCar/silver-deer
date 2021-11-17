@@ -361,14 +361,20 @@ The names of these pages make sense because they are brief and concise so that t
 > Discuss several (more than two) ideas about styling your site's theme. Explain why the theme ideas are appropriate for your target audiences.
 > Note the theme you selected for you site and why it's appropriate for the audience and their goals.
 
-Since our client prefers bright and professional colors that compliment the theme of nature, we are planning on using a color palette of about three to five colors throughout the site. Limiting our use of too many colors will ensure that our site remains professional and makes the audience feel a sense of security from our site. Possible color palettes are shades of green, brown, and blue as they all convey a sense of the natural environment. Another idea is to use simplistic fonts such as san serif fonts so that the text also appears clean and organized. 
+Since our client prefers bright and professional colors that compliment the theme of nature, we are planning on using a color palette of about three to five colors throughout the site. Limiting our use of too many colors will ensure that our site remains professional and makes the audience feel a sense of security from our site. Possible color palettes are shades of green, brown, and blue as they all convey a sense of the natural environment. Another idea is to use simplistic fonts such as san serif fonts so that the text also appears clean and organized.
 
 
 ### Interactivity Ideas (Milestone 2)
 > Brainstorm several ideas for your site's interactivity.
 > Provide a very brief summary how each idea improves the usability of the site for the site's audience.
 
-TODO
+Carousel
+
+We plan on implementing a carousel into the Gallery Page so that the user can view images of past projects. As our client wishes to have a separate carousel for each project, we will have several carousels that each display images from a specific project. This will help the user explore various projects and become interested in the course offerings.
+
+Tabs
+
+For the Course Page, we will organize the contents with tabs. So, while the course title and description will remain on the page, the user can switch tabs to view different information about the course, such as a course overview, frequently asked questions, and the instructors teaching the course. In this way, the course page will not be overwhelming with all of this information all at once and the user has more liberty to view the information needed and be more compelled to enroll.
 
 
 ### Layout Exploration (Milestone 2)
