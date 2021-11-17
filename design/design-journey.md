@@ -448,6 +448,29 @@ Explanation: Since we have many images with details that users may zoom in to se
 TODO
 ```
 
+Online Course:
+
+-About button: <div id="button-about">
+-Content button: <div id="button-content">
+-Instructors button: <div id="button-instructors">
+-Goal button: <div id="button-goal">
+-FAQ button: <div id="button-faq">
+
+-About tab: <div id="tab-about">
+-Content tab: <div id="tab-content">
+-Instructors tab: <div id="tab-instructors">
+-Goal tab: <div id="tab-goal">
+-FAQ tab: <div id="tab-faq">
+
+-#button-about, #button-content, #button-instructors, #button-goal, #button-goal -style like buttons with white background color.
+-#button-about: hover, #button-content: hover, #button-instructors: hover, #button-goal: hover, #button-goal: hover - cursor turns pointer on hover, font-color turns darker on hover.
+-#button-about: focus, #button-content: focus, #button-instructors: focus, #button-goal: focus, #button-goal: focus - font-color stays darker when clicked.
+
+When #button-about is clicked, remove .accessible-hidden from #tab-about, add .accessible-hidden to #tab-content, #tab-instructors, #tab-goal, #tab-faq. (This would be the initial state.)
+When #button-content is clicked, remove .accessible-hidden from #tab-content, add .accessible-hidden to #tab-about, #tab-instructors, #tab-goal, #tab-faq.
+When #button-instructors is clicked, remove .accessible-hidden from #tab-instructors, add .accessible-hidden to #tab-about, #tab-content, #tab-goal, #tab-faq.
+When #button-goal is clicked, remove .accessible-hidden from #tab-goal, add .accessible-hidden to #tab-about, #tab-content, #tab-instructors, #tab-faq.
+When #button-faq is clicked, remove .accessible-hidden from #tab-faq, add .accessible-hidden to #tab-about, #tab-content, #tab-instructors, #tab-goal.
 
 ## Client Feedback & Minutes (Milestone 2)
 > You should meet with your client again to obtain feedback on your design.
