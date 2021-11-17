@@ -401,19 +401,19 @@ For the Course Page, we will organize the contents with tabs. So, while the cour
 
 **Mobile Design:**
 1. **Home Page**
-![mobile_layout_home](insert image)
+![mobile_layout_home](mobile-home.jpg)
 Explanation:
 
 2. **Course Page**
-![mobile_layout_course](insert image)
+![mobile_layout_course](mobile-course.jpg)
 Explanation:
 
 3. **Resource Page**
-![mobile_layout_resource](insert image)
+![mobile_layout_resource](mobile-research.jpg)
 Explanation:
 
 4. **Gallery Page**
-![mobile_layout_gallery](insert image)
+![mobile_layout_gallery](mobile-gallery.jpg)
 Explanation:
 
 
@@ -456,7 +456,7 @@ Explanation: In our client meeting, our client wish to have two sections for thi
 
 
 4. **Gallery Page**
-Explanation: Since we have many images with details that users may zoom in to see clearly, for example, the map showing where all participants are from, we plan to use a carousel. In this way, users would see it clearly directly without manually zooming in or doing other steps, and carousel is also a familiar design that shows images so that users woudl know how to browse.
+Explanation: Since we have many images with details that users may zoom in to see clearly, for example, the map showing where all participants are from, we plan to use a carousel. In this way, users would see it clearly directly without manually zooming in or doing other steps, and carousel is also a familiar design that shows images so that users would know how to browse.
 
 
 
