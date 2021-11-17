@@ -351,7 +351,7 @@ The final organization of the content aligns with the audience's goals and makes
 
 > Explain why the names of these pages make sense for your site's audience and their goals.
 
-The names of these pages make sense because they are brief and concise so that the user can easily navigate to the desired content. These pages also align with our client's needs and separates all the information into logical categories. Since the main purpose of the Learning section of the Civic Ecology Lab is to present all of the online courses, it makes sense to position the Courses Page right after the Home Page. 
+The names of these pages make sense because they are brief and concise so that the user can easily navigate to the desired content. These pages also align with our client's needs and separates all the information into logical categories. Since the main purpose of the Learning section of the Civic Ecology Lab is to present all of the online courses, it makes sense to position the Courses Page right after the Home Page.
 
 
 
@@ -361,7 +361,7 @@ The names of these pages make sense because they are brief and concise so that t
 > Discuss several (more than two) ideas about styling your site's theme. Explain why the theme ideas are appropriate for your target audiences.
 > Note the theme you selected for you site and why it's appropriate for the audience and their goals.
 
-TODO
+Since our client prefers bright and professional colors that compliment the theme of nature, we are planning on using a color palette of about three to five colors throughout the site. Limiting our use of too many colors will ensure that our site remains professional and makes the audience feel a sense of security from our site. Possible color palettes are shades of green, brown, and blue as they all convey a sense of the natural environment. Another idea is to use simplistic fonts such as san serif fonts so that the text also appears clean and organized. 
 
 
 ### Interactivity Ideas (Milestone 2)
