@@ -388,7 +388,11 @@ For the Course Page, we will organize the contents with tabs. So, while the cour
 > Explain and/or provide annotated sketches of the interactivity you will implement for your site.
 > Explain how the interactivity improves the usability of the site and helps the site's audiences meet their goals.
 
-TODO
+**Tab Design**
+![Tab Iteration](tab-interactivity.jpg)
+
+**Carousel Design**
+![Carousel Iteration](carousel-interactivity.jpg)
 
 
 ### Final Design (Milestone 2)
