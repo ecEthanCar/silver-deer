@@ -451,23 +451,22 @@ Explanation: Since we have many images with details that users may zoom in to se
 > Describe how you will implement the interactivity. This should be a complete plan that another 1300 student could use to implement the interactivity.
 > You should list the elements, any CSS classes, events, pseudocode, and the initial state.
 
-```
-TODO
-```
+**Tab Interactivity**
 
-Online Course:
+HTML
+- About button: `<div id="button-about">`
+- Content button: `<div id="button-content">`
+- Instructors button: `<div id="button-instructors">`
+- Goal button: `<div id="button-goal">`
+- FAQ button: `<div id="button-faq">`
+- About tab: `<div id="tab-about">`
+- Content tab: `<div id="tab-content">`
+- Instructors tab: `<div id="tab-instructors">`
+- Goal tab: `<div id="tab-goal">`
+- FAQ tab: `<div id="tab-faq">`
 
--About button: `<div id="button-about">`
--Content button: `<div id="button-content">`
--Instructors button: `<div id="button-instructors">`
--Goal button: `<div id="button-goal">`
--FAQ button: `<div id="button-faq">`
--About tab: `<div id="tab-about">`
--Content tab: `<div id="tab-content">`
--Instructors tab: `<div id="tab-instructors">`
--Goal tab: `<div id="tab-goal">`
--FAQ tab: `<div id="tab-faq">`
 
+CSS
 - #button-about, #button-content, #button-instructors, #button-goal, #button-goal: style like buttons with white background color.
 - #button-about: hover
 - #button-content: hover
@@ -481,6 +480,8 @@ Online Course:
 - #button-goal: focus - font-color stays darker when clicked
 - .hidden: hides element
 
+
+Javascript
 ```
 When #button-about is clicked,
 remove .accessible-hidden from #tab-about,
