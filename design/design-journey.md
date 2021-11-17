@@ -368,12 +368,11 @@ Since our client prefers bright and professional colors that compliment the them
 > Brainstorm several ideas for your site's interactivity.
 > Provide a very brief summary how each idea improves the usability of the site for the site's audience.
 
-Carousel
+**Carousel**
 
 We plan on implementing a carousel into the Gallery Page so that the user can view images of past projects. As our client wishes to have a separate carousel for each project, we will have several carousels that each display images from a specific project. This will help the user explore various projects and become interested in the course offerings.
 
-Tabs
-
+**Tabs**
 For the Course Page, we will organize the contents with tabs. So, while the course title and description will remain on the page, the user can switch tabs to view different information about the course, such as a course overview, frequently asked questions, and the instructors teaching the course. In this way, the course page will not be overwhelming with all of this information all at once and the user has more liberty to view the information needed and be more compelled to enroll.
 
 
@@ -388,7 +387,11 @@ For the Course Page, we will organize the contents with tabs. So, while the cour
 > Explain and/or provide annotated sketches of the interactivity you will implement for your site.
 > Explain how the interactivity improves the usability of the site and helps the site's audiences meet their goals.
 
-TODO
+**Tab Design**
+![Tab Iteration](tab-interactivity.jpg)
+
+**Carousel Design**
+![Carousel Iteration](carousel-interactivity.jpg)
 
 
 ### Final Design (Milestone 2)
@@ -448,32 +451,55 @@ Explanation: Since we have many images with details that users may zoom in to se
 > Describe how you will implement the interactivity. This should be a complete plan that another 1300 student could use to implement the interactivity.
 > You should list the elements, any CSS classes, events, pseudocode, and the initial state.
 
+**Tab Interactivity**
+
+HTML
+- About button: `<div id="button-about">`
+- Content button: `<div id="button-content">`
+- Instructors button: `<div id="button-instructors">`
+- Goal button: `<div id="button-goal">`
+- FAQ button: `<div id="button-faq">`
+- About tab: `<div id="tab-about">`
+- Content tab: `<div id="tab-content">`
+- Instructors tab: `<div id="tab-instructors">`
+- Goal tab: `<div id="tab-goal">`
+- FAQ tab: `<div id="tab-faq">`
+
+
+CSS
+- #button-about, #button-content, #button-instructors, #button-goal, #button-goal: style like buttons with white background color.
+- #button-about: hover
+- #button-content: hover
+- #button-instructors: hover
+- #button-goal: hover
+- #button-goal: hover - cursor turns pointer on hover, font-color turns darker on hover.
+- #button-about: focus
+- #button-content: focus
+- #button-instructors: focus
+- #button-goal: focus
+- #button-goal: focus - font-color stays darker when clicked
+- .hidden: hides element
+
+
+Javascript
 ```
-TODO
+When #button-about is clicked,
+remove .accessible-hidden from #tab-about,
+add .accessible-hidden to #tab-content, #tab-instructors, #tab-goal, #tab-faq. (This would be the initial state.)
+When #button-content is clicked,
+remove .accessible-hidden from #tab-content,
+add .accessible-hidden to #tab-about, #tab-instructors, #tab-goal, #tab-faq.
+When #button-instructors is clicked,
+remove .accessible-hidden from #tab-instructors,
+add .accessible-hidden to #tab-about, #tab-content, #tab-goal, #tab-faq.
+When #button-goal is clicked,
+remove .accessible-hidden from #tab-goal,
+add .accessible-hidden to #tab-about, #tab-content, #tab-instructors, #tab-faq.
+When #button-faq is clicked,
+remove .accessible-hidden from #tab-faq,
+add .accessible-hidden to #tab-about, #tab-content, #tab-instructors, #tab-goal.
 ```
 
-Online Course:
-
--About button: <div id="button-about">
--Content button: <div id="button-content">
--Instructors button: <div id="button-instructors">
--Goal button: <div id="button-goal">
--FAQ button: <div id="button-faq">
--About tab: <div id="tab-about">
--Content tab: <div id="tab-content">
--Instructors tab: <div id="tab-instructors">
--Goal tab: <div id="tab-goal">
--FAQ tab: <div id="tab-faq">
-
--#button-about, #button-content, #button-instructors, #button-goal, #button-goal -style like buttons with white background color.
--#button-about: hover, #button-content: hover, #button-instructors: hover, #button-goal: hover, #button-goal: hover - cursor turns pointer on hover, font-color turns darker on hover.
--#button-about: focus, #button-content: focus, #button-instructors: focus, #button-goal: focus, #button-goal: focus - font-color stays darker when clicked.
-
-When #button-about is clicked, remove .accessible-hidden from #tab-about, add .accessible-hidden to #tab-content, #tab-instructors, #tab-goal, #tab-faq. (This would be the initial state.)
-When #button-content is clicked, remove .accessible-hidden from #tab-content, add .accessible-hidden to #tab-about, #tab-instructors, #tab-goal, #tab-faq.
-When #button-instructors is clicked, remove .accessible-hidden from #tab-instructors, add .accessible-hidden to #tab-about, #tab-content, #tab-goal, #tab-faq.
-When #button-goal is clicked, remove .accessible-hidden from #tab-goal, add .accessible-hidden to #tab-about, #tab-content, #tab-instructors, #tab-faq.
-When #button-faq is clicked, remove .accessible-hidden from #tab-faq, add .accessible-hidden to #tab-about, #tab-content, #tab-instructors, #tab-goal.
 
 ## Client Feedback & Minutes (Milestone 2)
 > You should meet with your client again to obtain feedback on your design.
