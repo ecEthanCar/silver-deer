@@ -422,9 +422,11 @@ For the Course Page, we will organize the contents with tabs. So, while the cour
 *Mobile sketches:*
 
 ![Mobile sketch of gallery page layout](mobilecarousel.jpeg)
+
 Explanation: It's simple one-column design allows it to easily fit in a narrower screen size. The positioning of the buttons also prevents any horinzontal cramming.
 
 ![Mobile sketch of courses page layout](mobiletabs.jpeg)
+
 Explanation: It's simple one-column design allows it to easily fit in a narrower screen size. Not much needs to be changed from the desktop version since the tabs would be the only things that would be horizontal content. Of course, all images and text should not be next to each other to avoid content cramming.
 
 Cons: Both of these layouts are pretty simple, but it needs to be if it is going to fit on a narrower mobile screen.
@@ -432,6 +434,7 @@ Cons: Both of these layouts are pretty simple, but it needs to be if it is going
 *Desktop sketches:*
 
 ![Desktop sketch of general page layout](desktop-layout.jpeg)
+
 Explanation: It coudl be used for any general page. I consider adding a side bar because the desktop layout has enough width. In this way, users could directly see how many sections we have for this page, and also they could just click on the title to go to that part.
 
 Cons: we may not have a page that has that may subtitles, the sidebar might have a large white space not used.
@@ -473,13 +476,12 @@ The resources page resembles the desktop layout of this page as it begins with t
 
 4. **Gallery Page**
 ![mobile_layout_gallery](mobile-gallery.jpg)
-Explanation:
-The gallery page will maintain the carousels from the desktop version. However, the carousels will have bigger arrows that take up the whole height of the carousel so that it is more easily clickable on a small screen. The descriptions for each image may also be hidden so the words do not take up the limited space and instead focus on the images.
+Explanation: The gallery page will maintain the carousels from the desktop version. However, the carousels will have bigger arrows that take up the whole height of the carousel so that it is more easily clickable on a small screen. The descriptions for each image may also be hidden so the words do not take up the limited space and instead focus on the images.
 
 
 **Desktop Design:**
-1. **Home Page**
 ![layout_home](layout_home_d.png)
+1. **Home Page**
 Explanation: a background image that takes a wide space, with texts devided into chunks. Each chunk  contains some brieft description of the lab, including Intro, expectation, and short intro video.  
 
 
@@ -551,6 +553,7 @@ CSS
 - .carouselhead
 - .carouselparas
 
+Javascript
 ``` (Pseudocode)
 (for all carousels (Week 1-3))
 
