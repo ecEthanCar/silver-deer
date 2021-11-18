@@ -268,9 +268,7 @@ Note:
 
 **Interviewee 4:**
 
-Description:
-
-He is a junior at Tufts University majoring in Environmental Science, Architecture, and Studio Art with a concentration in sculpture.
+Description: He is a junior at Tufts University majoring in Environmental Science, Architecture, and Studio Art with a concentration in sculpture.
 
 Notes:
 - He gained interest in ecology through playing in the gorges and rivers during his childhood.
@@ -480,8 +478,8 @@ Explanation: The gallery page will maintain the carousels from the desktop versi
 
 
 **Desktop Design:**
-![layout_home](layout_home_d.png)
 1. **Home Page**
+![layout_home](layout_home_d.png)
 Explanation: a background image that takes a wide space, with texts devided into chunks. Each chunk  contains some brieft description of the lab, including Intro, expectation, and short intro video.  
 
 
