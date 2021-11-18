@@ -505,22 +505,22 @@ Explanation: we plan to use a carousel to display all images.
 For each page, we choose different types of layout.
 1. **Home Page**
 
-    Explanation: The current learning website has different sections of texts aligned horinzontally (side by side). For example, the list of courses offered and an intro of the lab were put side by side. Since they are both texts, users would find too many texts in one place. We plan to everything with different topics vertically, and it followes reader's way to skim the website.
+    Explanation: The current learning website has different sections of texts aligned horizontally (side by side). For example, the list of courses offered and an intro of the lab was put side by side. Since they are both texts, users would find too many texts in one place. We plan to everything with different topics vertically, and it follows the reader's way to skim the website.
 
 
 2. **Course Page**
 
-    Explanation: Currently the course page has too many contents, and users need to scroll multiple times to see all of them. Therefore, we will use tab to first show users all aspects of descriptions to this course that we have. In our interview, different users cares about different things before registering the course, so that they might have a faster way to have access to that piece of information thay are interested in. Using a tab feature, users could directly go to the part that they wish to know more without reading other information they are not interested in while scrolling.
+    Explanation: Currently, the course page has too much content, and users need to scroll multiple times to see all of them. Therefore, we will use tabs first to show users all aspects of this course's descriptions. In our interview, different users care about other things before registering for the course so that they might have a faster way to have access to that piece of information they are interested in. Users could directly go to the part they wish to know more about using a tab feature without reading other information they are not interested in while scrolling.
 
 
 3. **Resource Page**
 
-    Explanation: In our client meeting, our client wish to have two sections for this page: projects and publication. Though have more than one topics, we still don't plan to a tab bar like we will do for the course page. It is because that there will only be two topics, and for each topic there will only be an overview and thus there won't be many contents shown on the web. For example, under the publication section, we will list out a limited chosen number of publications, with each having a link to another page with more detailed description of that publication.
+    Explanation: Our client wished to have two sections for this page in our client meeting: projects and publication. Though having more than one topic, we still don't plan to a tab bar as we will do for the course page. It is because there will only be two topics, and for each topic, there will only be an overview, and thus there won't be much content shown on the web. For example, under the publication section, we will list out a limited chosen number of publications, with each having a link to another page with a more detailed description of that publication.
 
 
 4. **Gallery Page**
 
-    Explanation: Since we have many images with details that users may zoom in to see clearly, for example, the map showing where all participants are from, we plan to use a carousel. In this way, users would see it clearly directly without manually zooming in or doing other steps, and carousel is also a familiar design that shows images so that users would know how to browse.
+    Explanation: We plan to use a carousel since we have many images with details that users may zoom in to see clearly, for example, the map showing where all participants are from. In this way, users would see it clearly directly without manually zooming in or doing other steps. Carousel is also a familiar design that shows images so that users would know how to browse.
 
 
 
