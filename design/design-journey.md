@@ -254,16 +254,15 @@ Note:
   - a great opportunity to help her enhance eco background as a person who had never learned it before.
 
 6. While taking the actual course, what were your most and least favorite moments in it?
-  - + :
-    - as an international student, the subtitle helped her out sometimes to understand the material more easily.
-    - a sense of community, lots of extraccuricular opportunities like guest speech
+  - as an international student, the subtitle helped her out sometimes to understand the material more easily.
+  - a sense of community, lots of extraccuricular opportunities like guest speech
 
 7. After taking the course, was there any information you wish you had known about the course beforehand or information that you weren't able to find?
   - There is no enough platform to show this lab to the public.
   - she wished she had known that students with no ecology background are not supposed to feel depreciated about themselves and be timid in reaching out for new learning and working opportunities in this field. "You are understood and warmly welcomed to enter this field by the community. As enriching yourself with ecology-related knowledge step by step, you'll find boosting opportunities, and your interdisciplinary enlarge this zone as well."
 
 8. What haven't I asked you today that you think would be valuable for me to know?
-  - This lab really welcomes all people with different background
+  - This lab really welcomes all people with different backgrounds
   - the registration fee was not that much, and you can get a free course to try.
   - One professor of the course initiated the Glocal Climate Change Association
   - Being one of the TAs, she with other TAs hold many activities & zoom discussions.
