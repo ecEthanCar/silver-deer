@@ -419,11 +419,17 @@ For the Course Page, we will organize the contents with tabs. So, while the cour
 > Here you are just exploring your layout ideas. You don't need to sketch every page.
 > Provide an explanation for each sketch explaining the idea and the design patterns you are leveraging.
 
+*Mobile sketches:*
+
 ![Mobile sketch of gallery page layout](mobilecarousel.jpeg)
 Explanation: It's simple one-column design allows it to easily fit in a narrower screen size. The positioning of the buttons also prevents any horinzontal cramming.
 
 ![Mobile sketch of courses page layout](mobiletabs.jpeg)
 Explanation: It's simple one-column design allows it to easily fit in a narrower screen size. Not much needs to be changed from the desktop version since the tabs would be the only things that would be horizontal content. Of course, all images and text should not be next to each other to avoid content cramming.
+
+Cons: Both of these layouts are pretty simple, but it needs to be if it is going to fit on a narrower mobile screen.
+
+*Desktop sketches:*
 
 ![Desktop sketch of general page layout](desktop-layout.jpeg)
 Explanation: It coudl be used for any general page. I consider adding a side bar because the desktop layout has enough width. In this way, users could directly see how many sections we have for this page, and also they could just click on the title to go to that part.
