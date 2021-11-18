@@ -352,7 +352,8 @@ The content listed above is suitable for our audience because it satisfies their
 > Include photographic evidence of each iteration of card sorting and description of your thought process for each iteration.
 
 ![Iteration 1](iteration-1.jpg)
-Thought Process: TODO
+Thought Process:
+Page 1 would be the introduction and an  brief overview of the lab. The videos are about the intro to the lab (as our client has showed to us), and images of Map is also an overview of all members, which serves for the purpose of introduction. Page 2 are everything about the specific course. Page 3 are things related to academics but extraccuricular (i.e. resources outside class). Page 4 would be things that are more relaxing and help create a sense of community in the lab. Images from projects would show how people interact with each other, and links to social would would also show those interactions and on-going activties in the lab. For all other thinsg on all pages, they are minor/ general thinsg did not really serve any specfic purpose but is essential to the structure or functionality.
 
 
 ![Iteration 2](iteration-2.jpg)
