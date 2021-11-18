@@ -364,7 +364,7 @@ Thought Process: My thought process for this card sorting was to group the conte
 
 
 ![Iteration 4](iteration-4.jpg)
-Thought Process: TODO
+Thought Process: My thought process for the card sorting is to group the contents that are going to appear on one page together, and the content related to the course together, and projects and related pictures together, and anything that is very active/attracting like image of map, videos and social media in one group.
 
 
 ### Final Content Organization (Milestone 2)
