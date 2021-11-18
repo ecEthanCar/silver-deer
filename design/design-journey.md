@@ -442,18 +442,25 @@ Explanation: It's simple one-column design allows it to easily fit in a narrower
 1. **Home Page**
 ![mobile_layout_home](mobile-home.jpg)
 Explanation:
+The logo and navigation bar will still appear in the mobile display. However, the big image right below will not be displayed as it will take up too much space. The home page will instead begin with the title of the Civic Ecology Lab and then feature the introduction text below. The video and list of expectations will then follow underneath so that it can each part can be viewed as the user scrolls.
+
 
 2. **Course Page**
 ![mobile_layout_course](mobile-course.jpg)
 Explanation:
+The course page on the mobile design will not have an image as it will take up too much space. Instead, each course will start with the course title and the enroll button underneath. The tabs will then take up the horizontal space and the content underneath the tab will change based on the selected tab.
+
 
 3. **Resource Page**
 ![mobile_layout_resource](mobile-research.jpg)
 Explanation:
+The resources page resembles the desktop layout of this page as it begins with the title and lists all projects or publications underneath. Each project/publication will take its own line and the content stacks vertically as this is a mobile display and the information is viewed from top to bottom.
+
 
 4. **Gallery Page**
 ![mobile_layout_gallery](mobile-gallery.jpg)
 Explanation:
+The gallery page will maintain the carousels from the desktop version. However, the carousels will have bigger arrows that take up the whole height of the carousel so that it is more easily clickable on a small screen. The descriptions for each image may also be hidden so the words do not take up the limited space and instead focus on the images.
 
 
 **Desktop Design:**
