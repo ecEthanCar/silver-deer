@@ -59,9 +59,9 @@
 > Explain why your client meets the client rules in the project requirements.
 
 - Our client Yue Li is a Research Associate in the Department of Natural Resources and the Environment at Cornell University. And fulfills the clients rules because of the following:
-  1. Our client is not one of the members of our group.
-  2. None of us are associated with the Department of Natural Resources and the Environment.
-  3. None of use knew who this client was before hand, and therefore have no close personal relationship with said client.
+    - Our client is not one of the members of our group.
+    - None of us are associated with the Department of Natural Resources and the Environment.
+    - None of use knew who this client was before hand, and therefore have no close personal relationship with said client.
 
 
 ## Client Website (Milestone 1)
@@ -176,7 +176,10 @@ The site’s audience is a global community of educators, students, and voluntee
 > Interview at least 4 people from your audience. Take notes and include those notes here. Make sure to include a brief description of each interviewee.
 
 **Interviewee 1:**
+
 Description: Audrey Andres is a Cornell Hotel School student from the Bay Area in California.
+
+
 Notes: Audrey loves Ecology, and she lived in the ecology house (a dorm)  last year at Cornell where she learned a lot of related knowledge about ecology. She is interested in sustainability and creating sustainable businesses. In her personal life, she has a passion for nature and the outdoors. She wants to work for or create her own company in the future focusing on sustainability and hospitality. Specifically, trying to make a benchmark restaurant that focuses on sustainability, since there is so much waste in the restaurant. With climate change, crewships, hotels and restaurants will have to address all of the waste of energy, food, etc. in their operations. She has not taken any online or in person ecology classes, but she is looking at enrolling in ecology classes at Cornell. She has seeked out ecology classes on Class Roster. For learning online, she likes to learn through videos and practice problems. If it is only through reading, nothing could really be absorbed. Most of her online classes are distributed through Canvas, and her least favorite part of Canvas is that the calendar does not have clear due dates, class times in one place. Her favorite part about Canvas is that Canvas is very convenient and she can use it on both her phone and the computer. She gained ecology knowledge mostly from the Cornell Library database or just by looking online through YouTube videos or webpages. Her purpose of researching ecology is for personal purposes/interests. I also showed her the existing webpage, and she pointed out that it would be helpful to put the courses front and center and have a description of the course.
 
 
@@ -195,83 +198,92 @@ Description:
 Notes:
 
 2. What is your background in ecology, if any?
-  - Took general ecology class in college
+    - Took general ecology class in college
 3. How do you plan on applying this knowledge in the future?
-  - Wants to apply ecology knowledge in both professional and personal aspects of his life
-  - Professional:
+    - Wants to apply ecology knowledge in both professional and personal aspects of his life
+        - Professional:
     - Want to pass ecology knowledge to other students
     - Wants to teach nature education
-  - Personal:
+        - Personal:
     - Wants kids to grow up surrounded by nature
     - Wants people to reconnect with nature especially because of urbanization
 4. Have you taken any online or in-person ecology courses? (No matter the response) Describe your experience.
-  - Took “Nature Education” course from Civic Ecology Lab
-  - Found it generous of them to have classes without a fee during covid
-  - Dedicated several hours a week to course
-  - Enjoyed how the course was “brief and enough” - not too short and too long
-  - All online courses lasted only one hour so time management was perfect
+    - Took “Nature Education” course from Civic Ecology Lab
+    - Found it generous of them to have classes without a fee during covid
+    - Dedicated several hours a week to course
+    - Enjoyed how the course was “brief and enough” - not too short and too long
+    - All online courses lasted only one hour so time management was perfect
 5. If you’ve registered for an ecology course before (if not ecology, any online course), did you seek out any information beforehand? Where did you seek out this information? What attracted you to register for your most recent course?
 First e-learning course
-  - One of his friends advertised it in a group and applied for it
+    - One of his friends advertised it in a group and applied for it
 6. While taking the actual course, what were your most and least favorite moments in it?
-  - Favorite moments:
-    - Got a chance to talk to everyone including the professor
-    - Course provided free pdf file, did not have to buy a textbook (no additional fees)
-  - Least Favorite moment:
-    - None so far
+    - Favorite moments:
+      - Got a chance to talk to everyone including the professor
+      - Course provided free pdf file, did not have to buy a textbook (no additional fees)
+    - Least Favorite moment:
+      - None so far
 7. After taking the course, was there any information you wish you had known about the course beforehand or information that you weren't able to find?
-  - Was fully satisfied
-  - Did not seek outside info, everything needed was included in the course site
+    - Was fully satisfied
+    - Did not seek outside info, everything needed was included in the course site
 8. What haven't I asked you today that you think would be valuable for me to know?
-  - Some people just lost their job, or are in a difficult situation, so would like if they offered an option to waive the fee even after covid
-  - Wished that the people who took the course could be considered for possible research opportunities by professors (wants to gain connections from course)
+    - Some people just lost their job, or are in a difficult situation, so would like if they offered an option to waive the fee even after covid
+    - Wished that the people who took the course could be considered for possible research opportunities by professors (wants to gain connections from course)
 
 
 **Interviewee 3:**
 
 Description: Beijing, major in MPA, full-time student at NYU, and also currently a TA in civic ecology lab.
 
+
 Note:
+
 2. What is your background in ecology, if any?
-  - Before joining this lab, no background at all.
-  - now she is a TA of a course in this lab
-
+    - Before joining this lab, no background at all.
+    - now she is a TA of a course in this lab
 3. How do you plan on applying this knowledge in the future?
-  - wish to apply eco knowlefge to public policy or environmental sustainability & climate change.
-  - do some volunteering work
-
-4. Have you taken any online or in-person ecology courses? (No matter the response) Describe your experience.
-  Course in this lab.
-  - while/after taking the courses, she participated in group research in CHINA YOUTH CLIMATE ACTION NETWORK;  
-  - volunteered at Jane goodall's  ROOTS & SHOOTS institution;
-  - interned in international natrue travel company
-  - why? because to change my major and achieve my career goal, I need to learn from the practice and apply my knowledge in practive as well.
-  - helpful? Yes. Through researching, working and the natural networking, I got to know more poeple in this field, which broaden my horizon and helped me connect to more opportunities.
-
-
+    - wish to apply eco knowlefge to public policy or environmental sustainability & climate change.
+    - do some volunteering work
+4. Have you taken any online or in-person ecology courses? (No matter the response) Describe your experience. Course in this lab.
+    - while/after taking the courses, she participated in group research in CHINA YOUTH CLIMATE ACTION NETWORK;  
+    - volunteered at Jane goodall's  ROOTS & SHOOTS institution;
+    - interned in international natrue travel company
+    - why? because to change my major and achieve my career goal, I need to learn from the practice and apply my knowledge in practive as well.
+    - helpful? Yes. Through researching, working and the natural networking, I got to know more poeple in this field, which broaden my horizon and helped me connect to more opportunities.
 5. If you’ve registered for an ecology course before (if not ecology, any online course), did you seek out any information beforehand? Where did you seek out this information? What attracted you to register for your most recent course?
-  - heard it from another person. Knew that this course does not require any experience before (she said it was important), and since she wished to change major to eco at that time, so this course was a good fit.
-  - a great opportunity to help her enhance eco background as a person who had never learned it before.
-
+    - heard it from another person. Knew that this course does not require any experience before (she said it was important), and since she wished to change major to eco at that time, so this course was a good fit.
+    - a great opportunity to help her enhance eco background as a person who had never learned it before.
 6. While taking the actual course, what were your most and least favorite moments in it?
-  - + :
-    - as an international student, the subtitle helped her out sometimes to understand the material more easily.
-    - a sense of community, lots of extraccuricular opportunities like guest speech
+<<<<<<< HEAD
+    - + :
+      - as an international student, the subtitle helped her out sometimes to understand the material more easily.
+      - a sense of community, lots of extraccuricular opportunities like guest speech
+=======
+  - as an international student, the subtitle helped her out sometimes to understand the material more easily.
+  - a sense of community, lots of extraccuricular opportunities like guest speech
 
+>>>>>>> 0e558170d062af5f09bc1f2e640152b9111244a6
 7. After taking the course, was there any information you wish you had known about the course beforehand or information that you weren't able to find?
-  - There is no enough platform to show this lab to the public.
-  - she wished she had known that students with no ecology background are not supposed to feel depreciated about themselves and be timid in reaching out for new learning and working opportunities in this field. "You are understood and warmly welcomed to enter this field by the community. As enriching yourself with ecology-related knowledge step by step, you'll find boosting opportunities, and your interdisciplinary enlarge this zone as well."
-
+    - There is no enough platform to show this lab to the public.
+    - she wished she had known that students with no ecology background are not supposed to feel depreciated about themselves and be timid in reaching out for new learning and working opportunities in this field. "You are understood and warmly welcomed to enter this field by the community. As enriching yourself with ecology-related knowledge step by step, you'll find boosting opportunities, and your interdisciplinary enlarge this zone as well.
 8. What haven't I asked you today that you think would be valuable for me to know?
-  - This lab really welcomes all people with different background
+<<<<<<< HEAD
+    - This lab really welcomes all people with different background
+    - the registration fee was not that much, and you can get a free course to try.
+    - One professor of the course initiated the Glocal Climate Change Association
+    - Being one of the TAs, she with other TAs hold many activities & zoom discussions.
+=======
+  - This lab really welcomes all people with different backgrounds
   - the registration fee was not that much, and you can get a free course to try.
   - One professor of the course initiated the Glocal Climate Change Association
   - Being one of the TAs, she with other TAs hold many activities & zoom discussions.
+>>>>>>> 0e558170d062af5f09bc1f2e640152b9111244a6
 
 
 **Interviewee 4:**
 
-Description: He is a junior at Tufts University majoring in Environmental Science, Architecture, and Studio Art with a concentration in sculpture.
+Description:
+
+He is a junior at Tufts University majoring in Environmental Science, Architecture, and Studio Art with a concentration in sculpture.
 
 Notes:
 - He gained interest in ecology through playing in the gorges and rivers during his childhood.
@@ -410,6 +422,7 @@ Since our client prefers bright and professional colors that compliment the them
 We plan on implementing a carousel into the Gallery Page so that the user can view images of past projects. As our client wishes to have a separate carousel for each project, we will have several carousels that each display images from a specific project. This will help the user explore various projects and become interested in the course offerings.
 
 **Tabs**
+
 For the Course Page, we will organize the contents with tabs. So, while the course title and description will remain on the page, the user can switch tabs to view different information about the course, such as a course overview, frequently asked questions, and the instructors teaching the course. In this way, the course page will not be overwhelming with all of this information all at once and the user has more liberty to view the information needed and be more compelled to enroll.
 
 
@@ -504,19 +517,23 @@ Explanation: we plan to use a carousel to display all images.
 
 For each page, we choose different types of layout.
 1. **Home Page**
-Explanation: The current learning website has different sections of texts aligned horinzontally (side by side). For example, the list of courses offered and an intro of the lab were put side by side. Since they are both texts, users would find too many texts in one place. We plan to everything with different topics vertically, and it followes reader's way to skim the website.
+
+    Explanation: The current learning website has different sections of texts aligned horinzontally (side by side). For example, the list of courses offered and an intro of the lab were put side by side. Since they are both texts, users would find too many texts in one place. We plan to everything with different topics vertically, and it followes reader's way to skim the website.
 
 
 2. **Course Page**
-Explanation: Currently the course page has too many contents, and users need to scroll multiple times to see all of them. Therefore, we will use tab to first show users all aspects of descriptions to this course that we have. In our interview, different users cares about different things before registering the course, so that they might have a faster way to have access to that piece of information thay are interested in. Using a tab feature, users could directly go to the part that they wish to know more without reading other information they are not interested in while scrolling.
+
+    Explanation: Currently the course page has too many contents, and users need to scroll multiple times to see all of them. Therefore, we will use tab to first show users all aspects of descriptions to this course that we have. In our interview, different users cares about different things before registering the course, so that they might have a faster way to have access to that piece of information thay are interested in. Using a tab feature, users could directly go to the part that they wish to know more without reading other information they are not interested in while scrolling.
 
 
 3. **Resource Page**
-Explanation: In our client meeting, our client wish to have two sections for this page: projects and publication. Though have more than one topics, we still don't plan to a tab bar like we will do for the course page. It is because that there will only be two topics, and for each topic there will only be an overview and thus there won't be many contents shown on the web. For example, under the publication section, we will list out a limited chosen number of publications, with each having a link to another page with more detailed description of that publication.
+
+    Explanation: In our client meeting, our client wish to have two sections for this page: projects and publication. Though have more than one topics, we still don't plan to a tab bar like we will do for the course page. It is because that there will only be two topics, and for each topic there will only be an overview and thus there won't be many contents shown on the web. For example, under the publication section, we will list out a limited chosen number of publications, with each having a link to another page with more detailed description of that publication.
 
 
 4. **Gallery Page**
-Explanation: Since we have many images with details that users may zoom in to see clearly, for example, the map showing where all participants are from, we plan to use a carousel. In this way, users would see it clearly directly without manually zooming in or doing other steps, and carousel is also a familiar design that shows images so that users would know how to browse.
+
+    Explanation: Since we have many images with details that users may zoom in to see clearly, for example, the map showing where all participants are from, we plan to use a carousel. In this way, users would see it clearly directly without manually zooming in or doing other steps, and carousel is also a familiar design that shows images so that users would know how to browse.
 
 
 
@@ -525,9 +542,9 @@ Explanation: Since we have many images with details that users may zoom in to se
 > Describe how you will implement the interactivity. This should be a complete plan that another 1300 student could use to implement the interactivity.
 > You should list the elements, any CSS classes, events, pseudocode, and the initial state.
 
-**Carousel Planning:**
+**Carousel Planning**
 
-HTML:
+HTML
 - Header: `<h1 class="carouselhead">`
 paragraphs: `<p class="carouselparas">`
 - Carousel: `<div id="'number'weekslide">`
@@ -538,7 +555,7 @@ paragraphs: `<p class="carouselparas">`
 - Shown Slides: `<div class="'number'slide" id="'number'slide'number'">`
 - Hidden Slides: `<div class="'number'slide hidden" id="'number'slide'number'">`
 
-CSS:
+CSS
 - .hidden
 - .arrow-button
 - .image-button
@@ -579,7 +596,7 @@ When user hovers mouse off of any button (#'button'):
 ```
 
 
-**Tab Interactivity**
+**Tab Planning**
 
 HTML
 - About button: `<div id="button-about">`
