@@ -419,8 +419,11 @@ For the Course Page, we will organize the contents with tabs. So, while the cour
 > Here you are just exploring your layout ideas. You don't need to sketch every page.
 > Provide an explanation for each sketch explaining the idea and the design patterns you are leveraging.
 
-![Mobile sketch of gallery layout](mobilecarousel.jpeg)
+![Mobile sketch of gallery page layout](mobilecarousel.jpeg)
 Explanation: It's simple one-column design allows it to easily fit in a narrower screen size. The positioning of the buttons also prevents any horinzontal cramming.
+
+![Mobile sketch of courses page layout](mobiletabs.jpeg)
+Explanation: It's simple one-column design allows it to easily fit in a narrower screen size. Not much needs to be changed from the desktop version since the tabs would be the only things that would be horizontal content. Of course, all images and text should not be next to each other to avoid content cramming.
 
 ### Final Interactivity Design (Milestone 2)
 > Explain and/or provide annotated sketches of the interactivity you will implement for your site.
