@@ -229,8 +229,44 @@ First e-learning course
 
 **Interviewee 3:**
 
-TODO: description
-TODO: notes
+Description: Beijing, major in MPA, full-time student at NYU, and also currently a TA in civic ecology lab.
+
+Note:
+2. What is your background in ecology, if any?
+  - Before joining this lab, no background at all.
+  - now she is a TA of a course in this lab
+
+3. How do you plan on applying this knowledge in the future?
+  - wish to apply eco knowlefge to public policy or environmental sustainability & climate change.
+  - do some volunteering work
+
+4. Have you taken any online or in-person ecology courses? (No matter the response) Describe your experience.
+  Course in this lab.
+  - while/after taking the courses, she participated in group research in CHINA YOUTH CLIMATE ACTION NETWORK;  
+  - volunteered at Jane goodall's  ROOTS & SHOOTS institution;
+  - interned in international natrue travel company
+  - why? because to change my major and achieve my career goal, I need to learn from the practice and apply my knowledge in practive as well.
+  - helpful? Yes. Through researching, working and the natural networking, I got to know more poeple in this field, which broaden my horizon and helped me connect to more opportunities.
+
+
+5. If you’ve registered for an ecology course before (if not ecology, any online course), did you seek out any information beforehand? Where did you seek out this information? What attracted you to register for your most recent course?
+  - heard it from another person. Knew that this course does not require any experience before (she said it was important), and since she wished to change major to eco at that time, so this course was a good fit.
+  - a great opportunity to help her enhance eco background as a person who had never learned it before.
+
+6. While taking the actual course, what were your most and least favorite moments in it?
+  - + :
+    - as an international student, the subtitle helped her out sometimes to understand the material more easily.
+    - a sense of community, lots of extraccuricular opportunities like guest speech
+
+7. After taking the course, was there any information you wish you had known about the course beforehand or information that you weren't able to find?
+  - There is no enough platform to show this lab to the public.
+  - she wished she had known that students with no ecology background are not supposed to feel depreciated about themselves and be timid in reaching out for new learning and working opportunities in this field. "You are understood and warmly welcomed to enter this field by the community. As enriching yourself with ecology-related knowledge step by step, you'll find boosting opportunities, and your interdisciplinary enlarge this zone as well."
+
+8. What haven't I asked you today that you think would be valuable for me to know?
+  - This lab really welcomes all people with different background
+  - the registration fee was not that much, and you can get a free course to try.
+  - One professor of the course initiated the Glocal Climate Change Association
+  - Being one of the TAs, she with other TAs hold many activities & zoom discussions.
 
 
 **Interviewee 4:**
