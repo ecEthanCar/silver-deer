@@ -425,6 +425,11 @@ Explanation: It's simple one-column design allows it to easily fit in a narrower
 ![Mobile sketch of courses page layout](mobiletabs.jpeg)
 Explanation: It's simple one-column design allows it to easily fit in a narrower screen size. Not much needs to be changed from the desktop version since the tabs would be the only things that would be horizontal content. Of course, all images and text should not be next to each other to avoid content cramming.
 
+![Desktop sketch of general page layout](desktop-layout.jpeg)
+Explanation: It coudl be used for any general page. I consider adding a side bar because the desktop layout has enough width. In this way, users could directly see how many sections we have for this page, and also they could just click on the title to go to that part.
+
+Cons: we may not have a page that has that may subtitles, the sidebar might have a large white space not used.
+
 ### Final Interactivity Design (Milestone 2)
 > Explain and/or provide annotated sketches of the interactivity you will implement for your site.
 > Explain how the interactivity improves the usability of the site and helps the site's audiences meet their goals.
