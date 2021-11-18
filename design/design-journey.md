@@ -365,7 +365,7 @@ Thought Process: My thought process for this card sorting was to group the conte
 
 
 ![Iteration 4](iteration-4.jpg)
-Thought Process: TODO
+Thought Process: My thought process for the card sorting is to group the contents that are going to appear on one page together, and the content related to the course together, and projects and related pictures together, and anything that is very active/attracting like image of map, videos and social media in one group.
 
 
 ### Final Content Organization (Milestone 2)
@@ -419,7 +419,7 @@ For the Course Page, we will organize the contents with tabs. So, while the cour
 > Here you are just exploring your layout ideas. You don't need to sketch every page.
 > Provide an explanation for each sketch explaining the idea and the design patterns you are leveraging.
 
-![Mobile sketch of gallery layout](mobilecarousel.jpg)
+![Mobile sketch of gallery layout](mobilecarousel.jpeg)
 Explanation: It's simple one-column design allows it to easily fit in a narrower screen size. The positioning of the buttons also prevents any horinzontal cramming.
 
 ### Final Interactivity Design (Milestone 2)
