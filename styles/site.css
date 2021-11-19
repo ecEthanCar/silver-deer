@@ -1,3 +1,23 @@
+/*Collective start*/
+
+/*Collective end*/
+
+/* Qiyu Hu start*/
+/* home page */
+
+
+
+/* Qiyu Hu end*/
+
+/* Helen Lim start*/
+/* Resource page */
+
+
+/* Helen Lim end*/
+
+/* Ethan start */
+/* Carousel */
+
 .hidden {
   display: none;
 }
@@ -25,10 +45,9 @@
 .carouselparas {
 
 }
+/* Ethan end */
 
-
-
-
+/* Xinyue Shi start*/
 /* tabs */
 .accessible-hidden{
   position: absolute;
@@ -38,3 +57,4 @@
   height: 1px;
   overflow: hidden;
 }
+/* Xinyue Shi end*/
