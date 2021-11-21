@@ -111,4 +111,9 @@ footer {
     margin-top: auto;
 }
 
+.footer-button {
+    color: white;
+    text-decoration: none;
+}
+
 /* Footer end */
