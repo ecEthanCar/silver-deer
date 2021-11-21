@@ -2,7 +2,7 @@
 html {
     font-family: Helvetica, Arial, sans-serif;
 }
-/* Navigation Bar */
+/* Navigation Bar start*/
 .header {
     background: white;
 }
@@ -11,21 +11,20 @@ nav {
     position: fixed;
     top: 0;
     width: 100%;
+    padding-left: 300px;
 }
 
 nav ul li {
     display: inline-block;
     text-decoration: none;
     text-align: center;
-    float: right;
-    padding-top: 50px;
-    padding-right: 50px;
+    padding: 50px;
 }
 
 nav a {
     color: #BACC81;
     text-decoration: none;
-    padding: 20px;
+    padding: 15px;
     font-weight: bold;
 }
 
@@ -35,7 +34,7 @@ nav a:hover {
     color: white;
     font-weight: bold;
 }
-/* Navigation Bar */
+/* Navigation Bar end */
 
 main {
     margin-top: 25px; /*so main content doesn't overlap with nav bar*/
@@ -99,3 +98,10 @@ main {
 
 }
 /* Ethan end */
+
+/* Footer start */
+footer {
+    background: #BACC81;
+}
+
+/* Footer end */
