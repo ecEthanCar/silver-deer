@@ -109,6 +109,7 @@ main {
 footer {
     background: #BACC81;
     margin-top: auto;
+    padding: 20px;
 }
 
 .footer-button {
