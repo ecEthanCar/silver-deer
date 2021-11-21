@@ -1,22 +1,75 @@
-/*Collective start*/
+/* Collective start */
+html {
+    font-family: Helvetica, Arial, sans-serif;
+}
+/* Navigation Bar */
+.header {
+    background: white;
+}
 
-/*Collective end*/
+nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
 
-/* Qiyu Hu start*/
+nav ul li {
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    float: right;
+    padding-top: 50px;
+    padding-right: 50px;
+}
+
+nav a {
+    color: #BACC81;
+    text-decoration: none;
+    padding: 20px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    background: #BACC81;
+    border-radius: 3%;
+    color: white;
+    font-weight: bold;
+}
+/* Navigation Bar */
+
+main {
+    margin-top: 25px; /*so main content doesn't overlap with nav bar*/
+}
+
+/* Collective end */
+
+/* Qiyu Hu start */
 /* home page */
 
 
 
-/* Qiyu Hu end*/
+/* Qiyu Hu end */
 
-/* Helen Lim start*/
-/* Resource page */
+/* Xinyue Shi start */
+/* courses page */
+.accessible-hidden{
+  position: absolute;
+  left: -10000px;
+  top:auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+/* Xinyue Shi end */
+
+/* Helen Lim start */
+/* resource page */
 
 
-/* Helen Lim end*/
+/* Helen Lim end */
 
 /* Ethan start */
-/* Carousel */
+/* gallery page */
 
 .hidden {
   display: none;
@@ -46,15 +99,3 @@
 
 }
 /* Ethan end */
-
-/* Xinyue Shi start*/
-/* tabs */
-.accessible-hidden{
-  position: absolute;
-  left: -10000px;
-  top:auto;
-  width: 1px;
-  height: 1px;
-  overflow: hidden;
-}
-/* Xinyue Shi end*/
