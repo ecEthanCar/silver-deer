@@ -598,7 +598,6 @@ HTML
 - Goal tab: `<div id="tab-outcome">`
 - FAQ tab: `<div id="tab-faq">`
 
-
 CSS
 - #button-about, #button-content, #button-instructors, #button-outcome, #button-goal: style like buttons with white background color.
 - #button-about: hover
