@@ -74,8 +74,85 @@ function showSlide(num) {
   let currentSlide = SLIDES.eq(index);
   const DOTS = $("circle");
   SLIDES.addClass("hidden");
-  currentSlide.removeClass("hidden");
+    currentSlide.removeClass("hidden");
 
+}
+
+//Testing
+
+$("#2button1").click(function() {
+  $("#Bslide1").removeClass("hidden")
+  $("#Bslide2").addClass("hidden")
+  $("#Bslide3").addClass("hidden")
+  $("#Bslide4").addClass("hidden")
+  $("#Bslide5").addClass("hidden")
+});
+
+$("#2button2").click(function() {
+  $("#Bslide1").addClass("hidden")
+  $("#Bslide2").removeClass("hidden")
+  $("#Bslide3").addClass("hidden")
+  $("#Bslide4").addClass("hidden")
+  $("#Bslide5").addClass("hidden")
+});
+
+$("#2button3").click(function() {
+  $("#Bslide1").addClass("hidden")
+  $("#Bslide2").addClass("hidden")
+  $("#Bslide3").removeClass("hidden")
+  $("#Bslide4").addClass("hidden")
+  $("#Bslide5").addClass("hidden")
+});
+
+$("#2button4").click(function() {
+  $("#Bslide1").addClass("hidden")
+  $("#Bslide2").addClass("hidden")
+  $("#Bslide3").addClass("hidden")
+  $("#Bslide4").removeClass("hidden")
+  $("#Bslide5").addClass("hidden")
+});
+
+$("#2button5").click(function() {
+  $("#Bslide1").addClass("hidden")
+  $("#Bslide2").addClass("hidden")
+  $("#Bslide3").addClass("hidden")
+  $("#Bslide4").addClass("hidden")
+  $("#Bslide5").removeClass("hidden")
+});
+
+$("#2next-image").click(function() {
+  nextBSlide();
+});
+
+$("#2prev-image").click(function() {
+  prevBSlide();
+});
+
+const BSLIDES = $(".Bslide");
+const BDOTS = $("circle");
+
+function nextBSlide() {
+  let nextBNum = BSLIDES.index($(".Bslide").not($(".hidden"))) + 1 + 1;
+  if (nextBNum > BSLIDES.length) {
+    nextBNum = 1;
+  }
+  showBSlide(nextBNum);
+}
+
+function prevBSlide() {
+  let prevBNum = BSLIDES.index($(".Bslide").not($(".hidden"))) - 1 + 1;
+  if (prevBNum <= 0) {
+    prevBNum = BSLIDES.length;
+  }
+  showBSlide(prevBNum);
+}
+
+function showBSlide(Bnum) {
+  let Bindex = Bnum - 1;
+  let currentBSlide = BSLIDES.eq(Bindex);
+  let currentDot = BDOTS.eq(Bindex);
+  BSLIDES.addClass("hidden");
+  currentBSlide.removeClass("hidden");
 }
 
 // // WEEK 2
