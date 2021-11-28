@@ -15,13 +15,15 @@ p{
 /* Navigation Bar start*/
 .header {
     background: white;
+    display: flex;
+    flex-direction: row;
 }
 
 nav {
-    position: fixed;
+    position: static;
     top: 0;
     width: 100%;
-    padding-left: 300px;
+    /* padding-left: 300px; */
 }
 
 nav ul li {
@@ -53,18 +55,16 @@ main {
 /* Collective end */
 
 /* Qiyu Hu start */
-.bgImg{
-
-  }
 
 main.home{
   z-index: 4;
   position: relative;
   top: -150px;
-  width: 80%;
+  width: 60%;
   margin: auto;
   background-color: white;
-  padding: 16px;
+  padding-left: 40px;
+  padding-right: 40px;
   border-radius: 2px;
 }
 
