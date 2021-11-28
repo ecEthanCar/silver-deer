@@ -599,7 +599,7 @@ HTML
 - FAQ tab: `<div id="tab-faq">`
 
 CSS
-- #button-about, #button-content, #button-instructors, #button-outcome, #button-goal: style like buttons with white background color.
+- #button-about, #button-content, #button-instructors, #button-outcome, #button-faq: style like buttons with white background color.
 - #button-about: hover
 - #button-content: hover
 - #button-instructors: hover
