@@ -632,6 +632,7 @@ remove .accessible-hidden from #tab-faq,
 add .accessible-hidden to #tab-about, #tab-content, #tab-instructors, #tab-outcome.
 ```
 
+> In thel last milestone, I also added the hover interacity for the course expectation. The reason is becuase that there are many expectations, and users will need to scroll for multiple times to see them all. I hope you show them all interacitity keywords at first before going to the detailed explanatin of them. Also, since some of them are self-explanatory, there is no need to show the explanations in the first place. If it turns out to not work during the user testing, then I will go back to the design the original website.  
 
 ## Client Feedback & Minutes (Milestone 2)
 > You should meet with your client again to obtain feedback on your design.

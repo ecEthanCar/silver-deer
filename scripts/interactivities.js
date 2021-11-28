@@ -2,7 +2,7 @@ console.log("JavaScript loaded!!!");
 
 // Ethan's code for carousel
 
-// WEEK 1
+// WEEK1
 $("#1button1").click(function() {
   $("#slide1").removeClass("hidden")
   $("#slide2").addClass("hidden")
@@ -78,7 +78,7 @@ function showSlide(num) {
 
 }
 
-//Testing
+//Week2
 
 $("#2button1").click(function() {
   $("#Bslide1").removeClass("hidden")
@@ -86,6 +86,9 @@ $("#2button1").click(function() {
   $("#Bslide3").addClass("hidden")
   $("#Bslide4").addClass("hidden")
   $("#Bslide5").addClass("hidden")
+  $("#Bslide6").addClass("hidden")
+  $("#Bslide7").addClass("hidden")
+  $("#Bslide8").addClass("hidden")
 });
 
 $("#2button2").click(function() {
@@ -94,6 +97,9 @@ $("#2button2").click(function() {
   $("#Bslide3").addClass("hidden")
   $("#Bslide4").addClass("hidden")
   $("#Bslide5").addClass("hidden")
+  $("#Bslide6").addClass("hidden")
+  $("#Bslide7").addClass("hidden")
+  $("#Bslide8").addClass("hidden")
 });
 
 $("#2button3").click(function() {
@@ -102,6 +108,9 @@ $("#2button3").click(function() {
   $("#Bslide3").removeClass("hidden")
   $("#Bslide4").addClass("hidden")
   $("#Bslide5").addClass("hidden")
+  $("#Bslide6").addClass("hidden")
+  $("#Bslide7").addClass("hidden")
+  $("#Bslide8").addClass("hidden")
 });
 
 $("#2button4").click(function() {
@@ -110,6 +119,9 @@ $("#2button4").click(function() {
   $("#Bslide3").addClass("hidden")
   $("#Bslide4").removeClass("hidden")
   $("#Bslide5").addClass("hidden")
+  $("#Bslide6").addClass("hidden")
+  $("#Bslide7").addClass("hidden")
+  $("#Bslide8").addClass("hidden")
 });
 
 $("#2button5").click(function() {
@@ -118,7 +130,44 @@ $("#2button5").click(function() {
   $("#Bslide3").addClass("hidden")
   $("#Bslide4").addClass("hidden")
   $("#Bslide5").removeClass("hidden")
+  $("#Bslide6").addClass("hidden")
+  $("#Bslide7").addClass("hidden")
+  $("#Bslide8").addClass("hidden")
 });
+
+$("#2button6").click(function() {
+  $("#Bslide1").addClass("hidden")
+  $("#Bslide2").addClass("hidden")
+  $("#Bslide3").addClass("hidden")
+  $("#Bslide4").addClass("hidden")
+  $("#Bslide5").addClass("hidden")
+  $("#Bslide6").removeClass("hidden")
+  $("#Bslide7").addClass("hidden")
+  $("#Bslide8").addClass("hidden")
+});
+
+$("#2button7").click(function() {
+  $("#Bslide1").addClass("hidden")
+  $("#Bslide2").addClass("hidden")
+  $("#Bslide3").addClass("hidden")
+  $("#Bslide4").addClass("hidden")
+  $("#Bslide5").addClass("hidden")
+  $("#Bslide6").addClass("hidden")
+  $("#Bslide7").removeClass("hidden")
+  $("#Bslide8").addClass("hidden")
+});
+
+$("#2button8").click(function() {
+  $("#Bslide1").addClass("hidden")
+  $("#Bslide2").addClass("hidden")
+  $("#Bslide3").addClass("hidden")
+  $("#Bslide4").addClass("hidden")
+  $("#Bslide5").addClass("hidden")
+  $("#Bslide6").addClass("hidden")
+  $("#Bslide7").addClass("hidden")
+  $("#Bslide8").removeClass("hidden")
+});
+
 
 $("#2next-image").click(function() {
   nextBSlide();
@@ -155,98 +204,114 @@ function showBSlide(Bnum) {
   currentBSlide.removeClass("hidden");
 }
 
-// // WEEK 2
-// $("#2button1").click(function() {
-//   $("#Bslide1").removeClass("hidden")
-//   $("#Bslide2").addClass("hidden")
-//   $("#Bslide3").addClass("hidden")
-//   $("#Bslide4").addClass("hidden")
-//   $("#Bslide5").addClass("hidden")
-// });
-//
-// $("#2button2").click(function() {
-//   $("#Bslide1").addClass("hidden")
-//   $("#Bslide2").removeClass("hidden")
-//   $("#Bslide3").addClass("hidden")
-//   $("#Bslide4").addClass("hidden")
-//   $("#Bslide5").addClass("hidden")
-// });
-//
-// $("#2button3").click(function() {
-//   $("#Bslide1").addClass("hidden")
-//   $("#Bslide2").addClass("hidden")
-//   $("#Bslide3").removeClass("hidden")
-//   $("#Bslide4").addClass("hidden")
-//   $("#Bslide5").addClass("hidden")
-// });
-//
-// $("#2button4").click(function() {
-//   $("#Bslide1").addClass("hidden")
-//   $("#Bslide2").addClass("hidden")
-//   $("#Bslide3").addClass("hidden")
-//   $("#Bslide4").removeClass("hidden")
-//   $("#Bslide5").addClass("hidden")
-// });
-//
-// $("#2button5").click(function() {
-//   $("#Bslide1").addClass("hidden")
-//   $("#Bslide2").addClass("hidden")
-//   $("#Bslide3").addClass("hidden")
-//   $("#Bslide4").addClass("hidden")
-//   $("#Bslide5").removeClass("hidden")
-// });
-//
-// $("#2next-image").click(function() {
-//   nextSlide();
-// });
-//
-// $("#2prev-image").click(function() {
-//   prevSlide();
-// });
-//
-// const SLIDES = $(".Bslides > .Bslide");
-//
-// function nextSlide() {
-//   let nextNum = SLIDES.index($(".Bslide:not(.hidden)")) + 1 + 1;
-//   if (nextNum > SLIDES.length) {
-//     nextNum = 1;
-//   }
-//   showSlide(nextNum);
-// }
-//
-// function prevSlide() {
-//   let prevNum = SLIDES.index($(".Bslide:not(.hidden)")) - 1 + 1;
-//   if (prevNum <= 0) {
-//     prevNum = SLIDES.length;
-//   }
-//   showSlide(prevNum);
-// }
-//
-// function showSlide(num) {
-//   let index = num - 1;
-//   let currentSlide = SLIDES.eq(index);
-//   const DOTS = $("circle");
-//   SLIDES.addClass("hidden");
-//   currentSlide.removeClass("hidden");
-//
-// }
+// Week3
 
-// tabs
-// When #button-about is clicked,
-// remove .accessible-hidden from #tab-about,
-// add .accessible-hidden to #tab-content, #tab-instructors, #tab-outcome, #tab-faq. (This would be the initial state.)
-// When #button-content is clicked,
-// remove .accessible-hidden from #tab-content,
-// add .accessible-hidden to #tab-about, #tab-instructors, #tab-outcome, #tab-faq.
-// When #button-instructors is clicked,
-// remove .accessible-hidden from #tab-instructors,
-// add .accessible-hidden to #tab-about, #tab-content, #tab-goal, #tab-faq.
-// When #button-outcome is clicked,
-// remove .accessible-hidden from #tab-outcome,
-// add .accessible-hidden to #tab-about, #tab-content, #tab-instructors, #tab-faq.
-// When #button-faq is clicked,
-// remove .accessible-hidden from #tab-faq,
-// add .accessible-hidden to #tab-about, #tab-content, #tab-instructors, #tab-outcome.
+$("#3button1").click(function() {
+  $("#Bslide1").removeClass("hidden")
+  $("#Bslide2").addClass("hidden")
+  $("#Bslide3").addClass("hidden")
+  $("#Bslide4").addClass("hidden")
+  $("#Bslide5").addClass("hidden")
+  $("#Bslide6").addClass("hidden")
+  $("#Bslide7").addClass("hidden")
+});
+
+$("#3button2").click(function() {
+  $("#Cslide1").addClass("hidden")
+  $("#Cslide2").removeClass("hidden")
+  $("#Cslide3").addClass("hidden")
+  $("#Cslide4").addClass("hidden")
+  $("#Cslide5").addClass("hidden")
+  $("#Cslide6").addClass("hidden")
+  $("#Cslide7").addClass("hidden")
+});
+
+$("#3button3").click(function() {
+  $("#Cslide1").addClass("hidden")
+  $("#Cslide2").addClass("hidden")
+  $("#Cslide3").removeClass("hidden")
+  $("#Cslide4").addClass("hidden")
+  $("#Cslide5").addClass("hidden")
+  $("#Cslide6").addClass("hidden")
+  $("#Cslide7").addClass("hidden")
+});
+
+$("#3button4").click(function() {
+  $("#Cslide1").addClass("hidden")
+  $("#Cslide2").addClass("hidden")
+  $("#Cslide3").addClass("hidden")
+  $("#Cslide4").removeClass("hidden")
+  $("#Cslide5").addClass("hidden")
+  $("#Cslide6").addClass("hidden")
+  $("#Cslide7").addClass("hidden")
+});
+
+$("#3button5").click(function() {
+  $("#Cslide1").addClass("hidden")
+  $("#Cslide2").addClass("hidden")
+  $("#Cslide3").addClass("hidden")
+  $("#Cslide4").addClass("hidden")
+  $("#Cslide5").removeClass("hidden")
+  $("#Cslide6").addClass("hidden")
+  $("#Cslide7").addClass("hidden")
+});
+
+$("#3button6").click(function() {
+  $("#Cslide1").addClass("hidden")
+  $("#Cslide2").addClass("hidden")
+  $("#Cslide3").addClass("hidden")
+  $("#Cslide4").addClass("hidden")
+  $("#Cslide5").addClass("hidden")
+  $("#Cslide6").removeClass("hidden")
+  $("#Cslide7").addClass("hidden")
+});
+
+$("#3button7").click(function() {
+  $("#Cslide1").addClass("hidden")
+  $("#Cslide2").addClass("hidden")
+  $("#Cslide3").addClass("hidden")
+  $("#Cslide4").addClass("hidden")
+  $("#Cslide5").addClass("hidden")
+  $("#Cslide6").addClass("hidden")
+  $("#Cslide7").removeClass("hidden")
+});
+
+$("#3next-image").click(function() {
+  nextCSlide();
+});
+
+$("#3prev-image").click(function() {
+  prevCSlide();
+});
+
+const CSLIDES = $(".Cslide");
+const CDOTS = $("circle");
+
+function nextCSlide() {
+  let nextCNum = CSLIDES.index($(".Cslide").not($(".hidden"))) + 1 + 1;
+  if (nextCNum > CSLIDES.length) {
+    nextCNum = 1;
+  }
+  showCSlide(nextCNum);
+}
+
+function prevCSlide() {
+  let prevCNum = CSLIDES.index($(".Cslide").not($(".hidden"))) - 1 + 1;
+  if (prevCNum <= 0) {
+    prevCNum = CSLIDES.length;
+  }
+  showCSlide(prevCNum);
+}
+
+function showCSlide(Cnum) {
+  let Cindex = Cnum - 1;
+  let currentCSlide = CSLIDES.eq(Cindex);
+  let currentDot = CDOTS.eq(Cindex);
+  CSLIDES.addClass("hidden");
+  currentCSlide.removeClass("hidden");
+}
+
+
 
 $('#button-about').click(function() {
   $('#tab-about').removeClass('accessible-hidden');

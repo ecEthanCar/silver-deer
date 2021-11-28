@@ -8,6 +8,10 @@ body {
     display: flex;
     flex-direction: column;
 }
+
+p{
+  line-height: 32px;
+}
 /* Navigation Bar start*/
 .header {
     background: white;
@@ -49,6 +53,53 @@ main {
 /* Collective end */
 
 /* Qiyu Hu start */
+.bgImg{
+
+  }
+
+main{
+  z-index: 4;
+  position: relative;
+  top: -150px;
+  width: 80%;
+  margin: auto;
+  background-color: white;
+  padding: 16px;
+  border-radius: 2px;
+}
+
+.margin-top{
+  margin-top: 120px;
+}
+
+
+.expectation{
+  text-align:center;
+  border-style: ridge;
+  border-color: #BACC81;
+  border-width: 4px;
+  border-radius: 8px;
+  padding: 64px;
+  color: #acb981;
+}
+
+.relative{
+  position: relative;
+}
+
+.description-absolute{
+  border-radius: 8px;
+  position: absolute;
+  border: 3px solid #73AD21;
+  top: 0;
+  bottom: 0;
+  padding: 4% 40px;
+  margin: 0 0;
+  line-height: normal;
+  /* text-align:center;*/
+  background-color: #BACC81;
+  color: white;
+}
 /* home page */
 
 
