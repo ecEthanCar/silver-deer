@@ -108,6 +108,16 @@ main.home{
 
 /* Xinyue Shi start */
 /* courses page */
+main.coursepage{
+  width: 80%;
+  margin: auto;
+  background-color: white;
+  padding: 16px;
+  border-radius: 2px;
+}
+#enroll{
+  padding:5%;
+}
 .accessible-hidden{
   position: absolute;
   left: -10000px;
@@ -115,6 +125,9 @@ main.home{
   width: 1px;
   height: 1px;
   overflow: hidden;
+}
+#button-about, #button-content, #button-instructors, #button-outcome, #button-faq{
+  background-color: white;
 }
 /* Xinyue Shi end */
 
