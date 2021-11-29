@@ -109,7 +109,9 @@ main.home{
 
 /* Xinyue Shi start */
 /* courses page */
-
+.coursepage{
+  margin-bottom: 5%;
+}
 #coursepic{
   padding-left: 15%;
   padding-bottom: 5%;
@@ -146,7 +148,7 @@ main.home{
 .upper{
   display: flex;
   background-image:linear-gradient(to right,#3f5938,#BACC81);
-  padding-top: 5%;
+  padding-top: 4%;
 }
 .left{
   color:white;
@@ -158,7 +160,7 @@ main.home{
 #button-about, #button-content, #button-instructors, #button-outcome, #button-faq{
   background-color: white;
   font-size: 110%;
-  padding: 1%;
+  padding: 1.25%;
   padding-left:0;
   border: none;
   cursor: pointer;
@@ -175,23 +177,64 @@ main.home{
   margin-top: 3%;
   margin-bottom: 3%;
 }
+#tab-about{
+  display: flex;
+}
+.aboutinfo{
+  width: 65%;
+}
+.aboutinfo p{
+  margin-top: 2%;
+}
+.aboutbullets{
+  margin:5%;
+  padding:2%;
+  width: 35%;
+
+}
+.aboutbullets h3{
+  color: grey;
+  margin-top: 0;
+  text-align: center;
+  font-size: 140%;
+  font-family: serif;
+}
+.aboutbullets p{
+  border-radius: 25px;
+  padding: 1%;
+  margin:2%;
+  background-color:	#F2F2F2	;
+  text-align: center;
+}
 .week1, .week2, .week3, .week4, .week5{
   display: flex;
   padding-top: 2%;
   padding-bottom: 2%;
 }
-.weeknum{
+
+#tab-content h4{
   color:grey;
+  font-family: monospace;
+  font-size: 200%;
+  margin: 0;
+  font-weight: lighter;
+}
+.weeknum{
+  align-items: center;
 }
 .weekcontent{
   position: relative;
   left:300px;
   padding-left: 2%;
   border-left: 1px solid grey;
-
 }
 #tab-content h3,p{
   margin:0;
+  padding: 0
+}
+#tab-content h3{
+  font-size: 220%;
+  font-weight: lighter;
 }
 
 /* Xinyue Shi end */
