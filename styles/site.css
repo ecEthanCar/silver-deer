@@ -108,15 +108,10 @@ main.home{
 
 /* Xinyue Shi start */
 /* courses page */
-main.coursepage{
-  width: 80%;
-  margin: auto;
-  background-color: white;
-  padding: 16px;
-  border-radius: 2px;
-}
+
 #enroll{
-  padding:5%;
+  margin-left: 10%;
+  padding-bottom: 5%;
 }
 .accessible-hidden{
   position: absolute;
@@ -126,8 +121,40 @@ main.coursepage{
   height: 1px;
   overflow: hidden;
 }
+.coursebuttons{
+  border-bottom: 1px solid grey;
+}
+.upper{
+  display: flex;
+  background-image:linear-gradient(to right,#3f5938,#BACC81);
+  padding-top: 5%;
+}
+.left{
+  color:white;
+  margin-left: 10%;
+}
+#button-about{
+  margin-left: 10%;
+}
 #button-about, #button-content, #button-instructors, #button-outcome, #button-faq{
   background-color: white;
+  font-size: 110%;
+  padding: 1%;
+  padding-left:0;
+  border: none;
+  cursor: pointer;
+}
+#button-about:hover, #button-content:hover, #button-instructors:hover, #button-outcome:hover, #button-faq:hover{
+  color: #3f5938;
+}
+#button-about:focus, #button-content:focus, #button-instructors:focus, #button-outcome:focus, #button-faq:focus{
+  color: #3f5938;
+}
+.courseinfo{
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 3%;
+  margin-bottom: 3%;
 }
 /* Xinyue Shi end */
 
