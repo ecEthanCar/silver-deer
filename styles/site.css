@@ -110,9 +110,7 @@ main.home{
 
 /* Xinyue Shi start */
 /* courses page */
-.coursepage{
-  margin-bottom: 5%;
-}
+
 #coursepic{
   padding-left: 15%;
   padding-bottom: 5%;
@@ -339,11 +337,30 @@ footer {
     background: #BACC81;
     margin-top: auto;
     padding: 20px;
+
+}
+footer p{
+  font-size: 80%;
+  color: grey;
+  float: right;
 }
 
 .footer-button {
     color: white;
+    font-weight: bold;
     text-decoration: none;
+    text-align: right;
+}
+
+.social{
+  float: right;
+  margin-left: 1%;
+  padding-top: 2%;
+  color:#3a536b;
+}
+
+#cornelllogo2{
+  margin-bottom: 1%;
 }
 
 /* Footer end */
