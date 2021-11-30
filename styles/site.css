@@ -1,6 +1,7 @@
 /* Collective start */
 html {
     font-family: Helvetica, Arial, sans-serif;
+    font-weight: 300;
 }
 
 body {
@@ -241,8 +242,36 @@ main.home{
 
 /* Helen Lim start */
 /* resource page */
+.title {
+    color: white;
+    background-color: #3f5938;
+    padding: 50px;
+    text-align: center;
+    margin-bottom: 50px;
+}
 
+.subtitle {
+    margin-left: 50px;
+}
 
+.research {
+    text-decoration: none;
+    margin-left: 50px;
+}
+
+.research a {
+    text-decoration: none;
+    color: #3f5938;
+}
+
+.publications {
+    text-decoration: 50px;
+    margin-left: 50px;
+}
+
+.publications li {
+    margin: 10px;
+}
 /* Helen Lim end */
 
 /* Ethan start */
