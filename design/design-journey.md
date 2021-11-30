@@ -694,7 +694,7 @@ TODO
 ### User Testing Tasks (Final Submission)
 > Plan out your user testing tasks before doing your user testing. These must be actual user testing tasks. **Tasks are not questions!**
 
-1. TODO
+1. You are looking to engage with the Civic Ecology Lab in other ways than the website. Perhaps they have a Facebook group or an Instagram account where you can stay updated with new information. Find out if this kind of resource is available on the website and navigate to these social medias. Take note if additional pictures and content was present on these social medias.
 
 2. TODO
 
