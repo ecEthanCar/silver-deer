@@ -167,11 +167,11 @@ iframe {
 }
 .upper{
   display: flex;
-  background-image:linear-gradient(to right,#3f5938,#BACC81);
+  background-image:linear-gradient(to right,#2c4626,#4C7642,#a6e08a);
   padding-top: 4%;
 }
 .left{
-  color:white;
+  color: white;
   margin-left: 10%;
 }
 #button-about{
@@ -290,10 +290,25 @@ iframe {
 /* Helen Lim start */
 /* resource page */
 .title {
-    /*color: white;
+    color: white;
     background-color: #3f5938;
-    padding: 50px;
-    text-align: center;*/
+    padding: 100px;
+    text-align: center;
+    background-image:linear-gradient(to right,#2c4626,#4C7642,#a6e08a);
+}
+
+main.block{
+  z-index: 4;
+  position: relative;
+  /*top: -150px;*/
+  width: 60%;
+  margin: auto;
+  background-color: white;
+  padding-top: 40px;
+  padding-left: 40px;
+  padding-right: 40px;
+  border-radius: 2px;
+  border: 2px solid black;
 }
 
 .subtitle {
