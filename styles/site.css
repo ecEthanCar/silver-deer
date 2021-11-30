@@ -10,9 +10,20 @@ body {
     flex-direction: column;
 }
 
-p{
+p {
   line-height: 32px;
 }
+
+.link {
+    text-decoration: none;
+    color: #4C7642;
+}
+
+p.green a {
+    text-decoration: none;
+    color: #4C7642;
+}
+
 /* Navigation Bar start*/
 .header {
     background: white;
@@ -35,18 +46,19 @@ nav ul li {
 }
 
 nav a {
-    color: #BACC81;
+    color: #4C7642;
     text-decoration: none;
     padding: 15px;
     font-weight: bold;
 }
 
 nav a:hover {
-    background: #BACC81;
+    background: #4C7642;
     border-radius: 3%;
     color: white;
     font-weight: bold;
 }
+
 /* Navigation Bar end */
 
 main {
@@ -68,6 +80,7 @@ main.home{
   padding-left: 40px;
   padding-right: 40px;
   border-radius: 2px;
+  border: 2px solid black;
 }
 
 .margin-top{
@@ -101,6 +114,12 @@ main.home{
   /* text-align:center;*/
   background-color: #BACC81;
   color: white;
+}
+
+iframe {
+    display: block;
+    margin: 0 auto;
+    margin-top: 50px;
 }
 /* home page */
 
@@ -146,11 +165,11 @@ main.home{
 }
 .upper{
   display: flex;
-  background-image:linear-gradient(to right,#3f5938,#BACC81);
+  background-image:linear-gradient(to right,#2c4626,#4C7642,#a6e08a);
   padding-top: 4%;
 }
 .left{
-  color:white;
+  color: white;
   margin-left: 10%;
 }
 #button-about{
@@ -271,13 +290,30 @@ main.home{
 .title {
     color: white;
     background-color: #3f5938;
-    padding: 50px;
+    padding: 100px;
     text-align: center;
-    margin-bottom: 50px;
+    background-image:linear-gradient(to right,#2c4626,#4C7642,#a6e08a);
+}
+
+main.block{
+  z-index: 4;
+  position: relative;
+  /*top: -150px;*/
+  width: 60%;
+  margin: auto;
+  background-color: white;
+  padding-top: 40px;
+  padding-left: 40px;
+  padding-right: 40px;
+  border-radius: 2px;
+  border: 2px solid black;
 }
 
 .subtitle {
-    margin-left: 50px;
+    color: white;
+    background-color: #4C7642;
+    padding: 25px;
+    text-align: center;
 }
 
 .research {
@@ -287,7 +323,11 @@ main.home{
 
 .research a {
     text-decoration: none;
-    color: #3f5938;
+    color: #4C7642;
+}
+
+.research li {
+    margin-bottom: 10px;
 }
 
 .publications {
@@ -296,7 +336,7 @@ main.home{
 }
 
 .publications li {
-    margin: 10px;
+    margin-bottom: 10px;
 }
 /* Helen Lim end */
 
@@ -334,7 +374,7 @@ main.home{
 
 /* Footer start */
 footer {
-    background: #BACC81;
+    background: #4C7642;
     margin-top: auto;
     padding: 20px;
 
