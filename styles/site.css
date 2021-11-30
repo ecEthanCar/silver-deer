@@ -238,6 +238,34 @@ main.home{
   font-weight: lighter;
 }
 
+#tab-instructors img{
+  border-radius:50%;
+}
+.instructors{
+  display: flex;
+  flex-direction: column;
+}
+.instructors h3{
+  font-family: sans-serif;
+  font-weight: lighter;
+  font-size: 150%;
+  margin: 0;
+}
+.instructors p{
+  margin: 0;
+  color: grey;
+}
+.instructors a{
+  color:#3a536b;
+}
+.instructorinfo{
+  margin-left: 3%;
+}
+.instructor1, .instructor2, .instructor3{
+  display: inline-flex;
+  align-items: center;
+  margin-top: 3%;
+}
 /* Xinyue Shi end */
 
 /* Helen Lim start */
