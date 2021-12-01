@@ -287,30 +287,44 @@ iframe {
 
 /* Helen Lim start */
 /* resource page */
-.title {
-    color: white;
-    background-color: #3f5938;
-    padding: 100px;
+.research-background {
+    background-color: #e8ffd6;
+}
+
+.research-container {
+    position: relative;
+}
+
+.research-img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    filter:brightness(0.8);
+}
+
+.research-title{
+    position: absolute;
     text-align: center;
-    background-image:linear-gradient(to right,#2c4626,#4C7642,#a6e08a);
+    top: 40%;
+    left: 50%;
+    transform: translate( -50%, -50% );
+    color: white;
+    font-size: 42px;
 }
 
 main.block{
-  z-index: 4;
-  position: relative;
-  /*top: -150px;*/
-  width: 60%;
-  margin: auto;
-  background-color: white;
-  padding-top: 40px;
-  padding-left: 40px;
-  padding-right: 40px;
-  border-radius: 2px;
-  border: 2px solid black;
+    position: relative;
+    /*top: -150px;*/
+    width: 60%;
+    margin: auto;
+    background-color: white;
+    padding-left: 40px;
+    padding-right: 40px;
 }
 
 .subtitle {
     color: white;
+    width: 100%;
     background-color: #4C7642;
     padding: 25px;
     text-align: center;
@@ -318,7 +332,6 @@ main.block{
 
 .research {
     text-decoration: none;
-    margin-left: 50px;
 }
 
 .research a {
@@ -327,16 +340,20 @@ main.block{
 }
 
 .research li {
+    text-decoration: none;
     margin-bottom: 10px;
 }
 
 .publications {
     text-decoration: 50px;
-    margin-left: 50px;
 }
 
 .publications li {
     margin-bottom: 10px;
+}
+
+.bottom-space {
+    margin-bottom: 25px;
 }
 /* Helen Lim end */
 
@@ -457,15 +474,14 @@ footer {
 }
 footer p{
   font-size: 80%;
-  color: grey;
+  color: white;
   float: right;
 }
 
 .footer-button {
-    color: white;
-    font-weight: bold;
+    float: right;
+    background-color: transparent;
     text-decoration: none;
-    text-align: right;
 }
 
 .social{
