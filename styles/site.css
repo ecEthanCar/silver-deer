@@ -31,6 +31,10 @@ p.green a {
     flex-direction: row;
 }
 
+#top{
+  height: 120px;
+}
+
 nav {
     position: static;
     top: 0;
@@ -58,7 +62,20 @@ nav a:hover {
     color: white;
     font-weight: bold;
 }
+@media (max-width:1120px){
+    nav{
+      font-size: 20px;
+    }
 
+    nav ul li {
+      padding: 10px;
+    }
+
+    ul{
+      position: relative;
+      top: 8px;
+    }
+}
 /* Navigation Bar end */
 
 main {
