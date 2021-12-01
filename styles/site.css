@@ -518,15 +518,11 @@ h2.subtitle {
 
 /* Footer start */
 footer {
+    display: inline-block;
     background: #4C7642;
     margin-top: auto;
     padding: 20px;
 
-}
-footer p{
-  font-size: 80%;
-  color: white;
-  float: right;
 }
 
 .footer-button {
@@ -539,6 +535,7 @@ footer p{
 .cornell-logo {
     float: left;
     margin-left: 25px;
+    margin-top: 5px;
 }
 
 footer ul li {
@@ -547,15 +544,29 @@ footer ul li {
 }
 
 .copyright {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     text-align: center;
     line-height: 15px;
     font-size: 11px;
+    width: 15%;
 }
 
 .social{
-  float: right;
-  margin-left: 1%;
-  padding-top: 2%;
-  color:#3a536b;
+    float: right;
+    text-align: right;
+    width: 20%;
+    margin-right: 25px;
+    margin-top: 10px;
 }
+
+.social a {
+    text-decoration: none;
+}
+
+.social img {
+    margin: 5px;
+}
+
 /* Footer end */
