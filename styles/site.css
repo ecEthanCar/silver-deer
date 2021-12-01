@@ -131,16 +131,17 @@ iframe {
 /* courses page */
 
 #coursepic{
-  padding-left: 15%;
+  padding-left: 18%;
   padding-bottom: 5%;
 }
 .left a{
   background-color: white;
   color: #3f5938;
   font-size: 110%;
-  padding: 3%;
   position: relative;
   top:46px;
+  padding-top: 3%;
+  padding-bottom: 3%;
   padding-left: 8%;
   padding-right: 8%;
   cursor: pointer;
@@ -236,6 +237,7 @@ iframe {
   font-size: 200%;
   margin: 0;
   font-weight: lighter;
+
 }
 .weeknum{
   align-items: center;
@@ -282,6 +284,62 @@ iframe {
   display: inline-flex;
   align-items: center;
   margin-top: 3%;
+}
+@media (max-width:1200px){
+  .upper{
+  flex-direction: column;
+  }
+  #coursepic{
+    margin-top: 10%;
+    padding-left: 10%;
+  }
+  .left a{
+    padding: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  #tab-about{
+    flex-direction: column;
+  }
+  .aboutinfo{
+    width:80%;
+  }
+  .aboutbullets{
+    padding: 0;
+    margin:0;
+    margin-top: 3%;
+    width:80%;
+  }
+  #button-about, #button-content, #button-instructors, #button-outcome, #button-faq{
+    padding: 2%;
+  }
+  .week1, .week2, .week3, .week4, .week5{
+    flex:none;
+  }
+  .weekcontent{
+    left: 4%;
+  }
+  #tab-content h4{
+    width: 80px;
+  }
+  #tab-content h3, h4{
+    font-size: 120%;
+    font-weight: bold;
+  }
+}
+@media (max-width:700px){
+  #coursepic{
+    margin-top: 15%;
+  }
+  .coursepage{
+    font-size: 90%;
+  }
+  .coursepage h1{
+    margin:0;
+  }
+  .coursepage p{
+    line-height: 1.5em;
+  }
 }
 /* Xinyue Shi end */
 
