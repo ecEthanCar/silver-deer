@@ -597,15 +597,18 @@ h2.subtitle {
 }
 
 .currentdot {
-    background-color: gray;
+    background-color: #a1a1a1;
+    border-color: grey;
 }
 
 .currentBdot {
-    background-color: gray;
+  background-color: #a1a1a1;
+  border-color: grey;
 }
 
 .currentCdot {
-    background-color: gray;
+  background-color: #a1a1a1;
+  border-color: grey;
 }
 
 /* Ethan end */
