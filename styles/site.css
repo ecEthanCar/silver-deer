@@ -1,6 +1,7 @@
 /* Collective start */
 html {
     font-family: Helvetica, Arial, sans-serif;
+    font-weight: 300;
 }
 
 body {
@@ -9,19 +10,32 @@ body {
     flex-direction: column;
 }
 
-p{
+p {
   line-height: 32px;
 }
+
+.link {
+    text-decoration: none;
+    color: #4C7642;
+}
+
+p.green a {
+    text-decoration: none;
+    color: #4C7642;
+}
+
 /* Navigation Bar start*/
 .header {
     background: white;
+    display: flex;
+    flex-direction: row;
 }
 
 nav {
-    position: fixed;
+    position: static;
     top: 0;
     width: 100%;
-    padding-left: 300px;
+    /* padding-left: 300px; */
 }
 
 nav ul li {
@@ -32,18 +46,19 @@ nav ul li {
 }
 
 nav a {
-    color: #BACC81;
+    color: #4C7642;
     text-decoration: none;
     padding: 15px;
     font-weight: bold;
 }
 
 nav a:hover {
-    background: #BACC81;
+    background: #4C7642;
     border-radius: 3%;
     color: white;
     font-weight: bold;
 }
+
 /* Navigation Bar end */
 
 main {
@@ -53,19 +68,19 @@ main {
 /* Collective end */
 
 /* Qiyu Hu start */
-.bgImg{
 
-  }
-
-main{
+main.home{
   z-index: 4;
   position: relative;
   top: -150px;
-  width: 80%;
+  width: 60%;
   margin: auto;
   background-color: white;
-  padding: 16px;
+  padding-top: 40px;
+  padding-left: 40px;
+  padding-right: 40px;
   border-radius: 2px;
+  border: 2px solid black;
 }
 
 .margin-top{
@@ -100,6 +115,12 @@ main{
   background-color: #BACC81;
   color: white;
 }
+
+iframe {
+    display: block;
+    margin: 0 auto;
+    margin-top: 50px;
+}
 /* home page */
 
 
@@ -108,6 +129,29 @@ main{
 
 /* Xinyue Shi start */
 /* courses page */
+
+#coursepic{
+  padding-left: 15%;
+  padding-bottom: 5%;
+}
+.left a{
+  background-color: white;
+  color: #3f5938;
+  font-size: 110%;
+  padding: 3%;
+  position: relative;
+  top:46px;
+  padding-left: 8%;
+  padding-right: 8%;
+  cursor: pointer;
+  border-radius: 3%;
+  text-decoration: none;
+}
+#illustration{
+  font-size: 64%;
+  position: relative;
+  top:58px;
+}
 .accessible-hidden{
   position: absolute;
   left: -10000px;
@@ -116,12 +160,184 @@ main{
   height: 1px;
   overflow: hidden;
 }
+.coursebuttons{
+  border-bottom: 1px solid grey;
+}
+.upper{
+  display: flex;
+  background-image:linear-gradient(to right,#2c4626,#4C7642,#a6e08a);
+  padding-top: 4%;
+}
+.left{
+  color: white;
+  margin-left: 10%;
+}
+#button-about{
+  margin-left: 10%;
+}
+#button-about, #button-content, #button-instructors, #button-outcome, #button-faq{
+  background-color: white;
+  font-size: 110%;
+  padding: 1.25%;
+  padding-left:0;
+  border: none;
+  cursor: pointer;
+}
+#button-about:hover, #button-content:hover, #button-instructors:hover, #button-outcome:hover, #button-faq:hover{
+  color: #3f5938;
+}
+#button-about:focus, #button-content:focus, #button-instructors:focus, #button-outcome:focus, #button-faq:focus{
+  color: #3f5938;
+}
+.courseinfo{
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 3%;
+  margin-bottom: 3%;
+}
+#tab-about{
+  display: flex;
+}
+.aboutinfo{
+  width: 65%;
+}
+.aboutinfo p{
+  margin-top: 2%;
+}
+.aboutbullets{
+  margin:5%;
+  padding:2%;
+  width: 35%;
+
+}
+.aboutbullets h3{
+  color: grey;
+  margin-top: 0;
+  text-align: center;
+  font-size: 140%;
+  font-family: serif;
+}
+.aboutbullets p{
+  border-radius: 25px;
+  padding: 1%;
+  margin:2%;
+  background-color:	#F2F2F2	;
+  text-align: center;
+}
+.week1, .week2, .week3, .week4, .week5{
+  display: flex;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+#tab-content h4{
+  color:grey;
+  font-family: monospace;
+  font-size: 200%;
+  margin: 0;
+  font-weight: lighter;
+}
+.weeknum{
+  align-items: center;
+}
+.weekcontent{
+  position: relative;
+  left:300px;
+  padding-left: 2%;
+  border-left: 1px solid grey;
+}
+#tab-content h3,p{
+  margin:0;
+  padding: 0
+}
+#tab-content h3{
+  font-size: 220%;
+  font-weight: lighter;
+}
+
+#tab-instructors img{
+  border-radius:50%;
+}
+.instructors{
+  display: flex;
+  flex-direction: column;
+}
+.instructors h3{
+  font-family: sans-serif;
+  font-weight: lighter;
+  font-size: 150%;
+  margin: 0;
+}
+.instructors p{
+  margin: 0;
+  color: grey;
+}
+.instructors a{
+  color:#3a536b;
+}
+.instructorinfo{
+  margin-left: 3%;
+}
+.instructor1, .instructor2, .instructor3{
+  display: inline-flex;
+  align-items: center;
+  margin-top: 3%;
+}
 /* Xinyue Shi end */
 
 /* Helen Lim start */
 /* resource page */
+.title {
+    color: white;
+    background-color: #3f5938;
+    padding: 100px;
+    text-align: center;
+    background-image:linear-gradient(to right,#2c4626,#4C7642,#a6e08a);
+}
 
+main.block{
+  z-index: 4;
+  position: relative;
+  /*top: -150px;*/
+  width: 60%;
+  margin: auto;
+  background-color: white;
+  padding-top: 40px;
+  padding-left: 40px;
+  padding-right: 40px;
+  border-radius: 2px;
+  border: 2px solid black;
+}
 
+.subtitle {
+    color: white;
+    background-color: #4C7642;
+    padding: 25px;
+    text-align: center;
+}
+
+.research {
+    text-decoration: none;
+    margin-left: 50px;
+}
+
+.research a {
+    text-decoration: none;
+    color: #4C7642;
+}
+
+.research li {
+    margin-bottom: 10px;
+}
+
+.publications {
+    text-decoration: 50px;
+    margin-left: 50px;
+}
+
+.publications li {
+    margin-bottom: 10px;
+}
 /* Helen Lim end */
 
 /* Ethan start */
@@ -233,14 +449,33 @@ main{
 
 /* Footer start */
 footer {
-    background: #BACC81;
+    background: #4C7642;
     margin-top: auto;
     padding: 20px;
+
+}
+footer p{
+  font-size: 80%;
+  color: grey;
+  float: right;
 }
 
 .footer-button {
     color: white;
+    font-weight: bold;
     text-decoration: none;
+    text-align: right;
+}
+
+.social{
+  float: right;
+  margin-left: 1%;
+  padding-top: 2%;
+  color:#3a536b;
+}
+
+#cornelllogo2{
+  margin-bottom: 1%;
 }
 
 /* Footer end */

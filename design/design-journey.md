@@ -599,7 +599,7 @@ HTML
 - FAQ tab: `<div id="tab-faq">`
 
 CSS
-- #button-about, #button-content, #button-instructors, #button-outcome, #button-goal: style like buttons with white background color.
+- #button-about, #button-content, #button-instructors, #button-outcome, #button-faq: style like buttons with white background color.
 - #button-about: hover
 - #button-content: hover
 - #button-instructors: hover
@@ -694,11 +694,13 @@ TODO
 ### User Testing Tasks (Final Submission)
 > Plan out your user testing tasks before doing your user testing. These must be actual user testing tasks. **Tasks are not questions!**
 
-1. TODO
+1. You are looking to engage with the Civic Ecology Lab in other ways than the website. Perhaps they have a Facebook group or an Instagram account where you can stay updated with new information. Find out if this kind of resource is available on the website and navigate to these social medias. Take note if additional pictures and content was present on these social medias.
 
-2. TODO
+2. You wish to take a course that addresses social/environmental problems based on research. Does the civic ecology lab meet this expectation?
 
-3. TODO
+
+3. You want to know more about the online course instructors, who are they?
+
 
 
 ### User 1 - Testing Notes (Final Submission)
