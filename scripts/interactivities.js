@@ -72,10 +72,13 @@ function prevSlide() {
 function showSlide(num) {
   let index = num - 1;
   let currentSlide = SLIDES.eq(index);
-  const DOTS = $("circle");
   SLIDES.addClass("hidden");
     currentSlide.removeClass("hidden");
-
+  //
+  // let currentDot = 1BUTTON.eq(index);
+  // const 1BUTTON = $("imgbutton");
+  // 1BUTTON.removeClass("dark");
+  //   currentDots.addClass("dark");
 }
 
 //Week2
@@ -207,13 +210,13 @@ function showBSlide(Bnum) {
 // Week3
 
 $("#3button1").click(function() {
-  $("#Bslide1").removeClass("hidden")
-  $("#Bslide2").addClass("hidden")
-  $("#Bslide3").addClass("hidden")
-  $("#Bslide4").addClass("hidden")
-  $("#Bslide5").addClass("hidden")
-  $("#Bslide6").addClass("hidden")
-  $("#Bslide7").addClass("hidden")
+  $("#Cslide1").removeClass("hidden")
+  $("#Cslide2").addClass("hidden")
+  $("#Cslide3").addClass("hidden")
+  $("#Cslide4").addClass("hidden")
+  $("#Cslide5").addClass("hidden")
+  $("#Cslide6").addClass("hidden")
+  $("#Cslide7").addClass("hidden")
 });
 
 $("#3button2").click(function() {
@@ -311,6 +314,19 @@ function showCSlide(Cnum) {
   currentCSlide.removeClass("hidden");
 }
 
+$("#next-image").hover(function() {
+  $("#next-image").addClass("dark");
+}, function() {
+  $("#next-image").removeClass("dark");
+});
+
+$("#prev-image").hover(function() {
+  $("#prev-image").addClass("dark");
+}, function() {
+  $("#prev-image").removeClass("dark");
+});
+
+// End of Ethan's code
 
 
 $('#button-about').click(function() {

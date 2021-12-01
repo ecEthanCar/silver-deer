@@ -131,29 +131,104 @@ main{
   display: none;
 }
 
-.arrow-button {
-
+.gallerymain {
+  margin-top: 150px;
+  max-width: 800px;
 }
 
-.image-button {
+.indexslides {
+  /* width: 70%;
+  margin-left: 15%;
+  margin-right: 15%; */
+  margin-left: 200px;
+  margin-bottom: 5px;
+}
 
+.Bindexslides {
+  margin-bottom: 5px;
+  margin-left: 150px;
+}
+
+.Cindexslides {
+  margin-bottom: 5px;
+  margin-left: 170px;
+}
+
+.slides {
+  background-color: #BACC81;
+  padding: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.Bslides {
+  background-color: #BACC81;
+  padding: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.Cslides {
+  background-color: #BACC81;
+  padding: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.slideimage {
+  display: block;
+  margin: 0px auto;
+  width: 90%;
+}
+
+.vertical {
+  display: block;
+  margin: 0px auto;
+  width: 50%;
+}
+
+.arrowbutton {
+  width: 80px;
+  height: 30px;
+  margin-left: 5px;
+  margin-right: 5px;
+  background-color: white;
+  border-width: 3px;
+  border-style: solid;
+  border-color: #73AD21;
+  border-radius: 10px;
+}
+
+.imgbutton {
+  height: 20px;
+  width: 20px;
+  margin-left: 5px;
+  margin-right: 5px;
+  background-color: white;
+  border-width: 3px;
+  border-style: solid;
+  border-color: #73AD21;
+  border-radius: 10px;
 }
 
 .dark {
-
-}
-
-.light {
-
+  border-color: grey;
+  background-color: #a1a1a1;
 }
 
 .carouselhead {
-
+  margin-top: 30px;
+  margin: 0px auto;
+  text-align: center;
 }
 
 .carouselparas {
-
+  max-width: 670px;
+  margin: 0px auto;
+  margin-top: 20px;
+  text-align: center;
 }
+
 /* Ethan end */
 
 /* Footer start */
