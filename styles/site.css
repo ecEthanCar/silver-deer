@@ -349,6 +349,7 @@ main.block{
 
 .gallerymain {
   margin-top: 150px;
+  margin: 0px auto;
   max-width: 800px;
 }
 
@@ -356,18 +357,18 @@ main.block{
   /* width: 70%;
   margin-left: 15%;
   margin-right: 15%; */
-  margin-left: 200px;
+  margin-left: 150px;
   margin-bottom: 5px;
 }
 
 .Bindexslides {
   margin-bottom: 5px;
-  margin-left: 150px;
+  margin-left: 110px;
 }
 
 .Cindexslides {
   margin-bottom: 5px;
-  margin-left: 170px;
+  margin-left: 120px;
 }
 
 .slides {
