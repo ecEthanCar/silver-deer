@@ -314,46 +314,41 @@ iframe {
 
 main.block{
     position: relative;
-    /*top: -150px;*/
     width: 60%;
-    margin: auto;
+    margin: 0 auto;
     background-color: white;
-    padding-left: 40px;
-    padding-right: 40px;
+    padding-bottom: 25px;
 }
 
-.subtitle {
+h2.subtitle {
     color: white;
-    width: 100%;
     background-color: #4C7642;
-    padding: 25px;
     text-align: center;
+    padding: 25px;
 }
 
 .research {
     text-decoration: none;
 }
 
-.research a {
+ul.research a {
     text-decoration: none;
     color: #4C7642;
 }
 
-.research li {
-    text-decoration: none;
+ul.research li {
+    list-style: none;
     margin-bottom: 10px;
 }
 
 .publications {
-    text-decoration: 50px;
+    margin: 5px;
+    letter-spacing: 0.25px;
 }
 
 .publications li {
     margin-bottom: 10px;
-}
-
-.bottom-space {
-    margin-bottom: 25px;
+    margin-right: 10px;
 }
 /* Helen Lim end */
 
@@ -482,6 +477,7 @@ footer p{
     float: right;
     background-color: transparent;
     text-decoration: none;
+    margin: 0 0 0 15px;
 }
 
 .social{
