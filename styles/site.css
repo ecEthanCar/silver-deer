@@ -530,6 +530,30 @@ h2.subtitle {
   border-radius: 10px;
 }
 
+.Bimgbutton {
+  height: 20px;
+  width: 20px;
+  margin-left: 5px;
+  margin-right: 5px;
+  background-color: white;
+  border-width: 3px;
+  border-style: solid;
+  border-color: #73AD21;
+  border-radius: 10px;
+}
+
+.Cimgbutton {
+  height: 20px;
+  width: 20px;
+  margin-left: 5px;
+  margin-right: 5px;
+  background-color: white;
+  border-width: 3px;
+  border-style: solid;
+  border-color: #73AD21;
+  border-radius: 10px;
+}
+
 .dark {
   border-color: grey;
   background-color: #a1a1a1;
@@ -550,7 +574,7 @@ h2.subtitle {
 }
 
 @media (max-width: 650px) {
-  .imgbutton {
+  .imgbutton .Bimgbutton .Cimgbutton {
     display: none;
   }
 
@@ -570,6 +594,18 @@ h2.subtitle {
     margin: 0px auto;
     width: 80%;
   }
+}
+
+.currentdot {
+    background-color: gray;
+}
+
+.currentBdot {
+    background-color: gray;
+}
+
+.currentCdot {
+    background-color: gray;
 }
 
 /* Ethan end */

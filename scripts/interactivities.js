@@ -3,6 +3,7 @@ console.log("JavaScript loaded!!!");
 // Ethan's code for carousel
 
 // WEEK1
+
 $("#1button1").click(function() {
   $("#slide1").removeClass("hidden")
   $("#slide2").addClass("hidden")
@@ -52,6 +53,7 @@ $("#prev-image").click(function() {
 });
 
 const SLIDES = $(".slides > .slide");
+const DOTS = $(".imgbutton");
 
 function nextSlide() {
   let nextNum = SLIDES.index($(".slide:not(.hidden)")) + 1 + 1;
@@ -73,7 +75,12 @@ function showSlide(num) {
   let index = num - 1;
   let currentSlide = SLIDES.eq(index);
   SLIDES.addClass("hidden");
-    currentSlide.removeClass("hidden");
+  currentSlide.removeClass("hidden");
+  let currentDot = DOTS.eq(index);
+  DOTS.removeClass("currentdot");
+  currentDot.addClass("currentdot");
+  console.log(SLIDES.length);
+  console.log(DOTS.length);
   //
   // let currentDot = 1BUTTON.eq(index);
   // const 1BUTTON = $("imgbutton");
@@ -181,7 +188,7 @@ $("#2prev-image").click(function() {
 });
 
 const BSLIDES = $(".Bslide");
-const BDOTS = $("circle");
+const BDOTS = $("Bimgbutton");
 
 function nextBSlide() {
   let nextBNum = BSLIDES.index($(".Bslide").not($(".hidden"))) + 1 + 1;
@@ -202,9 +209,11 @@ function prevBSlide() {
 function showBSlide(Bnum) {
   let Bindex = Bnum - 1;
   let currentBSlide = BSLIDES.eq(Bindex);
-  let currentDot = BDOTS.eq(Bindex);
   BSLIDES.addClass("hidden");
   currentBSlide.removeClass("hidden");
+  let currentBDot = BDOTS.eq(Bindex);
+  BDOTS.removeClass("currentBdot");
+  currentBDot.addClass("currentBdot");
 }
 
 // Week3
@@ -288,7 +297,7 @@ $("#3prev-image").click(function() {
 });
 
 const CSLIDES = $(".Cslide");
-const CDOTS = $("circle");
+const CDOTS = $("Cimgbutton");
 
 function nextCSlide() {
   let nextCNum = CSLIDES.index($(".Cslide").not($(".hidden"))) + 1 + 1;
@@ -309,9 +318,11 @@ function prevCSlide() {
 function showCSlide(Cnum) {
   let Cindex = Cnum - 1;
   let currentCSlide = CSLIDES.eq(Cindex);
-  let currentDot = CDOTS.eq(Cindex);
   CSLIDES.addClass("hidden");
   currentCSlide.removeClass("hidden");
+  let currentCDot = CDOTS.eq(Cindex);
+  CDOTS.removeClass("currentCdot");
+  currentCDot.addClass("currentCdot");
 }
 
 $("#next-image").hover(function() {
