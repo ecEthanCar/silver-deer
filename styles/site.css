@@ -345,33 +345,55 @@ iframe {
 
 /* Helen Lim start */
 /* resource page */
-.title {
-    color: white;
-    background-color: #3f5938;
-    padding: 100px;
+.research-background {
+    background-color: #e3ecde;
+}
+
+.research-container {
+    position: relative;
+}
+
+.research-img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    filter:brightness(0.8);
+}
+
+.research-title{
+    position: absolute;
     text-align: center;
-    background-image:linear-gradient(to right,#2c4626,#4C7642,#a6e08a);
+    top: 40%;
+    left: 50%;
+    transform: translate( -50%, -50% );
+    color: white;
+    font-size: 42px;
+    font-weight: bold;
 }
 
 main.block{
-  z-index: 4;
-  position: relative;
-  /*top: -150px;*/
-  width: 60%;
-  margin: auto;
-  background-color: white;
-  padding-top: 40px;
-  padding-left: 40px;
-  padding-right: 40px;
-  border-radius: 2px;
-  border: 2px solid black;
+    position: relative;
+    width: 60%;
+    margin: 0 auto;
+    background-color: white;
+    padding-bottom: 25px;
 }
 
-.subtitle {
+h2.subtitle {
     color: white;
     background-color: #4C7642;
-    padding: 25px;
     text-align: center;
+    padding: 25px;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.bottom-space {
+    margin-bottom: 40px;
+}
+
+.top-space {
+    margin-top: 40px;
 }
 
 .research {
@@ -380,21 +402,43 @@ main.block{
 }
 
 .research a {
-    text-decoration: none;
     color: #4C7642;
+    font-size: 22px;
+    margin-top: 25px;
 }
 
-.research li {
-    margin-bottom: 10px;
+.research p {
+    color: gray;
+}
+
+.project {
+    background-color: #f6f6f6;
+    margin-right: 50px;
+    border-radius: 2%;
+    padding: 20px;
+    margin-bottom: 25px;
+}
+
+.project img {
+    float: left;
+    position: relative;
+    top: -10px;
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-left: 25px;
+    margin-right: 30px;
 }
 
 .publications {
-    text-decoration: 50px;
-    margin-left: 50px;
+    margin: 5px;
+    letter-spacing: 0.25px;
 }
 
 .publications li {
     margin-bottom: 10px;
+    margin-right: 10px;
 }
 /* Helen Lim end */
 
@@ -433,21 +477,21 @@ main.block{
   background-color: #BACC81;
   padding: 20px;
   margin-top: 10px;
-  margin-bottom: 10px;
+  margin-bottom: 60px;
 }
 
 .Bslides {
   background-color: #BACC81;
   padding: 20px;
   margin-top: 10px;
-  margin-bottom: 10px;
+  margin-bottom: 60px;
 }
 
 .Cslides {
   background-color: #BACC81;
   padding: 20px;
   margin-top: 10px;
-  margin-bottom: 10px;
+  margin-bottom: 60px;
 }
 
 .slideimage {
@@ -498,10 +542,34 @@ main.block{
 }
 
 .carouselparas {
+  font-size: 18px;
   max-width: 670px;
   margin: 0px auto;
   margin-top: 20px;
   text-align: center;
+}
+
+@media (max-width: 650px) {
+  .imgbutton {
+    display: none;
+  }
+
+  .arrowbutton{
+    width: 150px;
+    height: 40px;
+  }
+
+  .slideimage {
+    display: block;
+    margin: 0px auto;
+    width: 100%;
+  }
+
+  .vertical {
+    display: block;
+    margin: 0px auto;
+    width: 80%;
+  }
 }
 
 /* Ethan end */
@@ -515,15 +583,31 @@ footer {
 }
 footer p{
   font-size: 80%;
-  color: grey;
+  color: white;
   float: right;
 }
 
 .footer-button {
-    color: white;
-    font-weight: bold;
+    float: right;
+    background-color: transparent;
     text-decoration: none;
-    text-align: right;
+    margin: 0 0 0 15px;
+}
+
+.cornell-logo {
+    float: left;
+    margin-left: 25px;
+}
+
+footer ul li {
+    list-style: none;
+    color: white;
+}
+
+.copyright {
+    text-align: center;
+    line-height: 15px;
+    font-size: 11px;
 }
 
 .social{
@@ -532,9 +616,4 @@ footer p{
   padding-top: 2%;
   color:#3a536b;
 }
-
-#cornelllogo2{
-  margin-bottom: 1%;
-}
-
 /* Footer end */
