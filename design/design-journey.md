@@ -746,7 +746,6 @@ Yes. She studies bio and have taken online courses, she is actively seeking reso
 
 3. You are curious about other people who have taken or are taking the online courses provided by the Civic Ecology Lab, as these online courses are offered globally. Where might you look to get more details about where people come from and what other people have posted for their weekly projects? What information do you gain from this?
 
-
 - **Did you evaluate the desktop or mobile design?**
   - Pick one: desktop
 - **How did the user do? Did they meet your expectation?**
