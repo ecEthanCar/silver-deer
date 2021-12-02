@@ -704,7 +704,24 @@ TODO
 ### User 1 - Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test. Place your notes here.
 
-TODO
+Task 1:
+
+stay on the home page and start reading.
+scroll down and move mouse to professional network, leave, scroll to the bottom, not see info, back to top
+go to courses, read the tab "about", see nothing, and then tried each tab.
+
+*but we finally realized that it was due the bar of Zoom on the bottom that hides the footer.
+
+Task 2:
+back to home page, read "who are we", highlights the last sentence, thought it does not address the question.
+
+keep scrolling and skimming throught the web, move mouse to "solutions-oriented," not finding any answer. Then move mouse to "research-based." Find answer in the first sentence "yes"
+
+Task 3:
+stay on the first page, move mouse to "professional network" and then find nothing.
+keep skimming the home page for about 10 sec, then enter "courses" in the nav bar.
+Reread the section "abou this course," did not find the answer. Took some time to find the nav bar by scrolling and skimming this page, and then find the answers in the "instructors" section.
+
 
 
 ### User 1 (Final Submission)
@@ -712,33 +729,44 @@ TODO
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-TODO
-
+China, student
 
 2. Does the user belong to your audience of the site? (Yes / No)
 > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-TODO
+Yes. She studies bio and have taken online courses, she is actively seeking resources including courses in this field.
 
 
 ### User 1 Results (Final Submission)
 > Report the results of your user's test. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make **for EACH task**. You can also add any additional comments.
 
-Task: TODO: copy task here
-- **Did you evaluate the desktop or mobile design?**
-  - Pick one: desktop/mobile
-- **How did the user do? Did they meet your expectation?**
-  - TODO
-- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - TODO
-- **Your reflections about the user’s performance to the task**
-  - TODO
-- **Re-design choices**
-  - TODO
-- **Additional Notes**
-  - TODO: Justify your decisions; additional notes.
+1. You are looking to engage with the Civic Ecology Lab in other ways than the website. Perhaps they have a Facebook group or an Instagram account where you can stay updated with new information. Find out if this kind of resource is available on the website and navigate to these social medias. Take note if additional pictures and content was present on these social medias.
 
-TODO...
+2. You wish to take a course that addresses social/environmental problems based on research. Does the civic ecology lab meet this expectation?
+
+3. You are curious about other people who have taken or are taking the online courses provided by the Civic Ecology Lab, as these online courses are offered globally. Where might you look to get more details about where people come from and what other people have posted for their weekly projects? What information do you gain from this?
+
+
+- **Did you evaluate the desktop or mobile design?**
+  - Pick one: desktop
+- **How did the user do? Did they meet your expectation?**
+  - for the first task, she wasn't able to see the footer becuase it was hidden behind a bar in Zoom's UI. I told my teammates about this issue, and then we redesigned the footer by making it taller.
+
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+  - 1. could make the tab bar in the course page bigger. She was having trouble finding it in the first place
+  - 2. was having trouble with the hover function in the home page. It was not smooth and sometimes does not work  
+- **Your reflections about the user’s performance to the task**
+  - 1. will see if others also have this issue
+  - 2. since the codes are correct, it might be due to issued related to other aspects of programming, which is out of the scope of what I have learned from this course so far. I would still insist on using the hover function as described in the design rationale.
+  - Based on her time spend finding the instructor, and the action that she first checked the "instructor", I may add more information about instructor in the home page
+- **Re-design choices**
+  - will potentially emphasize the tab bar in the courses page (depending on other interviewee's feedback)
+  - add a link in the instructor part in the home page, linking to the instructor page.
+- **Additional Notes**
+  - None
+
+
+
 
 
 ### User 2 - Testing Notes (Final Submission)
