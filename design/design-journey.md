@@ -681,31 +681,31 @@ Gallery
 **Mobile Screenshots:**  
 
 Home Page  
-![Mobile Home Page](mobile-home-ss.jpeg)  
+![Mobile Home Page](mobile-home-ss.png)  
 
 Courses Page
-![Mobile Courses Page](mobile-courses-ss.jpeg)  
+![Mobile Courses Page](mobile-courses-ss.png)  
 
 Resources Page
-![Mobile Resources Page](mobile-resources-ss.jpeg)  
+![Mobile Resources Page](mobile-resources-ss.png)  
 
 Gallery Page
-![Mobile Gallery Page](mobile-gallery-ss.jpeg)
+![Mobile Gallery Page](mobile-gallery-ss.png)
 
 
 **Desktop Screenshots:**  
 
 Home Page  
-![Desktop Home Page](desktop-home-ss.jpeg)  
+![Desktop Home Page](desktop-home-ss.png)  
 
 Courses Page
-![Desktop Courses Page](desktop-courses-ss.jpeg)  
+![Desktop Courses Page](desktop-courses-ss.png)  
 
 Resources Page
-![Desktop Resources Page](desktop-resources-ss.jpeg)  
+![Desktop Resources Page](desktop-resources-ss.png)  
 
 Gallery Page
-![Desktop Gallery Page](desktop-gallery-ss.jpeg)
+![Desktop Gallery Page](desktop-gallery-ss.png)
 
 
 ## User Testing (Final Submission)
