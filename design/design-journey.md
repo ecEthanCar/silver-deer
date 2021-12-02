@@ -797,7 +797,10 @@ Yes. She studies bio and have taken online courses, she is actively seeking reso
 ### User 2 - Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test. Place your notes here.
 
-TODO
+test1: start at home page, keep scrolling down. Clicked on resources based but found out it is not a link. Go up to who we are part and get a general idea about the web. Then go to course. did not find. He failed to see the social media icons. He is not familiar with the social media icons, and those social medias cannot be obtained in China. Also he was only looking for it on the main part, he did not expect it to appear on the footer. When I told him where those medias are, he clicked into them and though most of them are updated regularly with adequate amount of information, but the Weibo was not updated in a while. However, he liked Weibo are in Chinese.
+test2: click on course but did not find it. wants to find a search bar to locate the information but we do not have it. Keep looking in course page and thought week 5's content is related to social/environmental problems.
+test3: He is in course page and look for the tasks in the tabs, but did not find it. went to the gallery page, but did not realize those are the students projects, going back to course page. Believed that he could find students tasks in course page, failed.
+general comments: too much white space in gallery, gallery fonts could be better designed. Would be nice to include four seasons' pictures for background. There could be a title for home page. No civic lab team introduction on home page.
 
 
 ### User 2 (Final Submission)
@@ -805,39 +808,46 @@ TODO
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-My user is a Chinese botanical professor and researcher who manages 
+My user is a middle-aged Chinese botanical professor and researcher who manages many students, he also has a lot of biological projects.
 
 
 2. Does the user belong to your audience of the site? (Yes / No)
 > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-TODO
+Yes
 
 
 ### User 2 Results (Final Submission)
 > Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make **for EACH task**. You can also add any additional comments.
 
-Task: TODO: copy task here
-- **Did you evaluate the desktop or mobile design?**
-  - Pick one: desktop/mobile
-- **How did the user do? Did they meet your expectation?**
-  - TODO
-- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - TODO
-- **Your reflections about the user’s performance to the task**
-  - TODO
-- **Re-design choices**
-  - TODO
-- **Additional Notes**
-  - TODO: Justify your decisions; additional notes.
+1. You are looking to engage with the Civic Ecology Lab in other ways than the website. Perhaps they have a Facebook group or an Instagram account where you can stay updated with new information. Find out if this kind of resource is available on the website and navigate to these social medias. Take note if additional pictures and content was present on these social medias.
 
-TODO...
+2. You wish to take a course that addresses social/environmental problems based on research. Does the civic ecology lab meet this expectation?
+
+3. You are curious about other people who have taken or are taking the online courses provided by the Civic Ecology Lab, as these online courses are offered globally. Where might you look to get more details about where people come from and what other people have posted for their weekly projects? What information do you gain from this?
+- **Did you evaluate the desktop or mobile design?**
+  - desktop
+- **How did the user do? Did they meet your expectation?**
+  - The user did not meet my expectations, since he fails most tasks. It might be due to the language/cultural barrier or age gap (the user is a middle aged Chinese professor).
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+  - When we want him to find the social media links, he does not know what those could be. Facebook, ins, and twitter are banned in China, therefore he was not familiar with those icons. Also he was mostly looking for information on the main part of the page and ignoring the footer (where we put it). For the second task, he only looked for the expectations in the course page since the tasks asked about the course. For the third task, he also tries to look for the student tasks in the course page, because those tasks are from the course.
+  - the user pointed out a lot of issues when he glanced through the webpage. He said there are too much white space in gallery, gallery fonts could be better designed. Would be nice to include four seasons' pictures for background. There could be a title for home page. No civic lab team introduction on home page.
+- **Your reflections about the user’s performance to the task**
+  - The user is very different from our biggest audience--students, so he might be looking for something different than them. For example, more research and publications, more structural illustrations, etc. And as we can see, the webpage might be more confusing for global users due to language barriers and cultural differences.
+- **Re-design choices**
+  - add search bar
+  - style gallery better/more attracting
+  - add title for home page
+- **Additional Notes**
+  - Since we have a lot of information on the webpage, it would be nice to add a search bar for the users to quickly locate what they are looking for.
+  - Styling the pictures better could capture more attentions and make our webpage look more professional.
+  - There should be a title on home page before "who are we".
 
 
 ### User 3 - Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test. Place your notes here.
 
-TODO
+
 
 
 ### User 3 (Final Submission)
