@@ -286,7 +286,7 @@ Notes:
 ### Goals (Milestone 2)
 > Analyze your audience's goals from your notes above. List each goal below. There is no specific number of goals required for this, but you need enough to do the job (Hint: It's more than 1 and probably more than 2).
 
-Goal 1: Give access to a comprehensive list of resources (links and papers) that the user can use for future ecological application.
+Goal 1: Have access to a comprehensive list of resources (links and papers) to use for future ecological application
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
   - Create a separate page dedicated to listing resources and including corresponding images associated with the resources.
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
@@ -301,7 +301,7 @@ Goal 2: Better understand the courses from their description and be compelled to
   - Having a similar structure of information for each course will give the audience familiarity and be able to better navigate courses
   - Making the enroll button stand out will catch the audience's attention
 
-Goal 3: Make the design of the website have the themes of security, professionalism, and community that users can easily attain.
+Goal 3: Gain a sense of security, professionalism, and community from the website's design
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
   - Maintain the current color theme and font styles.
   - Make all of the content have a unified width and borders.
@@ -982,7 +982,7 @@ We resized the social media icons in the footer so that they were slightly bigge
 
 TODO
   Strength 1: Course information is better organized through the tabs
-  Strength 2: 
+  Strength 2:
   Strength 3:
 
 > 2. Tell us what you, as a team, learned while working on this project.
