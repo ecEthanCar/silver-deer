@@ -86,106 +86,117 @@ function showSlide(num) {
   currentDot.addClass("currentdot");
   console.log(SLIDES.length);
   console.log(DOTS.length);
-  //
-  // let currentDot = 1BUTTON.eq(index);
-  // const 1BUTTON = $("imgbutton");
-  // 1BUTTON.removeClass("dark");
-  //   currentDots.addClass("dark");
 }
+
+$("#next-image").hover(function() {
+  $("#next-image").addClass("dark");
+}, function() {
+  $("#next-image").removeClass("dark");
+});
+
+$("#prev-image").hover(function() {
+  $("#prev-image").addClass("dark");
+}, function() {
+  $("#prev-image").removeClass("dark");
+});
 
 //Week2
 
 $("#2button1").click(function() {
-  showSlide(1)
-  $("#2button1").addClass("currentdot")
-  $("#2button1").removeClass("currentdot")
-
-  // $("#Bslide2").addClass("hidden")
-  // $("#Bslide3").addClass("hidden")
-  // $("#Bslide4").addClass("hidden")
-  // $("#Bslide5").addClass("hidden")
-  // $("#Bslide6").addClass("hidden")
-  // $("#Bslide7").addClass("hidden")
-  // $("#Bslide8").addClass("hidden")
+  showBSlide(1);
+  $("#2button1").addClass("currentBdot")
+  $("#2button2").removeClass("currentBdot")
+  $("#2button3").removeClass("currentBdot")
+  $("#2button4").removeClass("currentBdot")
+  $("#2button5").removeClass("currentBdot")
+  $("#2button6").removeClass("currentBdot")
+  $("#2button7").removeClass("currentBdot")
+  $("#2button8").removeClass("currentBdot")
 });
 
 $("#2button2").click(function() {
-  $("#Bslide1").addClass("hidden")
-  $("#Bslide2").removeClass("hidden")
-  $("#Bslide3").addClass("hidden")
-  $("#Bslide4").addClass("hidden")
-  $("#Bslide5").addClass("hidden")
-  $("#Bslide6").addClass("hidden")
-  $("#Bslide7").addClass("hidden")
-  $("#Bslide8").addClass("hidden")
+  showBSlide(2);
+  $("#2button1").removeClass("currentBdot")
+  $("#2button2").addClass("currentBdot")
+  $("#2button3").removeClass("currentBdot")
+  $("#2button4").removeClass("currentBdot")
+  $("#2button5").removeClass("currentBdot")
+  $("#2button6").removeClass("currentBdot")
+  $("#2button7").removeClass("currentBdot")
+  $("#2button8").removeClass("currentBdot")
 });
 
 $("#2button3").click(function() {
-  $("#Bslide1").addClass("hidden")
-  $("#Bslide2").addClass("hidden")
-  $("#Bslide3").removeClass("hidden")
-  $("#Bslide4").addClass("hidden")
-  $("#Bslide5").addClass("hidden")
-  $("#Bslide6").addClass("hidden")
-  $("#Bslide7").addClass("hidden")
-  $("#Bslide8").addClass("hidden")
+  showBSlide(3);
+  $("#2button1").removeClass("currentBdot")
+  $("#2button2").removeClass("currentBdot")
+  $("#2button3").addClass("currentBdot")
+  $("#2button4").removeClass("currentBdot")
+  $("#2button5").removeClass("currentBdot")
+  $("#2button6").removeClass("currentBdot")
+  $("#2button7").removeClass("currentBdot")
+  $("#2button8").removeClass("currentBdot")
 });
 
 $("#2button4").click(function() {
-  $("#Bslide1").addClass("hidden")
-  $("#Bslide2").addClass("hidden")
-  $("#Bslide3").addClass("hidden")
-  $("#Bslide4").removeClass("hidden")
-  $("#Bslide5").addClass("hidden")
-  $("#Bslide6").addClass("hidden")
-  $("#Bslide7").addClass("hidden")
-  $("#Bslide8").addClass("hidden")
+  showBSlide(4);
+  $("#2button1").removeClass("currentBdot")
+  $("#2button2").removeClass("currentBdot")
+  $("#2button3").removeClass("currentBdot")
+  $("#2button4").addClass("currentBdot")
+  $("#2button5").removeClass("currentBdot")
+  $("#2button6").removeClass("currentBdot")
+  $("#2button7").removeClass("currentBdot")
+  $("#2button8").removeClass("currentBdot")
 });
 
 $("#2button5").click(function() {
-  $("#Bslide1").addClass("hidden")
-  $("#Bslide2").addClass("hidden")
-  $("#Bslide3").addClass("hidden")
-  $("#Bslide4").addClass("hidden")
-  $("#Bslide5").removeClass("hidden")
-  $("#Bslide6").addClass("hidden")
-  $("#Bslide7").addClass("hidden")
-  $("#Bslide8").addClass("hidden")
+  showBSlide(5);
+  $("#2button1").removeClass("currentBdot")
+  $("#2button2").removeClass("currentBdot")
+  $("#2button3").removeClass("currentBdot")
+  $("#2button4").removeClass("currentBdot")
+  $("#2button5").addClass("currentBdot")
+  $("#2button6").removeClass("currentBdot")
+  $("#2button7").removeClass("currentBdot")
+  $("#2button8").removeClass("currentBdot")
 });
 
 $("#2button6").click(function() {
-  $("#Bslide1").addClass("hidden")
-  $("#Bslide2").addClass("hidden")
-  $("#Bslide3").addClass("hidden")
-  $("#Bslide4").addClass("hidden")
-  $("#Bslide5").addClass("hidden")
-  $("#Bslide6").removeClass("hidden")
-  $("#Bslide7").addClass("hidden")
-  $("#Bslide8").addClass("hidden")
+  showBSlide(6);
+  $("#2button1").removeClass("currentBdot")
+  $("#2button2").removeClass("currentBdot")
+  $("#2button3").removeClass("currentBdot")
+  $("#2button4").removeClass("currentBdot")
+  $("#2button5").removeClass("currentBdot")
+  $("#2button6").addClass("currentBdot")
+  $("#2button7").removeClass("currentBdot")
+  $("#2button8").removeClass("currentBdot")
 });
 
 $("#2button7").click(function() {
-  $("#Bslide1").addClass("hidden")
-  $("#Bslide2").addClass("hidden")
-  $("#Bslide3").addClass("hidden")
-  $("#Bslide4").addClass("hidden")
-  $("#Bslide5").addClass("hidden")
-  $("#Bslide6").addClass("hidden")
-  $("#Bslide7").removeClass("hidden")
-  $("#Bslide8").addClass("hidden")
+  showBSlide(7);
+  $("#2button1").removeClass("currentBdot")
+  $("#2button2").removeClass("currentBdot")
+  $("#2button3").removeClass("currentBdot")
+  $("#2button4").removeClass("currentBdot")
+  $("#2button5").removeClass("currentBdot")
+  $("#2button6").removeClass("currentBdot")
+  $("#2button7").addClass("currentBdot")
+  $("#2button8").removeClass("currentBdot")
 });
 
 $("#2button8").click(function() {
-  $("#Bslide1").addClass("hidden")
-  $("#Bslide2").addClass("hidden")
-  $("#Bslide3").addClass("hidden")
-  $("#Bslide4").addClass("hidden")
-  $("#Bslide5").addClass("hidden")
-  $("#Bslide6").addClass("hidden")
-  $("#Bslide7").addClass("hidden")
-  $("#Bslide8").removeClass("hidden")
+  showBSlide(8);
+  $("#2button1").removeClass("currentBdot")
+  $("#2button2").removeClass("currentBdot")
+  $("#2button3").removeClass("currentBdot")
+  $("#2button4").removeClass("currentBdot")
+  $("#2button5").removeClass("currentBdot")
+  $("#2button6").removeClass("currentBdot")
+  $("#2button7").removeClass("currentBdot")
+  $("#2button8").addClass("currentBdot")
 });
-
 
 $("#2next-image").click(function() {
   nextBSlide();
@@ -196,7 +207,7 @@ $("#2prev-image").click(function() {
 });
 
 const BSLIDES = $(".Bslide");
-const BDOTS = $("Bimgbutton");
+const BDOTS = $(".Bimgbutton");
 
 function nextBSlide() {
   let nextBNum = BSLIDES.index($(".Bslide").not($(".hidden"))) + 1 + 1;
@@ -224,76 +235,95 @@ function showBSlide(Bnum) {
   currentBDot.addClass("currentBdot");
 }
 
+$("#2next-image").hover(function() {
+  $("#2next-image").addClass("dark");
+}, function() {
+  $("#2next-image").removeClass("dark");
+});
+
+$("#2prev-image").hover(function() {
+  $("#2prev-image").addClass("dark");
+}, function() {
+  $("#2prev-image").removeClass("dark");
+});
+
 // Week3
 
 $("#3button1").click(function() {
-  $("#Cslide1").removeClass("hidden")
-  $("#Cslide2").addClass("hidden")
-  $("#Cslide3").addClass("hidden")
-  $("#Cslide4").addClass("hidden")
-  $("#Cslide5").addClass("hidden")
-  $("#Cslide6").addClass("hidden")
-  $("#Cslide7").addClass("hidden")
+  showCSlide(1);
+  $("#3button1").addClass("currentCdot")
+  $("#3button2").removeClass("currentCdot")
+  $("#3button3").removeClass("currentCdot")
+  $("#3button4").removeClass("currentCdot")
+  $("#3button5").removeClass("currentCdot")
+  $("#3button6").removeClass("currentCdot")
+  $("#3button7").removeClass("currentCdot")
 });
 
 $("#3button2").click(function() {
-  $("#Cslide1").addClass("hidden")
-  $("#Cslide2").removeClass("hidden")
-  $("#Cslide3").addClass("hidden")
-  $("#Cslide4").addClass("hidden")
-  $("#Cslide5").addClass("hidden")
-  $("#Cslide6").addClass("hidden")
-  $("#Cslide7").addClass("hidden")
+  showCSlide(2);
+  $("#3button1").removeClass("currentCdot")
+  $("#3button2").addClass("currentCdot")
+  $("#3button3").removeClass("currentCdot")
+  $("#3button4").removeClass("currentCdot")
+  $("#3button5").removeClass("currentCdot")
+  $("#3button6").removeClass("currentCdot")
+  $("#3button7").removeClass("currentCdot")
 });
 
 $("#3button3").click(function() {
-  $("#Cslide1").addClass("hidden")
-  $("#Cslide2").addClass("hidden")
-  $("#Cslide3").removeClass("hidden")
-  $("#Cslide4").addClass("hidden")
-  $("#Cslide5").addClass("hidden")
-  $("#Cslide6").addClass("hidden")
-  $("#Cslide7").addClass("hidden")
+  showCSlide(3);
+  $("#3button1").removeClass("currentCdot")
+  $("#3button2").removeClass("currentCdot")
+  $("#3button3").addClass("currentCdot")
+  $("#3button4").removeClass("currentCdot")
+  $("#3button5").removeClass("currentCdot")
+  $("#3button6").removeClass("currentCdot")
+  $("#3button7").removeClass("currentCdot")
 });
 
 $("#3button4").click(function() {
-  $("#Cslide1").addClass("hidden")
-  $("#Cslide2").addClass("hidden")
-  $("#Cslide3").addClass("hidden")
-  $("#Cslide4").removeClass("hidden")
-  $("#Cslide5").addClass("hidden")
-  $("#Cslide6").addClass("hidden")
-  $("#Cslide7").addClass("hidden")
+  showCSlide(4);
+  $("#3button1").removeClass("currentCdot")
+  $("#3button2").removeClass("currentCdot")
+  $("#3button3").removeClass("currentCdot")
+  $("#3button4").addClass("currentCdot")
+  $("#3button5").removeClass("currentCdot")
+  $("#3button6").removeClass("currentCdot")
+  $("#3button7").removeClass("currentCdot")
 });
 
 $("#3button5").click(function() {
-  $("#Cslide1").addClass("hidden")
-  $("#Cslide2").addClass("hidden")
-  $("#Cslide3").addClass("hidden")
-  $("#Cslide4").addClass("hidden")
-  $("#Cslide5").removeClass("hidden")
-  $("#Cslide6").addClass("hidden")
-  $("#Cslide7").addClass("hidden")
+  showCSlide(5);
+  $("#3button1").removeClass("currentCdot")
+  $("#3button2").removeClass("currentCdot")
+  $("#3button3").removeClass("currentCdot")
+  $("#3button4").removeClass("currentCdot")
+  $("#3button5").addClass("currentCdot")
+  $("#3button6").removeClass("currentCdot")
+  $("#3button7").removeClass("currentCdot")
 });
 
 $("#3button6").click(function() {
-  $("#Cslide1").addClass("hidden")
-  $("#Cslide2").addClass("hidden")
-  $("#Cslide3").addClass("hidden")
-  $("#Cslide4").addClass("hidden")
-  $("#Cslide5").addClass("hidden")
-  $("#Cslide6").removeClass("hidden")
-  $("#Cslide7").addClass("hidden")
+  showCSlide(6);
+  $("#3button1").removeClass("currentCdot")
+  $("#3button2").removeClass("currentCdot")
+  $("#3button3").removeClass("currentCdot")
+  $("#3button4").removeClass("currentCdot")
+  $("#3button5").removeClass("currentCdot")
+  $("#3button6").addClass("currentCdot")
+  $("#3button7").removeClass("currentCdot")
 });
 
 $("#3button7").click(function() {
-  $("#Cslide1").addClass("hidden")
-  $("#Cslide2").addClass("hidden")
-  $("#Cslide3").addClass("hidden")
-  $("#Cslide4").addClass("hidden")
-  $("#Cslide5").addClass("hidden")
-  $("#Cslide6").addClass("hidden")
-  $("#Cslide7").removeClass("hidden")
+  showCSlide(7);
+  $("#3button1").removeClass("currentCdot")
+  $("#3button2").removeClass("currentCdot")
+  $("#3button3").removeClass("currentCdot")
+  $("#3button4").removeClass("currentCdot")
+  $("#3button5").removeClass("currentCdot")
+  $("#3button6").removeClass("currentCdot")
+  $("#3button7").addClass("currentCdot")
 });
 
 $("#3next-image").click(function() {
@@ -305,7 +335,7 @@ $("#3prev-image").click(function() {
 });
 
 const CSLIDES = $(".Cslide");
-const CDOTS = $("Cimgbutton");
+const CDOTS = $(".Cimgbutton");
 
 function nextCSlide() {
   let nextCNum = CSLIDES.index($(".Cslide").not($(".hidden"))) + 1 + 1;
@@ -333,16 +363,16 @@ function showCSlide(Cnum) {
   currentCDot.addClass("currentCdot");
 }
 
-$("#next-image").hover(function() {
-  $("#next-image").addClass("dark");
+$("#3next-image").hover(function() {
+  $("#3next-image").addClass("dark");
 }, function() {
-  $("#next-image").removeClass("dark");
+  $("#3next-image").removeClass("dark");
 });
 
-$("#prev-image").hover(function() {
-  $("#prev-image").addClass("dark");
+$("#3prev-image").hover(function() {
+  $("#3prev-image").addClass("dark");
 }, function() {
-  $("#prev-image").removeClass("dark");
+  $("#3prev-image").removeClass("dark");
 });
 
 // End of Ethan's code
