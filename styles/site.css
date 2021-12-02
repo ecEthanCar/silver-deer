@@ -51,7 +51,9 @@ nav ul li {
     display: inline-block;
     text-decoration: none;
     text-align: center;
-    padding: 50px;
+    padding: 2%;;
+    font-size: 120%;
+    justify-content: center;
 }
 
 nav a {
