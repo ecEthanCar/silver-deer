@@ -575,6 +575,7 @@ h2.subtitle {
   border-style: solid;
   border-color: #73AD21;
   border-radius: 10px;
+  font-size: 18px;
 }
 
 .imgbutton {
@@ -620,8 +621,16 @@ h2.subtitle {
 
 .carouselhead {
   margin-top: 30px;
-  margin: 0px auto;
+  margin-bottom: 10px;
   text-align: center;
+}
+
+.carouselheadtop {
+  margin-top: 30px;
+  margin-bottom: 10px;
+  text-align: center;
+  background-color: #BACC81;
+  padding: 20px;
 }
 
 .carouselparas {
@@ -646,6 +655,7 @@ h2.subtitle {
   }
 
   .arrowbutton{
+    font-size: 20px;
     width: 150px;
     height: 40px;
   }
