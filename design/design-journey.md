@@ -679,7 +679,8 @@ Gallery
 > Include screenshots of both the desktop and mobile version of your site that you will be using for user testing. (We need to see the "before" testing version of your site.)
 > Use the FireFox screenshot feature to take screenshots of the entire page.
 
-**Mobile Screenshots:**
+**Mobile Screenshots:**  
+
 Home Page
 ![Mobile Home Page](mobile-home-ss.jpeg)  
 
@@ -693,7 +694,8 @@ Gallery Page
 ![Mobile Gallery Page](mobile-gallery-ss.jpeg)
 
 
-**Desktop Screenshots:**
+**Desktop Screenshots:**  
+
 Home Page
 ![Desktop Home Page](desktop-home-ss.jpeg)  
 
@@ -799,7 +801,7 @@ TODO
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-My user is a Chinese botanical professor and researcher who manages 
+My user is a Chinese botanical professor and researcher who manages
 
 
 2. Does the user belong to your audience of the site? (Yes / No)
