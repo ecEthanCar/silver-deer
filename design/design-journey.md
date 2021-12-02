@@ -1051,3 +1051,34 @@ As a team, we learned how to communicate together when working on the project se
 > 3. Tell us anything else you need us to know for when we're looking at the project.
 
 Some of our images were provided by our client so we just made note of that as a comment next to the image in the code, as we could not cite these images according to the citation policy.
+
+We would also like to mention that the final screenshots for the mobile and desktop designs were actually taken after our user tests (after changes were made). We initially took a screenshot snipbit before the user tests, but realized after that a screenshot of the whole page was required. Just in case you would like to view those, we have included the initial screenshots below, but they do not capture the entire page.
+
+**Mobile Screenshots (before user tests but not full page)**  
+
+Home Page  
+![Mobile Home Page](mobile-home-ss.jpeg)  
+
+Courses Page  
+![Mobile Courses Page](mobile-courses-ss.jpeg)  
+
+Resources Page  
+![Mobile Resources Page](mobile-resources-ss.jpeg)  
+
+Gallery Page  
+![Mobile Gallery Page](mobile-gallery-ss.jpeg)
+
+
+**Desktop Screenshots (before user tests but not full page)**  
+
+Home Page  
+![Desktop Home Page](desktop-home-ss.jpeg)  
+
+Courses Page  
+![Desktop Courses Page](desktop-courses-ss.jpeg)  
+
+Resources Page  
+![Desktop Resources Page](desktop-resources-ss.jpeg)  
+
+Gallery Page  
+![Desktop Gallery Page](desktop-gallery-ss.jpeg)
