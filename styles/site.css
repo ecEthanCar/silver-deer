@@ -328,6 +328,11 @@ main{
   margin-top: 3%;
 }
 
+.indent {
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
 @media (max-width:1200px){
 
   #coursepic{
