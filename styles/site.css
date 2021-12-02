@@ -24,6 +24,11 @@ p.green a {
     color: #4C7642;
 }
 
+a.green {
+    text-decoration: none;
+    color: #4C7642;
+}
+
 /* Navigation Bar start*/
 .header {
     background: white;
