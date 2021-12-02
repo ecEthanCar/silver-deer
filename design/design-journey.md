@@ -833,7 +833,34 @@ TODO...
 ### User 3 - Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test. Place your notes here.
 
-TODO
+Task 1: You are looking to engage with the Civic Ecology Lab in other ways than the website. Perhaps they have a Facebook group or an Instagram account where you can stay updated with new information. Find out if this kind of resource is available on the website and navigate to these social medias. Take note if additional pictures and content was present on these social medias.
+
+- Starts at home page
+- Scrolls down the home page and notices the “what to expect’ boxes and scrolls back up
+- Decides that social media might be located in the resources page since it is kind of like a resource
+- Click on the resource page
+- Scrolls through and reads the projects and publications titles
+- Understands that this page is academic resources not social media resources
+- Notices the white logos in the footer, facebook logo catches eye
+- Clicks on facebook logo and new tab opens
+- Sees nature videos and more updates about the courses and even additional information like recommended books
+
+Task 2: You wish to take a course that addresses social/environmental problems based on research. Does the civic ecology lab meet this expectation?
+
+- Starts at home page
+- Navigates to courses page
+- Reads the course title and sees that it is about environment
+- Scrolls more down and reads the about this course
+- Clicks through the different tabs and gets more information about course, like instructors and content
+- Yes, civic ecology lab meets expectation and quickly found course
+
+Task 3: You are curious about other people who have taken or are taking the online courses provided by the Civic Ecology Lab, as these online courses are offered globally. Where might you look to get more details about where people come from and what other people have posted for their weekly projects? What information do you gain from this?
+- Start at home page
+- Since this is about other people who have taken the course, navigates to courses page to see if there is a section about the people who took the course
+- None of the tabs seem to mention participants
+- Clicks on gallery page instead since it could showcase students
+- Realizes that the carousels display pictures from people who have taken course
+- Reads description under pictures and learns more about the different people around the globe
 
 
 ### User 3 (Final Submission)
@@ -841,33 +868,67 @@ TODO
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-TODO
+My user is Marjan Abedi and she graduated from the University of Tehran in Iran in 2019. She earned her Masters of Science from the University of Tehran and specifically worked with the Department of Wood and Paper Science and Technology, specialising in wood plastic nanocomposite.
 
 
 2. Does the user belong to your audience of the site? (Yes / No)
+Yes
 > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-TODO
+My user belongs to the site’s audience because she is interested in learning more about ecology and obtaining knowledge from the Civic Ecology Lab online courses to complement her specialisation.
 
 
 ### User 3 Results (Final Submission)
 > Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make **for EACH task**. You can also add any additional comments.
 
-Task: TODO: copy task here
+Task 1: You are looking to engage with the Civic Ecology Lab in other ways than the website. Perhaps they have a Facebook group or an Instagram account where you can stay updated with new information. Find out if this kind of resource is available on the website and navigate to these social medias. Take note if additional pictures and content was present on these social medias.
 - **Did you evaluate the desktop or mobile design?**
-  - Pick one: desktop/mobile
+  - Desktop
 - **How did the user do? Did they meet your expectation?**
-  - TODO
+  - Yes the user was able to find the social media logos in the footer
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - TODO
+  - User said the social media icons were clearly visible and while at first it was a little difficult to find, she would have probably guessed that it would be in the footer since it is a common website design
 - **Your reflections about the user’s performance to the task**
-  - TODO
+  - User performed task in less than three minutes, did not get frustrated
+  - User was not confused with content on the pages
 - **Re-design choices**
-  - TODO
+  - Possibly enlarge the icons so that they are more visible
 - **Additional Notes**
-  - TODO: Justify your decisions; additional notes.
+  - Overall, social media search was a success and user was satisfied with the design of it
 
-TODO...
+
+  Task 2: You wish to take a course that addresses social/environmental problems based on research. Does the civic ecology lab meet this expectation?
+  - **Did you evaluate the desktop or mobile design?**
+    - Desktop
+  - **How did the user do? Did they meet your expectation?**
+    - Yes the user was able to find the desired information in about less than a minute
+  - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+    - Course page tabs were very organized and efficient, clarified the course information
+    - Blue links were a bit messy
+  - **Your reflections about the user’s performance to the task**
+    - User appeared very comfortable with the site and the tab feature on the course page
+  - **Re-design choices**
+    - Clean up the text and change all links in the descriptions to the same color and get rid of blue underline
+  - **Additional Notes**
+    - According to user, blue underline makes the course page less professional
+
+
+Task 3: You are curious about other people who have taken or are taking the online courses provided by the Civic Ecology Lab, as these online courses are offered globally. Where might you look to get more details about where people come from and what other people have posted for their weekly projects? What information do you gain from this?
+
+- **Did you evaluate the desktop or mobile design?**
+  - Desktop
+- **How did the user do? Did they meet your expectation?**
+  - The user met my expectation and found the gallery page, but it did take a bit longer
+- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
+  - The name gallery was at first a bit vague but after clicking on the site the titles made it more clear what information was on that page
+  - Carousels could look more professional
+- **Your reflections about the user’s performance to the task**
+  - User navigated to gallery page with little difficulty and had fun clicking through the slideshows
+- **Re-design choices**
+  - Possibly add a main title to the page to better explain what the page is showing
+  - Improve the carousels’s functionality by adding status dots
+- **Additional Notes**
+  - Make sure to make the carousels responsive for mobile screen
 
 
 ### User 4 - Testing Notes (Final Submission)
