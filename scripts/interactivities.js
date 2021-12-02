@@ -5,43 +5,48 @@ console.log("JavaScript loaded!!!");
 // WEEK1
 
 $("#1button1").click(function() {
-  $("#slide1").removeClass("hidden")
-  $("#slide2").addClass("hidden")
-  $("#slide3").addClass("hidden")
-  $("#slide4").addClass("hidden")
-  $("#slide5").addClass("hidden")
+    showSlide(1);
+    $("#1button1").addClass("currentdot")
+    $("#1button2").removeClass("currentdot")
+    $("#1button3").removeClass("currentdot")
+    $("#1button4").removeClass("currentdot")
+    $("#1button5").removeClass("currentdot")
 });
 
 $("#1button2").click(function() {
-  $("#slide1").addClass("hidden")
-  $("#slide2").removeClass("hidden")
-  $("#slide3").addClass("hidden")
-  $("#slide4").addClass("hidden")
-  $("#slide5").addClass("hidden")
+    showSlide(2);
+    $("#1button1").removeClass("currentdot")
+    $("#1button2").addClass("currentdot")
+    $("#1button3").removeClass("currentdot")
+    $("#1button4").removeClass("currentdot")
+    $("#1button5").removeClass("currentdot")
 });
 
 $("#1button3").click(function() {
-  $("#slide1").addClass("hidden")
-  $("#slide2").addClass("hidden")
-  $("#slide3").removeClass("hidden")
-  $("#slide4").addClass("hidden")
-  $("#slide5").addClass("hidden")
+    showSlide(3);
+    $("#1button1").removeClass("currentdot")
+    $("#1button2").removeClass("currentdot")
+    $("#1button3").addClass("currentdot")
+    $("#1button4").removeClass("currentdot")
+    $("#1button5").removeClass("currentdot")
 });
 
 $("#1button4").click(function() {
-  $("#slide1").addClass("hidden")
-  $("#slide2").addClass("hidden")
-  $("#slide3").addClass("hidden")
-  $("#slide4").removeClass("hidden")
-  $("#slide5").addClass("hidden")
+    showSlide(4);
+    $("#1button1").removeClass("currentdot")
+    $("#1button2").removeClass("currentdot")
+    $("#1button3").removeClass("currentdot")
+    $("#1button4").addClass("currentdot")
+    $("#1button5").removeClass("currentdot")
 });
 
 $("#1button5").click(function() {
-  $("#slide1").addClass("hidden")
-  $("#slide2").addClass("hidden")
-  $("#slide3").addClass("hidden")
-  $("#slide4").addClass("hidden")
-  $("#slide5").removeClass("hidden")
+    showSlide(5);
+    $("#1button1").removeClass("currentdot")
+    $("#1button2").removeClass("currentdot")
+    $("#1button3").removeClass("currentdot")
+    $("#1button4").removeClass("currentdot")
+    $("#1button5").addClass("currentdot")
 });
 
 $("#next-image").click(function() {
