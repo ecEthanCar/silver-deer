@@ -993,7 +993,7 @@ We resized the social media icons in the footer so that they were slightly bigge
   **TODO: This is the only thing we need to finish writing.**
   **Let's first identify what our 3 strengths will be before we write so that we all agree.**
   Strength 1: Course information is better organized through the tabs
-  Strength 2:
+  Strength 2: More professional theme
   Strength 3:
 
 > 2. Tell us what you, as a team, learned while working on this project.
