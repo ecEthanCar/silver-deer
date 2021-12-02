@@ -596,7 +596,15 @@ h2.subtitle {
 }
 
 @media (max-width: 650px) {
-  .imgbutton .Bimgbutton .Cimgbutton {
+  .imgbutton {
+    display: none;
+  }
+
+  .Bimgbutton {
+    display: none;
+  }
+
+  .Cimgbutton {
     display: none;
   }
 
