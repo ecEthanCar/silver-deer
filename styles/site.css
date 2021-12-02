@@ -716,7 +716,13 @@ footer ul li {
     text-align: center;
     line-height: 15px;
     font-size: 11px;
-    width: 15%;
+    width: 20%;
+}
+
+.sources {
+    text-decoration: none;
+    font-style: normal;
+    color: white;
 }
 
 .social{
