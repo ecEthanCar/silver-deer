@@ -457,7 +457,7 @@ Cons: we may not have a page that has that may subtitles, the sidebar might have
 1. **Home Page**
 ![mobile_layout_home](mobile-home.jpg)
 Explanation:
-The logo and navigation bar will still appear in the mobile display. However, the big image right below will not be displayed as it will take up too much space. The home page will instead begin with the title of the Civic Ecology Lab and then feature the introduction text below. The video and list of expectations will then follow underneath so that it can each part can be viewed as the user scrolls.
+The logo and navigation bar will still appear in the mobile display. However, the big image right below will not be displayed as it will take up too much space. The home page will instead begin with the title of the Civic Ecology Lab and then feature the introduction text below. The video and list of expectations will then follow underneath so that it can each part can be viewed as the user scrolls.  
 
 
 2. **Course Page**
@@ -612,7 +612,6 @@ CSS
 - #button-faq: focus - font-color stays darker when clicked
 - .accessible-hidden: hides element
 
-
 Javascript
 ```
 When #button-about is clicked,
@@ -632,7 +631,7 @@ remove .accessible-hidden from #tab-faq,
 add .accessible-hidden to #tab-about, #tab-content, #tab-instructors, #tab-outcome.
 ```
 
-> In thel last milestone, I also added the hover interacity for the course expectation. The reason is becuase that there are many expectations, and users will need to scroll for multiple times to see them all. I hope you show them all interacitity keywords at first before going to the detailed explanatin of them. Also, since some of them are self-explanatory, there is no need to show the explanations in the first place. If it turns out to not work during the user testing, then I will go back to the design the original website.  
+> In the last milestone, I also added the hover interactivity for the course expectation. The reason is because that there are many expectations, and users will need to scroll for multiple times to see them all. I hope you show them all interactivity keywords at first before going to the detailed explanatin of them. Also, since some of them are self-explanatory, there is no need to show the explanations in the first place. If it turns out to not work during the user testing, then I will go back to the design the original website.  
 
 ## Client Feedback & Minutes (Milestone 2)
 > You should meet with your client again to obtain feedback on your design.
@@ -681,7 +680,7 @@ Gallery
 
 **Mobile Screenshots:**  
 
-Home Page
+Home Page  
 ![Mobile Home Page](mobile-home-ss.jpeg)  
 
 Courses Page
@@ -696,7 +695,7 @@ Gallery Page
 
 **Desktop Screenshots:**  
 
-Home Page
+Home Page  
 ![Desktop Home Page](desktop-home-ss.jpeg)  
 
 Courses Page
@@ -718,9 +717,9 @@ Gallery Page
 
 1. You are looking to engage with the Civic Ecology Lab in other ways than the website. Perhaps they have a Facebook group or an Instagram account where you can stay updated with new information. Find out if this kind of resource is available on the website and navigate to these social medias. Take note if additional pictures and content was present on these social medias.
 
-2. You wish to take a course that addresses social/environmental problems based on research. Does the civic ecology lab meet this expectation?
+2. You wish to take a course that addresses social/environmental problems based on research. Find more information about this and if there is a course, take note of what the course offers.
 
-3. You are curious about other people who have taken or are taking the online courses provided by the Civic Ecology Lab, as these online courses are offered globally. Where might you look to get more details about where people come from and what other people have posted for their weekly projects? What information do you gain from this?
+3. You are curious about other people who have taken or are taking the online courses provided by the Civic Ecology Lab, as these online courses are offered globally. Get more details about where people come from and what other people have posted for their weekly projects.
 
 
 ### User 1 - Testing Notes (Final Submission)
@@ -764,9 +763,9 @@ Yes. She studies bio and have taken online courses, she is actively seeking reso
 
 1. You are looking to engage with the Civic Ecology Lab in other ways than the website. Perhaps they have a Facebook group or an Instagram account where you can stay updated with new information. Find out if this kind of resource is available on the website and navigate to these social medias. Take note if additional pictures and content was present on these social medias.
 
-2. You wish to take a course that addresses social/environmental problems based on research. Does the civic ecology lab meet this expectation?
+2. You wish to take a course that addresses social/environmental problems based on research. Find more information about this and if there is a course, take note of what the course offers.
 
-3. You are curious about other people who have taken or are taking the online courses provided by the Civic Ecology Lab, as these online courses are offered globally. Where might you look to get more details about where people come from and what other people have posted for their weekly projects? What information do you gain from this?
+3. You are curious about other people who have taken or are taking the online courses provided by the Civic Ecology Lab, as these online courses are offered globally. Get more details about where people come from and what other people have posted for their weekly projects.
 
 - **Did you evaluate the desktop or mobile design?**
   - Pick one: desktop
@@ -818,9 +817,10 @@ Yes
 
 1. You are looking to engage with the Civic Ecology Lab in other ways than the website. Perhaps they have a Facebook group or an Instagram account where you can stay updated with new information. Find out if this kind of resource is available on the website and navigate to these social medias. Take note if additional pictures and content was present on these social medias.
 
-2. You wish to take a course that addresses social/environmental problems based on research. Does the civic ecology lab meet this expectation?
+2. You wish to take a course that addresses social/environmental problems based on research. Find more information about this and if there is a course, take note of what the course offers.
 
-3. You are curious about other people who have taken or are taking the online courses provided by the Civic Ecology Lab, as these online courses are offered globally. Where might you look to get more details about where people come from and what other people have posted for their weekly projects? What information do you gain from this?
+3. You are curious about other people who have taken or are taking the online courses provided by the Civic Ecology Lab, as these online courses are offered globally. Get more details about where people come from and what other people have posted for their weekly projects.
+
 - **Did you evaluate the desktop or mobile design?**
   - desktop
 - **How did the user do? Did they meet your expectation?**
@@ -855,7 +855,8 @@ Task 1: You are looking to engage with the Civic Ecology Lab in other ways than 
 - Clicks on facebook logo and new tab opens
 - Sees nature videos and more updates about the courses and even additional information like recommended books
 
-Task 2: You wish to take a course that addresses social/environmental problems based on research. Does the civic ecology lab meet this expectation?
+
+Task 2: You wish to take a course that addresses social/environmental problems based on research. Find more information about this and if there is a course, take note of what the course offers.
 
 - Starts at home page
 - Navigates to courses page
@@ -864,8 +865,8 @@ Task 2: You wish to take a course that addresses social/environmental problems b
 - Clicks through the different tabs and gets more information about course, like instructors and content
 - Yes, civic ecology lab meets expectation and quickly found course
 
-Task 3: You are curious about other people who have taken or are taking the online courses provided by the Civic Ecology Lab, as these online courses are offered globally. Where might you look to get more details about where people come from and what other people have posted for their weekly projects? What information do you gain from this?
-- Start at home page
+Task 3: You are curious about other people who have taken or are taking the online courses provided by the Civic Ecology Lab, as these online courses are offered globally. Get more details about where people come from and what other people have posted for their weekly projects.- Start at home page
+
 - Since this is about other people who have taken the course, navigates to courses page to see if there is a section about the people who took the course
 - None of the tabs seem to mention participants
 - Clicks on gallery page instead since it could showcase students
@@ -904,10 +905,11 @@ Task 1: You are looking to engage with the Civic Ecology Lab in other ways than 
 - **Re-design choices**
   - Possibly enlarge the icons so that they are more visible
 - **Additional Notes**
-  - Overall, social media search was a success and user was satisfied with the design of it
+  - Overall, social media search was a success and user was satisfied with the design of it  
 
 
-  Task 2: You wish to take a course that addresses social/environmental problems based on research. Does the civic ecology lab meet this expectation?
+
+2. You wish to take a course that addresses social/environmental problems based on research. Find more information about this and if there is a course, take note of what the course offers.
   - **Did you evaluate the desktop or mobile design?**
     - Desktop
   - **How did the user do? Did they meet your expectation?**
@@ -923,8 +925,8 @@ Task 1: You are looking to engage with the Civic Ecology Lab in other ways than 
     - According to user, blue underline makes the course page less professional
 
 
-Task 3: You are curious about other people who have taken or are taking the online courses provided by the Civic Ecology Lab, as these online courses are offered globally. Where might you look to get more details about where people come from and what other people have posted for their weekly projects? What information do you gain from this?
 
+Task 3: You are curious about other people who have taken or are taking the online courses provided by the Civic Ecology Lab, as these online courses are offered globally. Get more details about where people come from and what other people have posted for their weekly projects.
 - **Did you evaluate the desktop or mobile design?**
   - Desktop
 - **How did the user do? Did they meet your expectation?**
