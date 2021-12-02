@@ -327,6 +327,7 @@ main{
   align-items: center;
   margin-top: 3%;
 }
+
 @media (max-width:1200px){
 
   #coursepic{
@@ -518,21 +519,18 @@ h2.subtitle {
 }
 
 .indexslides {
-  /* width: 70%;
-  margin-left: 15%;
-  margin-right: 15%; */
-  margin-left: 150px;
+  text-align: center;
   margin-bottom: 5px;
 }
 
 .Bindexslides {
   margin-bottom: 5px;
-  margin-left: 110px;
+  text-align: center;
 }
 
 .Cindexslides {
   margin-bottom: 5px;
-  margin-left: 120px;
+  text-align: center;
 }
 
 .slides {
@@ -578,6 +576,7 @@ h2.subtitle {
   border-style: solid;
   border-color: #73AD21;
   border-radius: 10px;
+  font-size: 18px;
 }
 
 .imgbutton {
@@ -623,8 +622,16 @@ h2.subtitle {
 
 .carouselhead {
   margin-top: 30px;
-  margin: 0px auto;
+  margin-bottom: 10px;
   text-align: center;
+}
+
+.carouselheadtop {
+  margin-top: 30px;
+  margin-bottom: 10px;
+  text-align: center;
+  background-color: #BACC81;
+  padding: 20px;
 }
 
 .carouselparas {
@@ -649,6 +656,7 @@ h2.subtitle {
   }
 
   .arrowbutton{
+    font-size: 20px;
     width: 150px;
     height: 40px;
   }
@@ -719,7 +727,13 @@ footer ul li {
     text-align: center;
     line-height: 15px;
     font-size: 11px;
-    width: 15%;
+    width: 20%;
+}
+
+.sources {
+    text-decoration: none;
+    font-style: normal;
+    color: white;
 }
 
 .social{
