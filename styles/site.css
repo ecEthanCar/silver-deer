@@ -594,6 +594,7 @@ h2.subtitle {
   border-style: solid;
   border-color: #73AD21;
   border-radius: 10px;
+  cursor: pointer;
 }
 
 .Bimgbutton {
@@ -606,6 +607,7 @@ h2.subtitle {
   border-style: solid;
   border-color: #73AD21;
   border-radius: 10px;
+  cursor: pointer;
 }
 
 .Cimgbutton {
@@ -618,6 +620,7 @@ h2.subtitle {
   border-style: solid;
   border-color: #73AD21;
   border-radius: 10px;
+  cursor: pointer;
 }
 
 .dark {
