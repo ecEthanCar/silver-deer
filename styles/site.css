@@ -69,6 +69,13 @@ nav a:hover {
     color: white;
     font-weight: bold;
 }
+
+@media (max-width:825px){
+#top{
+  height: 70px;
+}
+}
+
 @media (max-width:1120px){
     nav{
       font-size: 20px;
@@ -82,6 +89,7 @@ nav a:hover {
       position: relative;
       top: 8px;
     }
+
 }
 /* Navigation Bar end */
 
@@ -113,6 +121,7 @@ main.home{
 
 
 .expectation{
+  cursor: pointer;
   text-align:center;
   border-style: ridge;
   border-color: #BACC81;
@@ -127,6 +136,7 @@ main.home{
 }
 
 .description-absolute{
+  cursor: pointer;
   border-radius: 8px;
   position: absolute;
   border: 3px solid #73AD21;
@@ -140,10 +150,19 @@ main.home{
   color: white;
 }
 
-iframe {
+.iframe {
     display: block;
     margin: 0 auto;
     margin-top: 50px;
+}
+
+main{
+  min-width: 400px;
+}
+@media (max-width:870px){
+  .expectation{
+    height: 80px;
+  }
 }
 /* home page */
 
@@ -384,6 +403,10 @@ iframe {
 
 /* Helen Lim start */
 /* resource page */
+main.block{
+  min-width: 437px;
+}
+
 .research-background {
     background-color: #e3ecde;
 }
@@ -495,21 +518,18 @@ h2.subtitle {
 }
 
 .indexslides {
-  /* width: 70%;
-  margin-left: 15%;
-  margin-right: 15%; */
-  margin-left: 150px;
+  text-align: center;
   margin-bottom: 5px;
 }
 
 .Bindexslides {
   margin-bottom: 5px;
-  margin-left: 110px;
+  text-align: center;
 }
 
 .Cindexslides {
   margin-bottom: 5px;
-  margin-left: 120px;
+  text-align: center;
 }
 
 .slides {
