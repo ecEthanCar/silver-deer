@@ -1,61 +1,57 @@
 console.log("start")
 
 
-$("#equity").hover(function() {
-  // remove class hidden from #equity-description when the mouse leaves the element.
-  console.log("hi")
-  $("#equity-description").removeClass("hidden")
-}, function() {
-  // add class hidden to #equity-description when the mouse leaves the element.
-  $("#equity-description").addClass("hidden")
+$("#equity").click(function() {
+   $("#equity-description").removeClass("hidden")
+});
+
+$("#equity-description").click(function() {
+   $("#equity-description").addClass("hidden")
 });
 
 
-$("#solution-oriented").hover(function() {
-  // remove class hidden when the mouse leaves the element.
-  console.log("hi")
-  $("#solution-description").removeClass("hidden")
-}, function() {
-  // add class hidden when the mouse leaves the element.
-  $("#solution-description").addClass("hidden")
+
+$("#solution-oriented").click(function() {
+   $("#solution-description").removeClass("hidden")
+});
+
+$("#solution-description").click(function() {
+   $("#solution-description").addClass("hidden")
 });
 
 
-$("#research-based").hover(function() {
-  // remove class hidden when the mouse leaves the element.
-  console.log("hi")
-  $("#research-description").removeClass("hidden")
-}, function() {
-  // add class hidden when the mouse leaves the element.
-  $("#research-description").addClass("hidden")
+
+$("#research-based").click(function() {
+   $("#research-description").removeClass("hidden")
+});
+
+$("#research-description").click(function() {
+   $("#research-description").addClass("hidden")
 });
 
 
-$("#social-learning").hover(function() {
-  // remove class hidden when the mouse leaves the element.
-  console.log("hi")
-  $("#social-description").removeClass("hidden")
-}, function() {
-  // add class hidden when the mouse leaves the element.
-  $("#social-description").addClass("hidden")
+$("#social-learning").click(function() {
+   $("#social-description").removeClass("hidden")
+});
+
+$("#social-description").click(function() {
+   $("#social-description").addClass("hidden")
 });
 
 
-$("#network").hover(function() {
-  // remove class hidden when the mouse leaves the element.
-  console.log("hi")
-  $("#network-description").removeClass("hidden")
-}, function() {
-  // add class hidden when the mouse leaves the element.
-  $("#network-description").addClass("hidden")
+$("#network").click(function() {
+   $("#network-description").removeClass("hidden")
+});
+
+$("#network-description").click(function() {
+   $("#network-description").addClass("hidden")
 });
 
 
-$("#instructors").hover(function() {
-  // remove class hidden when the mouse leaves the element.
-  console.log("hi")
-  $("#instructors-description").removeClass("hidden")
-}, function() {
-  // add class hidden when the mouse leaves the element.
-  $("#instructors-description").addClass("hidden")
+$("#instructors").click(function() {
+   $("#instructors-description").removeClass("hidden")
+});
+
+$("#instructors-description").click(function() {
+   $("#instructors-description").addClass("hidden")
 });
