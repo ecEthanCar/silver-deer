@@ -518,21 +518,18 @@ h2.subtitle {
 }
 
 .indexslides {
-  /* width: 70%;
-  margin-left: 15%;
-  margin-right: 15%; */
-  margin-left: 150px;
+  text-align: center;
   margin-bottom: 5px;
 }
 
 .Bindexslides {
   margin-bottom: 5px;
-  margin-left: 110px;
+  text-align: center;
 }
 
 .Cindexslides {
   margin-bottom: 5px;
-  margin-left: 120px;
+  text-align: center;
 }
 
 .slides {
