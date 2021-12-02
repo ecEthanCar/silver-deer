@@ -5,48 +5,43 @@ console.log("JavaScript loaded!!!");
 // WEEK1
 
 $("#1button1").click(function() {
-    showSlide(1);
-    $("#1button1").addClass("currentdot")
-    $("#1button2").removeClass("currentdot")
-    $("#1button3").removeClass("currentdot")
-    $("#1button4").removeClass("currentdot")
-    $("#1button5").removeClass("currentdot")
+  $("#slide1").removeClass("hidden")
+  $("#slide2").addClass("hidden")
+  $("#slide3").addClass("hidden")
+  $("#slide4").addClass("hidden")
+  $("#slide5").addClass("hidden")
 });
 
 $("#1button2").click(function() {
-    showSlide(2);
-    $("#1button1").removeClass("currentdot")
-    $("#1button2").addClass("currentdot")
-    $("#1button3").removeClass("currentdot")
-    $("#1button4").removeClass("currentdot")
-    $("#1button5").removeClass("currentdot")
+  $("#slide1").addClass("hidden")
+  $("#slide2").removeClass("hidden")
+  $("#slide3").addClass("hidden")
+  $("#slide4").addClass("hidden")
+  $("#slide5").addClass("hidden")
 });
 
 $("#1button3").click(function() {
-    showSlide(3);
-    $("#1button1").removeClass("currentdot")
-    $("#1button2").removeClass("currentdot")
-    $("#1button3").addClass("currentdot")
-    $("#1button4").removeClass("currentdot")
-    $("#1button5").removeClass("currentdot")
+  $("#slide1").addClass("hidden")
+  $("#slide2").addClass("hidden")
+  $("#slide3").removeClass("hidden")
+  $("#slide4").addClass("hidden")
+  $("#slide5").addClass("hidden")
 });
 
 $("#1button4").click(function() {
-    showSlide(4);
-    $("#1button1").removeClass("currentdot")
-    $("#1button2").removeClass("currentdot")
-    $("#1button3").removeClass("currentdot")
-    $("#1button4").addClass("currentdot")
-    $("#1button5").removeClass("currentdot")
+  $("#slide1").addClass("hidden")
+  $("#slide2").addClass("hidden")
+  $("#slide3").addClass("hidden")
+  $("#slide4").removeClass("hidden")
+  $("#slide5").addClass("hidden")
 });
 
 $("#1button5").click(function() {
-    showSlide(5);
-    $("#1button1").removeClass("currentdot")
-    $("#1button2").removeClass("currentdot")
-    $("#1button3").removeClass("currentdot")
-    $("#1button4").removeClass("currentdot")
-    $("#1button5").addClass("currentdot")
+  $("#slide1").addClass("hidden")
+  $("#slide2").addClass("hidden")
+  $("#slide3").addClass("hidden")
+  $("#slide4").addClass("hidden")
+  $("#slide5").removeClass("hidden")
 });
 
 $("#next-image").click(function() {
@@ -96,14 +91,17 @@ function showSlide(num) {
 //Week2
 
 $("#2button1").click(function() {
-  $("#Bslide1").removeClass("hidden")
-  $("#Bslide2").addClass("hidden")
-  $("#Bslide3").addClass("hidden")
-  $("#Bslide4").addClass("hidden")
-  $("#Bslide5").addClass("hidden")
-  $("#Bslide6").addClass("hidden")
-  $("#Bslide7").addClass("hidden")
-  $("#Bslide8").addClass("hidden")
+  showSlide(1)
+  $("#2button1").addClass("currentdot")
+  $("#2button1").removeClass("currentdot")
+
+  // $("#Bslide2").addClass("hidden")
+  // $("#Bslide3").addClass("hidden")
+  // $("#Bslide4").addClass("hidden")
+  // $("#Bslide5").addClass("hidden")
+  // $("#Bslide6").addClass("hidden")
+  // $("#Bslide7").addClass("hidden")
+  // $("#Bslide8").addClass("hidden")
 });
 
 $("#2button2").click(function() {
