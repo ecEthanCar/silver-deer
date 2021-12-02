@@ -980,7 +980,8 @@ We resized the social media icons in the footer so that they were slightly bigge
 ## Final Notes to the Graders (Final Submission)
 > 1. Give us three specific strengths of your site that sets it apart from the previous website of the client (if applicable) and/or from other websites. Think of this as your chance to argue for the things you did really well.
 
-TODO
+  **TODO: This is the only thing we need to finish writing.**
+  **Let's first identify what our 3 strengths will be before we write so that we all agree.**
   Strength 1: Course information is better organized through the tabs
   Strength 2:
   Strength 3:
