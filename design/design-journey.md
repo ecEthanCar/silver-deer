@@ -891,7 +891,7 @@ TODO...
 ## Changes Based on User Testing (Final Submission)
 > What changes did you make to your design based on user testing?
 
-TODO
+1. delete the video, based on client's need
 
 
 ## Final Notes to the Graders (Final Submission)
