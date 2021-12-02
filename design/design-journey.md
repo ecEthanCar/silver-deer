@@ -1028,21 +1028,21 @@ We resized the social media icons in the footer so that they were slightly bigge
 ## Final Notes to the Graders (Final Submission)
 > 1. Give us three specific strengths of your site that sets it apart from the previous website of the client (if applicable) and/or from other websites. Think of this as your chance to argue for the things you did really well.
 
-  **Let's first identify what our 3 strengths will be before we write so that we all agree.**
-  Strength 1:
-  - choose a more appropriate interavtivity feature through iteration:
-    - Course information is better organized through the tabs, change hover to click interactivity to get smoother experience abnd show one expectation at a time.
-    - we followed the interactivity design principle learned in class and make the part visible and functional
+  Strength 1
+  - We chose more appropriate interactivities through iteration
+    - The course information is better organized through the tabs
+    - We changed the hover interactivity to click interactivity instead to get a smoother experience as there was some lag before
+    - We followed the interactivity design principle learned in class and made the design visible and functional
 
-
-  Strength 2:
+  Strength 2
   - More professional theme and meets clients needs
-    - we discussed with our clients with all the changes we are gonna make before coding.
+    - We discussed with our clients all of the changes we are going to make before coding
+    - The client approved of the color theme and was satisfied with the redesigned site in terms of its professionalism
 
-  Strength 3:
-  - more structured contents with accessibility
-    - we used the design principle learned in class, avoiding places with big chunk of texts and making contents of different levels consistent in style
-    - we cited all images and provides alt
+  Strength 3
+  - More structured contents with accessibility
+    - We used the design principle learned in class, such as replacing big chunk of texts and making contents of different levels consistent in style
+    - We cited all images and provided alt
 
 > 2. Tell us what you, as a team, learned while working on this project.
 
