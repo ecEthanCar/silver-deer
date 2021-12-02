@@ -681,16 +681,13 @@ Gallery
 
 **Mobile Screenshots:**
 Home Page
-![Mobile Home Page](mobile-home-ss.jpeg)
-
+![Mobile Home Page](mobile-home-ss.jpeg)  
 
 Courses Page
-![Mobile Courses Page](mobile-courses-ss.jpeg)
-
+![Mobile Courses Page](mobile-courses-ss.jpeg)  
 
 Resources Page
-![Mobile Resources Page](mobile-resources-ss.jpeg)
-
+![Mobile Resources Page](mobile-resources-ss.jpeg)  
 
 Gallery Page
 ![Mobile Gallery Page](mobile-gallery-ss.jpeg)
@@ -698,16 +695,13 @@ Gallery Page
 
 **Desktop Screenshots:**
 Home Page
-![Desktop Home Page](desktop-home-ss.jpeg)
-
+![Desktop Home Page](desktop-home-ss.jpeg)  
 
 Courses Page
-![Desktop Courses Page](desktop-courses-ss.jpeg)
-
+![Desktop Courses Page](desktop-courses-ss.jpeg)  
 
 Resources Page
-![Desktop Resources Page](desktop-resources-ss.jpeg)
-
+![Desktop Resources Page](desktop-resources-ss.jpeg)  
 
 Gallery Page
 ![Desktop Gallery Page](desktop-gallery-ss.jpeg)
