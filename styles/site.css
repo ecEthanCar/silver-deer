@@ -233,7 +233,6 @@ iframe {
   margin:5%;
   padding:2%;
   width: 35%;
-
 }
 .aboutbullets h3{
   color: grey;
@@ -310,12 +309,9 @@ iframe {
   margin-top: 3%;
 }
 @media (max-width:1200px){
-  .upper{
-  flex-direction: column;
-  }
+
   #coursepic{
-    margin-top: 10%;
-    padding-left: 10%;
+    padding-left: 7%;
   }
   .left a{
     padding: 2%;
@@ -332,7 +328,7 @@ iframe {
     padding: 0;
     margin:0;
     margin-top: 3%;
-    width:80%;
+    width:100%;
   }
   #button-about, #button-content, #button-instructors, #button-outcome, #button-faq{
     padding: 2%;
@@ -350,19 +346,38 @@ iframe {
     font-size: 120%;
     font-weight: bold;
   }
-}
-@media (max-width:700px){
-  #coursepic{
-    margin-top: 15%;
+  .aboutinfo{
+    width:100%;
   }
+}
+@media (max-width:1000px){
+  #coursepic{
+    display: none;
+  }
+  .upper{
+    padding-bottom: 12%;
+  }
+
   .coursepage{
     font-size: 90%;
+  }
+
+}
+@media (max-width:700px){
+  .coursepage{
+    font-size: 80%;
   }
   .coursepage h1{
     margin:0;
   }
   .coursepage p{
     line-height: 1.5em;
+  }
+  .upper{
+    padding-bottom: 17%;
+  }
+  .coursepage h1{
+    font-size: 140%;
   }
 }
 /* Xinyue Shi end */
