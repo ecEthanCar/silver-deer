@@ -944,7 +944,14 @@ Task 3: You are curious about other people who have taken or are taking the onli
 ### User 4 - Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test. Place your notes here.
 
-TODO
+Task 1: I task her with finding the social media links on the website providing the given context.
+- Her Response: She goes to the gallery page because it might have content related to social media. Goes back to Home Screen. Hovers over Social Learning. The text is too small. Goes all the way to the bottom and finds links to the social media after around 2 minutes of searching. And find a book about civic ecology on the Facebook link. Go to Instagram and find a bunch of visually appealing posts and other sites that show past courses right in front of the site, unlike our site. Then go to Twitter and find the newest post (which was a while back). The last link is in Chinese and cannot be read, but the posts are also fairly old. Comments on the inconsistency with the.
+
+Task 2:  I task her with finding potential courses to enroll in on the website providing the given context.
+- Her Response: Clicks on the courses tab. Comments on the possible need for a search bar. Does not have enough courses. A possible list would be helpful. Clicks on the various other tabs on the site. Goes to the frequently asked questions. Find the course content tab. Find both pieces of information useful. Goes to the instructor's tab, comments on the usefulness of the links on the bottom of each instructor, but does think that the names of the links could be more specific to the content they take you to. Thinks that the words under what you will learn are links but are not.
+
+Task 3:  I task her with finding any infroamtion relavant to past student exprience with the Civic Ecology Lab on the website providing the given context. 
+- Her Response: She goes to the gallery, she thinks that the personal experiences of students can be found there. Schools to the last carousel. Finds a basket full of figures and vegetables she finds interesting. Goes to the top gallery and clicks the next image and finds the osprey image. Stays at the top and finds other images of a bird. Does not click any of the dot buttons nor does she look at the middle gallery.
 
 
 ### User 4 (Final Submission)
@@ -952,33 +959,62 @@ TODO
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-TODO
+She lives in the Bahamas, and has recently finished an online course with the civic ecology lab, specifically a course called Nature Education. She loves bird watching and being in nature. She has become a natural trust organizer for the lab recently started a recycling project in the Bahamas and hopes to increase its funds and revenue for aiding/engaging with nearby schools.
 
 
 2. Does the user belong to your audience of the site? (Yes / No)
 > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-TODO
+My user definitely belongs in my audience, since she once did work with the Civic Ecology Lab itself and even continued to pursue a career related to the topics the lab focuses on.
 
 
 ### User 4 Results (Final Submission)
 > Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make **for EACH task**. You can also add any additional comments.
 
-Task: TODO: copy task here
+Task: 1
 - **Did you evaluate the desktop or mobile design?**
-  - Pick one: desktop/mobile
-- **How did the user do? Did they meet your expectation?**
-  - TODO
-- **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - TODO
+  - Pick one: desktop
+- **How did the user do? Did they meet your expectations?**
+  - Yes, they did meet my expectations.
+- **User’s reaction/feedback to the design** (e.g., specific problems or issues found in the tasks)
+  - She noted that the text on the homepage was too small. The buttons for the social media links were also too small and only at the bottom, making them hard to find.
 - **Your reflections about the user’s performance to the task**
-  - TODO
+  - She did eventually find the link, but not fast enough in my opinion. I was a little surprised to find that she did not easily find the social media logo links, and instead spent a solid 15 seconds skimming all of the different navigation tabs at the top of the homepage.
 - **Re-design choices**
-  - TODO
+  - Move the social media buttons to the top of the page instead of the bottom, and increase their size.
+  - Increase the font size of body text.
 - **Additional Notes**
-  - TODO: Justify your decisions; additional notes.
+  - I definitely agree with the user’s comments on the logo’s location and font sizes. They should be more visible if we want our audience to see them.
 
-TODO...
+Task: 2
+- **Did you evaluate the desktop or mobile design?**
+  - Pick one: desktop
+- **How did the user do? Did they meet your expectations?**
+  - Yes, the user did meet my expectations.
+- **User’s reaction/feedback to the design** (e.g., specific problems or issues found in the tasks)
+  - She mentions the need for a search bar in the courses section. And also comments on the usefulness of the links on the bottom of each instructor, but thinks that the names of the links leading to each professor’s profile could be more specific to the content they take you to.
+- **Your reflections about the user’s performance to the task**
+  -It took her a bit of time to find the information she was tasked with looking at, most likely because the naming of the different in-page tabs did not have obvious titles.
+- **Re-design choices**
+  - Add colored borders and backgrounds to the tabs in courses.
+  - Change the font coloring and background color of the “What You Will Learn” list so that they look less like links.
+- **Additional Notes**
+  - The “What You Will Learn” list could easily be mistaken as a list of links in its current design as my user pointed out.
+  - The tabs on the courses site should be better highlighted for a better user experience.
+
+Task: 3
+- **Did you evaluate the desktop or mobile design?**
+  - Pick one: desktop
+- **How did the user do? Did they meet your expectations?**
+  - Yes, the user did meet my expectations.
+- **User’s reaction/feedback to the design** (e.g., specific problems or issues found in the tasks)
+  - She mentions that none of the tabs indicate if they have content related to past student experiences with the lab.
+- **Your reflections about the user’s performance to the task**
+  - She found the gallery and was able to use the buttons relatively quickly, however she did skip over the middle carousel completely.
+- **Re-design choices**
+  - Add a light-green background behind the middle carousel.
+- **Additional Notes**
+  - By having alternative colors between white and light green behind each carousel, users who visit the gallery site are less likely to gloss over any of the carousels on the page.
 
 
 ## Changes Based on User Testing (Final Submission)
