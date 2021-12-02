@@ -680,11 +680,37 @@ Gallery
 > Use the FireFox screenshot feature to take screenshots of the entire page.
 
 **Mobile Screenshots:**
-TODO
+Home Page
+![Mobile Home Page](mobile-home-ss.jpeg)
+
+
+Courses Page
+![Mobile Courses Page](mobile-courses-ss.jpeg)
+
+
+Resources Page
+![Mobile Resources Page](mobile-resources-ss.jpeg)
+
+
+Gallery Page
+![Mobile Gallery Page](mobile-gallery-ss.jpeg)
 
 
 **Desktop Screenshots:**
-TODO
+Home Page
+![Desktop Home Page](desktop-home-ss.jpeg)
+
+
+Courses Page
+![Desktop Courses Page](desktop-courses-ss.jpeg)
+
+
+Resources Page
+![Desktop Resources Page](desktop-resources-ss.jpeg)
+
+
+Gallery Page
+![Desktop Gallery Page](desktop-gallery-ss.jpeg)
 
 
 ## User Testing (Final Submission)
