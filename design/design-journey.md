@@ -950,7 +950,7 @@ Task 1: I task her with finding the social media links on the website providing 
 Task 2:  I task her with finding potential courses to enroll in on the website providing the given context.
 - Her Response: Clicks on the courses tab. Comments on the possible need for a search bar. Does not have enough courses. A possible list would be helpful. Clicks on the various other tabs on the site. Goes to the frequently asked questions. Find the course content tab. Find both pieces of information useful. Goes to the instructor's tab, comments on the usefulness of the links on the bottom of each instructor, but does think that the names of the links could be more specific to the content they take you to. Thinks that the words under what you will learn are links but are not.
 
-Task 3:  I task her with finding any infroamtion relavant to past student exprience with the Civic Ecology Lab on the website providing the given context. 
+Task 3:  I task her with finding any infroamtion relavant to past student exprience with the Civic Ecology Lab on the website providing the given context.
 - Her Response: She goes to the gallery, she thinks that the personal experiences of students can be found there. Schools to the last carousel. Finds a basket full of figures and vegetables she finds interesting. Goes to the top gallery and clicks the next image and finds the osprey image. Stays at the top and finds other images of a bird. Does not click any of the dot buttons nor does she look at the middle gallery.
 
 
@@ -1026,11 +1026,21 @@ We resized the social media icons in the footer so that they were slightly bigge
 ## Final Notes to the Graders (Final Submission)
 > 1. Give us three specific strengths of your site that sets it apart from the previous website of the client (if applicable) and/or from other websites. Think of this as your chance to argue for the things you did really well.
 
-  **TODO: This is the only thing we need to finish writing.**
   **Let's first identify what our 3 strengths will be before we write so that we all agree.**
-  Strength 1: Course information is better organized through the tabs
-  Strength 2: More professional theme
+  Strength 1:
+  - choose a more appropriate interavtivity feature through iteration:
+    - Course information is better organized through the tabs, change hover to click interactivity to get smoother experience abnd show one expectation at a time.
+    - we followed the interactivity design principle learned in class and make the part visible and functional
+
+
+  Strength 2:
+  - More professional theme and meets clients needs
+    - we discussed with our clients with all the changes we are gonna make before coding.
+
   Strength 3:
+  - more structured contents with accessibility
+    - we used the design principle learned in class, avoiding places with big chunk of texts and making contents of different levels consistent in style
+    - we cited all images and provides alt
 
 > 2. Tell us what you, as a team, learned while working on this project.
 
