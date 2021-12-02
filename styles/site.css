@@ -621,9 +621,11 @@ footer {
 
 .footer-button {
     float: right;
+    text-align: right;
+    margin-top: 10px;
     background-color: transparent;
+    width: 5%;
     text-decoration: none;
-    margin: 0 0 0 15px;
 }
 
 .cornell-logo {
