@@ -683,13 +683,13 @@ Gallery
 Home Page  
 ![Mobile Home Page](mobile-home-ss.png)  
 
-Courses Page
+Courses Page  
 ![Mobile Courses Page](mobile-courses-ss.png)  
 
-Resources Page
+Resources Page  
 ![Mobile Resources Page](mobile-resources-ss.png)  
 
-Gallery Page
+Gallery Page  
 ![Mobile Gallery Page](mobile-gallery-ss.png)
 
 
@@ -698,13 +698,13 @@ Gallery Page
 Home Page  
 ![Desktop Home Page](desktop-home-ss.png)  
 
-Courses Page
+Courses Page  
 ![Desktop Courses Page](desktop-courses-ss.png)  
 
-Resources Page
+Resources Page  
 ![Desktop Resources Page](desktop-resources-ss.png)  
 
-Gallery Page
+Gallery Page  
 ![Desktop Gallery Page](desktop-gallery-ss.png)
 
 
