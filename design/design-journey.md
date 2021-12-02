@@ -974,7 +974,7 @@ TODO...
 ## Changes Based on User Testing (Final Submission)
 > What changes did you make to your design based on user testing?
 
-TODO
+We resized the social media icons in the footer so that they were slightly bigger and more visible. The arrow buttons for the carousels in the Gallery page were also centered for the mobile display, as at first they would position to the right. All of the links of the main content on each page were styled so that they appear green instead of blue with the underline.
 
 
 ## Final Notes to the Graders (Final Submission)
@@ -984,8 +984,8 @@ TODO
 
 > 2. Tell us what you, as a team, learned while working on this project.
 
-TODO
+As a team, we learned how to communicate together when working on the project separately so that any work was not lost. We made sure that everyone was doing their part and taught each other Javascript interactivities that another person had not done. We worked through in-person and zoom calls and learned how to effectively utilize the time we had together. Since this was a group code, we established how to write our commit messages so that the rest of the team could quickly catch up on small changes. Throughout the whole process, it was crucial that we communicated all thoughts and concerns to the group and that we worked through each one in agreement.
 
 > 3. Tell us anything else you need us to know for when we're looking at the project.
 
-TODO
+Some of our images were provided by our client so we just made note of that as a comment next to the image in the code, as we could not cite these images according to the citation policy.
